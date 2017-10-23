@@ -23,7 +23,7 @@ Promise.map(urls, function(url){
 }, {concurrency: 1})
 .then(function(pages){
 	pageUrls = [];
-	// Here is where you'll have access to the product page listings
+	// Here is the access to the product page listings
 	pages.forEach(function($){
 		// This code here grabs the url from each listing, and then pushes that url into the pageUrls array
 	  $('.product-small').each(function(index, elem){
@@ -53,8 +53,8 @@ Promise.map(urls, function(url){
 		  productUrl = response[0];
 		  $ = response[1];
 
-		  // This is where you write the specific queries to get all the info you need
-		  // You can even get all the meta data, google how to get a pages meta data from Jquery
+		  // This is where the specific queries are written to get all the info you need
+		  // Can even get all the meta data, google how to get a pages meta data from Jquery
 		  productName = $('h1.entry-title').text();
 		  productPrice = $('p.price > span').text();
 		  productDescription = $('div.short-description').text();
