@@ -1,262 +1,1338 @@
 {
-    "0": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/dana-blue-druzy-earrings/",
-        "productPrice": "$28.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/126-042g_earrings-220x330.jpg"
+    "Raya; Crystal & gold earrings": {
+        "productName": "Raya; Crystal & gold earrings",
+        "productPrice": "$42.99",
+        "productDescription": "\n\tThe Raya Crystal & gold earrings are equal to the cost of 1 week of vocational training for one exploited woman. Every purchase of the Raya Crystal & gold earrings means exploited women and girls can gain the skills they need to establish an independent life after Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/raya-crystal-gold-earrings/",
+        "pageTitle": "Raya; Crystal & gold earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-017s-4-510x763.jpg"
     },
-    "1": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/jessica-gold-druzy-studs/",
-        "productPrice": "$24.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/126-044-2s_earrings-220x330.jpg"
+    "Aubrey; Blue crystal & gold pendant necklace": {
+        "productName": "Aubrey; Blue crystal & gold pendant necklace",
+        "productPrice": "$64.99",
+        "productDescription": "\n\tThe Aubrey Blue crystal & gold pendant necklace is equal to the cost of 1.5 weeks of vocational training for one exploited woman. Every purchase of the Aubrey Blue crystal & gold pendant necklace means exploited women and girls can gain the skills they need to establish an independent life after Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/aubrey-blue-crystal-gold-pendant-necklace/",
+        "pageTitle": "Aubrey; Blue crystal & gold pendant necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_213-016-4-510x763.jpg"
     },
-    "2": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/sutton-leaf-earrings/",
+    "Sawyer; Gold & cotton necklace": {
+        "productName": "Sawyer; Gold & cotton necklace",
+        "productPrice": "$64.99",
+        "productDescription": "\n\tThe Sawyer Gold & cotton necklace is equal to the cost of 2 weeks of counseling. Every purchase of the Sawyer Gold & cotton necklace means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/sawyer-gold-cotton-necklace/",
+        "pageTitle": "Sawyer; Gold & cotton necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_226-029-4-510x763.jpg"
+    },
+    "Mae; White crystal & gold pendant necklace": {
+        "productName": "Mae; White crystal & gold pendant necklace",
+        "productPrice": "$56.99",
+        "productDescription": "\n\tThe Mae White crystal & gold pendant necklace is equal to the cost of 1 day of employment for an exploited woman. Every purchase of the Mae White crystal & gold pendant necklace means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/mae-white-crystal-gold-pendant-necklace/",
+        "pageTitle": "Mae; White crystal & gold pendant necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_213-017-4-510x763.jpg"
+    },
+    "Luna; Stone & gold bracelet": {
+        "productName": "Luna; Stone & gold bracelet",
         "productPrice": "$34.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/113-046g_earrings-220x330.jpg"
+        "productDescription": "\n\tThe Luna Stone & gold bracelet is equal to the cost of 1 week of medical care. Every purchase of the Luna Stone & gold bracelet means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/luna-stone-gold-bracelet/",
+        "pageTitle": "Luna; Stone & gold bracelet - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-bracelet_413-003-4-510x763.jpg"
     },
-    "3": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/zoe-blue-tassel-earrings/",
+    "Lindy; Black & white stone earrings": {
+        "productName": "Lindy; Black & white stone earrings",
+        "productPrice": "$36.99",
+        "productDescription": "\n\tThe Lindy Black & white stone earrings are equal to the cost of 1 week of counseling. Every purchase of the Lindy Black & white stone earrings means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/lindy-black-white-stone-earrings/",
+        "pageTitle": "Lindy; Black & white stone earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-014g-4-510x763.jpg"
+    },
+    "Brynn; Stone & gold necklace": {
+        "productName": "Brynn; Stone & gold necklace",
+        "productPrice": "$49.99",
+        "productDescription": "\n\tThe Brynn Stone & gold necklace is equal to the cost of 1 week of counseling. Every purchase of the Brynn Stone & gold necklace means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/brynn-stone-gold-necklace/",
+        "pageTitle": "Brynn; Stone & gold necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_213-030-4-510x763.jpg"
+    },
+    "Kyle; Stone & gold pendant necklace": {
+        "productName": "Kyle; Stone & gold pendant necklace",
+        "productPrice": "$56.99",
+        "productDescription": "\n\tThe Kyle Stone & gold pendant necklace is equal to the cost of 1.5 weeks of vocational training for one exploited woman. Every purchase of the Kyle Stone & gold pendant necklace means exploited women and girls can gain the skills they need to establish an independent life after Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/kyle-stone-gold-pendant-necklace/",
+        "pageTitle": "Kyle; Stone & gold pendant necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_213-031-4-510x763.jpg"
+    },
+    "Julian; Silver & gold necklace": {
+        "productName": "Julian; Silver & gold necklace",
+        "productPrice": "$64.99",
+        "productDescription": "\n\tThe Julian Silver & gold necklace is equal to the cost of 1 week of schooling for a child of a woman at Starfish Project. Every purchase of the Julian Silver & gold necklace means exploited women can provide physical safety and education for their child. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/julian-silver-gold-necklace/",
+        "pageTitle": "Julian; Silver & gold necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_222-030-4-510x763.jpg"
+    },
+    "Yvonne; Stainless Steel Gold Post Earrings": {
+        "productName": "Yvonne; Stainless Steel Gold Post Earrings",
         "productPrice": "$32.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/126-047-1g_earrings-220x330.jpg"
+        "productDescription": "\n\tThe Yvonne Stainless Steel Gold Post Earrings are equal to the cost of 1 week of medical care. Every purchase of the Yvonne Stainless Steel Gold Post Earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/yvonne-stainless-steel-gold-post-earrings/",
+        "pageTitle": "Stainless Steel Gold Bar Earrings | Long Gold Post Bar Earrings",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-009g-1-510x763.jpg"
     },
-    "4": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/zoe-red-tassel-earrings/",
+    "Charlie; Stainless Steel Post Earrings": {
+        "productName": "Charlie; Stainless Steel Post Earrings",
         "productPrice": "$32.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/126-047-2g_earrings-220x330.jpg"
+        "productDescription": "\n\tThe Charlie Stainless Steel Post Earrings are equal to the cost of 1 week of medical care. Every purchase of the Charlie Stainless Steel Post Earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/charlie-stainless-steel-post-earrings/",
+        "pageTitle": "Stainless Stell Post Earrings | Long Post Earrings Stainless Steel",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_105-118s-1-510x763.jpg"
     },
-    "5": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/janie-blue-druzy-studs/",
+    "Ellen-Gold; Triangle earrings": {
+        "productName": "Ellen-Gold; Triangle earrings",
+        "productPrice": "$26.99",
+        "productDescription": "\n\tThe Ellen Gold Triangle earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Ellen Gold Triangle earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/ellen-gold-triangle-earrings/",
+        "pageTitle": "Ellen-Gold; Triangle earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-020g-4-510x763.jpg"
+    },
+    "Ellen-Silver; Triangle earrings": {
+        "productName": "Ellen-Silver; Triangle earrings",
+        "productPrice": "$26.99",
+        "productDescription": "\n\tThe Ellen Silver Triangle earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Ellen Silver Triangle earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/ellen-silver-triangle-earrings/",
+        "pageTitle": "Ellen-Silver; Triangle earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-020s-4-510x763.jpg"
+    },
+    "Clara-Silver; Stud earrings": {
+        "productName": "Clara-Silver; Stud earrings",
         "productPrice": "$24.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/126-044-1s_earrings-220x330.jpg"
+        "productDescription": "\n\tThe Clara Silver Stud earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Clara Silver Stud earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/clara-silver-stud-earrings/",
+        "pageTitle": "Clara-Silver; Stud earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-018s-4-510x763.jpg"
     },
-    "6": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/courtney-pearl-earrings/",
+    "Lydie; Turquoise & orange necklace": {
+        "productName": "Lydie; Turquoise & orange necklace",
+        "productPrice": "$39.99",
+        "productDescription": "\n\tThe Lydie Turquoise & orange necklace is equal to the cost of 1 week of vocational training for one exploited woman. Every purchase of the Lydie Turquoise & orange necklace means exploited women and girls can gain the skills they need to establish an independent life after Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/lydie-turquoise-orange-necklace/",
+        "pageTitle": "Lydie; Turquoise & orange necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_226-020-4-510x763.jpg"
+    },
+    "Rosette; Turquoise disk & gold earrings": {
+        "productName": "Rosette; Turquoise disk & gold earrings",
         "productPrice": "$28.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/109-032g_earrings-220x330.jpg"
+        "productDescription": "\n\tThe Rosette Turquoise disk & gold earrings are equal to the cost of 1 week of medical care. Every purchase of the Rosette Turquoise disk & gold earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/rosette-turquoise-disk-gold-earrings/",
+        "pageTitle": "Rosette; Turquoise disk & gold earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_104-021g-4-510x763.jpg"
     },
-    "7": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/phoebe-gold-arrowhead-earrings/",
+    "Keely; Turquoise & gold bar necklace": {
+        "productName": "Keely; Turquoise & gold bar necklace",
         "productPrice": "$32.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/126_032-3g_phoebe-gold_earrings-220x330.jpg"
+        "productDescription": "\n\tThe Keely Turquoise & gold bar necklace is equal to the cost of 1 week of medical care. Every purchase of the Keely Turquoise & gold bar necklace means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/keely-turquoise-gold-bar-necklace/",
+        "pageTitle": "Keely; Turquoise & gold bar necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_226-019-4-510x763.jpg"
     },
-    "8": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/reed-stone-chain-dangle-earrings/",
+    "Sarah; Crystal & gold necklace": {
+        "productName": "Sarah; Crystal & gold necklace",
+        "productPrice": "$64.99",
+        "productDescription": "\n\tThe Sarah Crystal & gold necklace is equal to the cost of 1 week of schooling for a child of a woman at Starfish Project. Every purchase of the Sarah Crystal & gold necklace means exploited women can provide physical safety and education for their child. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\nThe Sarah necklace is named in honor of Sarah Silva by Stefanie Atem. As a friend, Sarah brings light to the world with her life-giving music and faithful heart.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/sarah-crystal-gold-necklace/",
+        "pageTitle": "Sarah; Crystal & gold necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_226-026-4-510x763.jpg"
+    },
+    "Gala; White Crystal & gold earrings": {
+        "productName": "Gala; White Crystal & gold earrings",
+        "productPrice": "$36.99",
+        "productDescription": "\n\tThe Gala White Crystal & gold earrings are equal to the cost of 1 week of counseling. Every purchase of the Gala White Crystal & gold earrings means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/gala-white-crystal-gold-earrings/",
+        "pageTitle": "Gala; White Crystal & gold earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-019g-4-510x763.jpg"
+    },
+    "Harper; Arrow stone pendant & necklace": {
+        "productName": "Harper; Arrow stone pendant & necklace",
+        "productPrice": "$56.99",
+        "productDescription": "\n\tThe Harper Arrow stone pendant & necklace is equal to the cost of 1 week of schooling for a child of a woman at Starfish Project. Every purchase of the Harper Arrow stone pendant & necklace means exploited women can provide physical safety and education for their child. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/harper-arrow-stone-pendant-necklace/",
+        "pageTitle": "Harper; Arrow stone pendant & necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_213-033-4-510x763.jpg"
+    },
+    "Randi; Ceramic and Copper Earrings": {
+        "productName": "Randi; Ceramic and Copper Earrings",
+        "productPrice": "$32.99",
+        "productDescription": "\n\tThe Randi Ceramic and Copper Earrings are equal to the cost of 1 week of counseling. Every purchase of the Randi Ceramic and Copper Earrings means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/randi-ceramic-and-copper-earrings/",
+        "pageTitle": "Silver Filigree Hoop Earrings | Filigree Silver Hoop Earrings",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-006n-1-510x763.jpg"
+    },
+    "Easton; White Crystal and Bright Gold Bracelet": {
+        "productName": "Easton; White Crystal and Bright Gold Bracelet",
+        "productPrice": "$26.99",
+        "productDescription": "\n\tThe Easton White Crystal and Bright Gold Bracelet is equal to the cost of 1 year of internet access for one exploited woman. Every purchase of the Easton White Crystal and Bright Gold Bracelet means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/easton-white-crystal-and-bright-gold-bracelet/",
+        "pageTitle": "Purple Crystal Bracelet | Gold Link Bracelet | Crystal Bracelets for Women",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-bracelet_413-001-1-510x763.jpg"
+    },
+    "Grace; White Crystal and Bright Gold Bracelet": {
+        "productName": "Grace; White Crystal and Bright Gold Bracelet",
         "productPrice": "$19.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/126-024g_reed_starfish_project_earrings-220x330.jpg"
+        "productDescription": "\n\tThe Grace White Crystal and Bright Gold Bracelet is equal to the cost of reaching out to 15 women still living in exploitation. Every purchase of the Grace White Crystal and Bright Gold Bracelet means exploited women and girls can claim freedom from sexual violence in their everyday work. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/grace-white-crystal-and-bright-gold-bracelet/",
+        "pageTitle": "White Crystal & Gold Chain Bracelet | Gold Crystal Chain Bracelet",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-bracelet_426-002-1-510x763.jpg"
     },
-    "9": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/jess-rose-druzy-stud-earrings/",
-        "productPrice": "$28.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/126-037-2g_jess-rose_starfish_project_earrings-220x330.jpg"
-    },
-    "10": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/vera-blue-fringe-earrings/",
+    "Chelsea; Quartz and Gold Necklace": {
+        "productName": "Chelsea; Quartz and Gold Necklace",
         "productPrice": "$24.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/118-006-1g_earrings-220x330.jpg"
+        "productDescription": "\n\tThe Chelsea Quartz and Gold Necklace is equal to the cost of 1 training class for an exploited woman. Every purchase of the Chelsea Quartz and Gold Necklace means exploited women and girls can gain the skills they need to establish an independent life after Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/chelsea-quartz-and-gold-necklace/",
+        "pageTitle": "Chelsea; Quartz and Gold Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_205-040-1-510x763.jpg"
     },
-    "11": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/jess-white-druzy-stud-earrings/",
-        "productPrice": "$28.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/126-037-1g_jess-white_starfish_project_earrings-220x330.jpg"
+    "Brooklyn; 6-layer Black and Silver Chain Necklace": {
+        "productName": "Brooklyn; 6-layer Black and Silver Chain Necklace",
+        "productPrice": "$52.99",
+        "productDescription": "\n\tThe Brooklyn 6 layer Black and Silver Chain Necklace is equal to the cost of 1 week of schooling for a child of a woman at Starfish Project. Every purchase of the Brooklyn 6 layer Black and Silver Chain Necklace means exploited women can provide physical safety and education for their child. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/brooklyn-6-layer-black-and-silver-chain-necklace/",
+        "pageTitle": "Brooklyn; 6-layer Black and Silver Chain Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_205-046-1-510x763.jpg"
     },
-    "12": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/kyra-multicolored-druzy-stud-earrings/",
-        "productPrice": "$24.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/126-040g_kyra_starfish_project_earrings-2-220x330.jpg"
+    "Hunter; Bright Gold and Glass Bead Necklace": {
+        "productName": "Hunter; Bright Gold and Glass Bead Necklace",
+        "productPrice": "$56.99",
+        "productDescription": "\n\tThe Hunter Bright Gold and Glass Bead Necklace is equal to the cost of reaching out to 10 women still living in exploitation. Every purchase of the Hunter Bright Gold and Glass Bead Necklace means exploited women and girls can claim freedom from sexual violence in their everyday work. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/hunter-bright-gold-and-glass-bead-necklace/",
+        "pageTitle": "Gold Glass Bead Pendant Necklace for Sale | Glass Bead Necklaces for Women",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_226-005-1-510x763.jpg"
     },
-    "13": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/natalie-turquoise-hexagon-stud-earrings/",
-        "productPrice": "$24.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/126-038g_earrings-2-220x330.jpg"
+    "Margine; Black & gold ladder necklace": {
+        "productName": "Margine; Black & gold ladder necklace",
+        "productPrice": "$59.99",
+        "productDescription": "\n\tThe Margine Black & gold ladder necklace is equal to the cost of reaching out to 10 women still living in exploitation. Every purchase of the Margine Black & gold ladder necklace means exploited women and girls can claim freedom from sexual violence in their everyday work. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/margine-black-gold-ladder-necklace/",
+        "pageTitle": "Margine; Black & gold ladder necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_212-025-4-510x763.jpg"
     },
-    "14": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/lori-antique-gold-bead-dangle-earrings/",
-        "productPrice": "$21.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/106-042g_lori_starfish_project_earrings-220x330.jpg"
+    "Adalyn Earrings": {
+        "productName": "Adalyn Earrings",
+        "productPrice": "$32.99",
+        "productDescription": "\n\tThe Adalyn Earrings are equal to the cost of 1 week of counseling. Every purchase of the Adalyn Earrings means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/adalyn-earrings/",
+        "pageTitle": "Adalyn Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_122-025n-1-510x763.jpg"
     },
-    "15": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/sierra-gold-stone-tassel-earrings/",
+    "Korey; Tibetan tassel necklace": {
+        "productName": "Korey; Tibetan tassel necklace",
+        "productPrice": "$54.99",
+        "productDescription": "\n\tThe Korey Tibetan tassel necklace is equal to the cost of 1.5 weeks of vocational training for one exploited woman. Every purchase of the Korey Tibetan tassel necklace means exploited women and girls can gain the skills they need to establish an independent life after Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/korey-tibetan-tassle-necklace/",
+        "pageTitle": "Korey; Tibetan tassel necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_204-017-4-510x763.jpg"
+    },
+    "Elsie; Gold starfish bracelet": {
+        "productName": "Elsie; Gold starfish bracelet",
         "productPrice": "$34.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/126-025g_sierra_starfish_project_earrings-220x330.jpg"
+        "productDescription": "\n\tThe Elsie Gold starfish bracelet is equal to the cost of 1 week of counseling. Every purchase of the Elsie Gold starfish bracelet means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/elsie-gold-starfish-bracelet/",
+        "pageTitle": "Elsie; Gold starfish bracelet - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-bracelet_426-005-4-510x763.jpg"
     },
-    "16": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/riley-black-druzy-stud-earrings/",
+    "Chandra; Gold starfish bar necklace": {
+        "productName": "Chandra; Gold starfish bar necklace",
+        "productPrice": "$42.99",
+        "productDescription": "\n\tThe Chandra Gold starfish bar necklace is equal to the cost of 1 week of vocational training for one exploited woman. Every purchase of the Chandra Gold starfish bar necklace means exploited women and girls can gain the skills they need to establish an independent life after Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/chandra-gold-starfish-bar-necklace/",
+        "pageTitle": "Chandra; Gold starfish bar necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_205-054-5-510x763.jpg"
+    },
+    "Honor; Starfish Pendant Necklace Set": {
+        "productName": "Honor; Starfish Pendant Necklace Set",
+        "productPrice": "$54.99",
+        "productDescription": "\n\tThe Honor Starfish Pendant Necklace Set is equal to the cost of 1 week of schooling for a child of a woman at Starfish Project. Every purchase of the Honor Starfish Pendant Necklace Set means exploited women can provide physical safety and education for their child. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/honor-starfish-pendant-necklace-set/",
+        "pageTitle": "Honor; Starfish Pendant Necklace Set - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_205-039-1-510x763.jpg"
+    },
+    "Eleanor; Gold & silver necklace": {
+        "productName": "Eleanor; Gold & silver necklace",
+        "productPrice": "$49.99",
+        "productDescription": "\n\tThe Eleanor Gold & silver necklace is equal to the cost of 1 week of counseling. Every purchase of the Eleanor Gold & silver necklace means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/eleanor-gold-silver-necklace/",
+        "pageTitle": "Eleanor; Gold & silver necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_226-028-4-510x763.jpg"
+    },
+    "River-Gold; Triangle Pendant Necklace": {
+        "productName": "River-Gold; Triangle Pendant Necklace",
+        "productPrice": "$36.99",
+        "productDescription": "\n\tThe River Gold Triangle Pendant Necklace is equal to the cost of 1 week of medical care. Every purchase of the River Gold Triangle Pendant Necklace means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/river-gold-triangle-pendant-necklace/",
+        "pageTitle": "River-Gold; Triangle Pendant Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_205-050-1-510x763.jpg"
+    },
+    "River-Silver; Triangle Pendant Necklace": {
+        "productName": "River-Silver; Triangle Pendant Necklace",
+        "productPrice": "$36.99",
+        "productDescription": "\n\tThe River Silver Triangle Pendant Necklace is equal to the cost of 1 week of counseling. Every purchase of the River Silver Triangle Pendant Necklace means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/river-silver-triangle-pendant-necklace/",
+        "pageTitle": "River-Silver; Triangle Pendant Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_205-050-2-1-510x763.jpg"
+    },
+    "Layla-Gold; Cross Bar Necklace": {
+        "productName": "Layla-Gold; Cross Bar Necklace",
+        "productPrice": "$42.99",
+        "productDescription": "\n\tThe Layla Gold Cross Bar Necklace is equal to the cost of 1 week of counseling. Every purchase of the Layla Gold Cross Bar Necklace means exploited women and girls can establish independence at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/layla-gold-cross-bar-necklace/",
+        "pageTitle": "Layla-Gold; Cross Bar Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_205-047-1-510x763.jpg"
+    },
+    "Sane-Gold Necklace": {
+        "productName": "Sane-Gold Necklace",
+        "productPrice": "$34.99",
+        "productDescription": "\n\tThe Sane Gold Necklace is equal to the cost of 1 week of medical care. Every purchase of the Sane Gold Necklace means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/sane-gold-necklace/",
+        "pageTitle": "Sane-Gold Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_205-049-1-510x763.jpg"
+    },
+    "Sane-Silver; Geometric Pendant Necklace": {
+        "productName": "Sane-Silver; Geometric Pendant Necklace",
+        "productPrice": "$36.99",
+        "productDescription": "\n\tThe Sane Silver Geometric Pendant Necklace is equal to the cost of 1 week of counseling. Every purchase of the Sane Silver Geometric Pendant Necklace means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/sane-silver-geometric-pendant-necklace/",
+        "pageTitle": "Sane-Silver; Geometric Pendant Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_205-049-2-1-510x763.jpg"
+    },
+    "Madelyn-Silver; Bar Necklace": {
+        "productName": "Madelyn-Silver; Bar Necklace",
+        "productPrice": "$36.99",
+        "productDescription": "\n\tThe Madelyn Silver Bar Necklace is equal to the cost of 1 week of counseling. Every purchase of the Madelyn Silver Bar Necklace means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/madelyn-silver-bar-necklace/",
+        "pageTitle": "Madelyn-Silver; Bar Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_205-048-2-1-510x763.jpg"
+    },
+    "Serena; Crystal and Silver Bead Pendant Necklace": {
+        "productName": "Serena; Crystal and Silver Bead Pendant Necklace",
+        "productPrice": "$36.99",
+        "productDescription": "\n\tThe Serena Crystal and Silver Bead Pendant Necklace is equal to the cost of 1 week of medical care. Every purchase of the Serena Crystal and Silver Bead Pendant Necklace means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/serena-crystal-and-silver-bead-pendant-necklace/",
+        "pageTitle": "Crystal & Silver Bead Pendant Necklace | Silver and Crystal Necklace",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_222-023-1-510x763.jpg"
+    },
+    "Paisley; Silver tassel necklace": {
+        "productName": "Paisley; Silver tassel necklace",
+        "productPrice": "$54.99",
+        "productDescription": "\n\tThe Paisley Silver tassel necklace is equal to the cost of 1.5 weeks of vocational training for one exploited woman. Every purchase of the Paisley Silver tassel necklace means exploited women and girls can gain the skills they need to establish an independent life after Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/paisley-silver-tassel-necklace/",
+        "pageTitle": "Paisley; Silver tassel necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/03/SFweb-necklace_205-051-510x763.jpg"
+    },
+    "Janelle; Charcoal dangle earrings": {
+        "productName": "Janelle; Charcoal dangle earrings",
+        "productPrice": "$24.99",
+        "productDescription": "\n\tThe Janelle Charcoal dangle earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Janelle Charcoal dangle earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/janelle-charcoal-dangle-earrings/",
+        "pageTitle": "Janelle; Charcoal dangle earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/03/SFweb-earring_105-045s-510x763.jpg"
+    },
+    "Irena; Layering Bright Gold Bar Bracelet": {
+        "productName": "Irena; Layering Bright Gold Bar Bracelet",
+        "productPrice": "$32.99",
+        "productDescription": "\n\tThe Irena Layering Bright Gold Bar Bracelet is equal to the cost of 1 week of medical care. Every purchase of the Irena Layering Bright Gold Bar Bracelet means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/irena-layering-bright-gold-bar-bracelet/",
+        "pageTitle": "Layering Gold Bar Bracelet | Handmade Gold Bracelets | Handmade Bracelets",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-bracelet_426-004-1-510x763.jpg"
+    },
+    "Ada; Gold fringe earrings": {
+        "productName": "Ada; Gold fringe earrings",
+        "productPrice": "$34.99",
+        "productDescription": "\n\tThe Ada Gold fringe earrings are equal to the cost of 1 week of medical care. Every purchase of the Ada Gold fringe earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/ada-gold-fringe-earrings/",
+        "pageTitle": "Ada; Gold fringe earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-016g-4-510x763.jpg"
+    },
+    "Parker; Stone & gold necklace": {
+        "productName": "Parker; Stone & gold necklace",
+        "productPrice": "$56.99",
+        "productDescription": "\n\tThe Parker Stone & gold necklace is equal to the cost of reaching out to 10 women still living in exploitation. Every purchase of the Parker Stone & gold necklace means exploited women and girls can claim freedom from sexual violence in their everyday work. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/parker-stone-gold-necklace/",
+        "pageTitle": "Parker; Stone & gold necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_213-034-4-510x763.jpg"
+    },
+    "Augusta; Red & gold pendant necklace": {
+        "productName": "Augusta; Red & gold pendant necklace",
+        "productPrice": "$56.99",
+        "productDescription": "\n\tThe Augusta Red & gold pendant necklace is equal to the cost of reaching out to 10 women still living in exploitation. Every purchase of the Augusta Red & gold pendant necklace means exploited women and girls can claim freedom from sexual violence in their everyday work. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/augusta-red-gold-pendant-necklace/",
+        "pageTitle": "Augusta Red & Gold Pendant Necklace by Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_213-025-4-510x763.jpg"
+    },
+    "Rydel; Arrow pendant & gold necklace": {
+        "productName": "Rydel; Arrow pendant & gold necklace",
+        "productPrice": "$56.99",
+        "productDescription": "\n\tThe Rydel Arrow pendant & gold necklace is equal to the cost of reaching out to 10 women still living in exploitation. Every purchase of the Rydel Arrow pendant & gold necklace means exploited women and girls can claim freedom from sexual violence in their everyday work. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/rydel-arrow-pendant-gold-necklace/",
+        "pageTitle": "Rydel; Arrow pendant & gold necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_213-029-4-510x763.jpg"
+    },
+    "Erica-Green; Agate and Gold Necklace": {
+        "productName": "Erica-Green; Agate and Gold Necklace",
+        "productPrice": "$42.99",
+        "productDescription": "\n\tThe Erica Green Agate and Gold Necklace is equal to the cost of 1 week of vocational training for one exploited woman. Every purchase of the Erica Green Agate and Gold Necklace means exploited women and girls can gain the skills they need to establish an independent life after Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/erica-green-agate-and-gold-necklace/",
+        "pageTitle": "Green Agate & Gold Round Pendant Necklace | Round Necklace Pendant",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_213-022-1-1-510x763.jpg"
+    },
+    "Ayla; Red & gold earrings": {
+        "productName": "Ayla; Red & gold earrings",
+        "productPrice": "$24.99",
+        "productDescription": "\n\tThe Ayla Red & gold earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Ayla Red & gold earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/ayla-red-gold-earrings/",
+        "pageTitle": "Ayla; Red & gold earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/12/SFweb-earring_118-004g-510x763.jpg"
+    },
+    "Tabitha; Red Coral Necklace": {
+        "productName": "Tabitha; Red Coral Necklace",
+        "productPrice": "$84.99",
+        "productDescription": "\n\tThe Tabitha Red Coral Necklace is equal to the cost of 2 weeks of counseling. Every purchase of the Tabitha Red Coral Necklace means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/tabitha-red-coral-necklace/",
+        "pageTitle": "Red Coral Necklace | Red Statement Necklace | Coral Cluster Necklace",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_218-003-1-510x763.jpg"
+    },
+    "Brielle; Red & gold necklace": {
+        "productName": "Brielle; Red & gold necklace",
+        "productPrice": "$38.99",
+        "productDescription": "\n\tThe Brielle Red & gold necklace is equal to the cost of 1 week of vocational training for one exploited woman. Every purchase of the Brielle Red & gold necklace means exploited women and girls can gain the skills they need to establish an independent life after Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/brielle-red-gold-necklace/",
+        "pageTitle": "Brielle; Red & gold necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_226-027-4-510x763.jpg"
+    },
+    "Dallas Necklace": {
+        "productName": "Dallas Necklace",
+        "productPrice": "$44.99",
+        "productDescription": "\n\tThe Dallas Necklace is equal to the cost of 1 week of counseling. Every purchase of the Dallas Necklace means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/dallas-necklace/",
+        "pageTitle": "Handmade Ceramic Bead & Wooden Necklace | Ceramic Bead Necklaces",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_212-026-1-510x763.jpg"
+    },
+    "Bridget-Crystal; Wire-Wrapped Teardrop Earrings": {
+        "productName": "Bridget-Crystal; Wire-Wrapped Teardrop Earrings",
+        "productPrice": "$22.99",
+        "productDescription": "\n\tThe Bridget Crystal Wire Wrapped Teardrop Earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Bridget Crystal Wire Wrapped Teardrop Earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/bridget-crystal-wire-wrapped-teardrop-earrings/",
+        "pageTitle": "Crystal Wire-Wrapped Teardrop Earrings | Teardrop Crystal Earrings",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/02/SFweb-earring_105-030s-510x763.jpg"
+    },
+    "Bridget-Moonstone; Wire-Wrapped Teardrop Earrings": {
+        "productName": "Bridget-Moonstone; Wire-Wrapped Teardrop Earrings",
+        "productPrice": "$22.99",
+        "productDescription": "\n\tThe Bridget Moonstone Wire Wrapped Teardrop Earrings are equal to the cost of reaching out to 15 women still living in exploitation. Every purchase of the Bridget Moonstone Wire Wrapped Teardrop Earrings means exploited women and girls can claim freedom from sexual violence in their everyday work. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/bridget-moonstone-wire-wrapped-teardrop-earrings/",
+        "pageTitle": "Wire Wrapped Moonstone Teardrop Earrings | Moonstone Drop Earrings",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_105-005s-1-510x763.jpg"
+    },
+    "Annika; Silver-toned Bead Earrings": {
+        "productName": "Annika; Silver-toned Bead Earrings",
+        "productPrice": "$19.99",
+        "productDescription": "\n\tThe Annika Silver toned Bead Earrings are equal to the cost of 3 weeks of meals for one exploited woman. Every purchase of the Annika Silver toned Bead Earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/annika-silver-toned-bead-earrings/",
+        "pageTitle": "Small Silver Bead Drop Earrings | Silver Circular Earrings",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_105-113s-1-510x763.jpg"
+    },
+    "Leia; Bali Ball Spherical Earrings": {
+        "productName": "Leia; Bali Ball Spherical Earrings",
+        "productPrice": "$19.99",
+        "productDescription": "\n\tThe Leia Bali Ball Spherical Earrings are equal to the cost of reaching out to 15 women still living in exploitation. Every purchase of the Leia Bali Ball Spherical Earrings means exploited women and girls can claim freedom from sexual violence in their everyday work. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/leia-bali-ball-spherical-earrings/",
+        "pageTitle": "Silver Bali Earrings | Spherical Earrings | Bali Earrings Online",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_105-015s-1-510x763.jpg"
+    },
+    "Peyton; Miao Silver Bracelet": {
+        "productName": "Peyton; Miao Silver Bracelet",
         "productPrice": "$28.99",
+        "productDescription": "\n\tThe Peyton Miao Silver Bracelet is equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Peyton Miao Silver Bracelet means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/peyton-maio-silver-bracelet/",
+        "pageTitle": "Engraved Silver Bracelet | Thin Silver Bracelet | Women's Engraved Bracelets",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-bracelet_405-020-1-510x763.jpg"
+    },
+    "Reagan; Miao Silver Bracelet": {
+        "productName": "Reagan; Miao Silver Bracelet",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Reagan Miao Silver Bracelet is equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Reagan Miao Silver Bracelet means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/reagan-maio-silver-bracelet/",
+        "pageTitle": "Handmade Silver Bracelet | Silver Bangle Bracelet | Silver Bracelets",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-bracelet_405-022-1-510x763.jpg"
+    },
+    "Cadence; Miao Silver Bracelet": {
+        "productName": "Cadence; Miao Silver Bracelet",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Cadence Miao Silver Bracelet is equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Cadence Miao Silver Bracelet means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/cadence-maio-silver-bracelet/",
+        "pageTitle": "Engraved Bangle | Handmade Bracelet | Silver Bracelets for Women",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-bracelet_405-018-1-510x763.jpg"
+    },
+    "Skyler; Miao Silver Bracelet": {
+        "productName": "Skyler; Miao Silver Bracelet",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Skyler Miao Silver Bracelet is equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Skyler Miao Silver Bracelet means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/skyler-maio-silver-bracelet/",
+        "pageTitle": "Silver Engraved Bracelet | Handmade Bangle Silver Bracelets for Women",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-bracelet_405-023-1-510x763.jpg"
+    },
+    "Amy; Engraved Miao Silver Cuff": {
+        "productName": "Amy; Engraved Miao Silver Cuff",
+        "productPrice": "$32.99",
+        "productDescription": "\n\tThe Amy Engraved Miao Silver Cuff is equal to the cost of 1 week of medical care. Every purchase of the Amy Engraved Miao Silver Cuff means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/amy-engraved-miao-silver-cuff-concave/",
+        "pageTitle": "Engraved Silver Cuff | Wide Silver Engraved Cuff | Cuff Bracelets",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-bracelet_405-001-1-510x763.jpg"
+    },
+    "Willow Earrings": {
+        "productName": "Willow Earrings",
+        "productPrice": "$24.99",
+        "productDescription": "\n\tThe Willow Earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Willow Earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/willow-earrings/",
+        "pageTitle": "Labraorite & Chain Earrings | Grey Stone Earrings for Women",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_122-030m-1-510x763.jpg"
+    },
+    "Kendra-Blue; Quartz Earrings": {
+        "productName": "Kendra-Blue; Quartz Earrings",
+        "productPrice": "$26.99",
+        "productDescription": "\n\tThe Kendra Blue Quartz Earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Kendra Blue Quartz Earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/kendra-blue-quartz-earrings/",
+        "pageTitle": "Blue Quartz Earrings | Aqua Blue Earrings | Multi Stone Earrings",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_122-010-3m-1-510x763.jpg"
+    },
+    "Kendra-White; Quartz Earrings": {
+        "productName": "Kendra-White; Quartz Earrings",
+        "productPrice": "$26.99",
+        "productDescription": "\n\tThe Kendra White Quartz Earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Kendra White Quartz Earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/kendra-white-quartz-earrings/",
+        "pageTitle": "White Quartz & Long Drop Gold Earrings | Chain Link Earrings",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_122-010-1n-1-510x763.jpg"
+    },
+    "Gia Earrings": {
+        "productName": "Gia Earrings",
+        "productPrice": "$24.99",
+        "productDescription": "\n\tThe Gia Earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Gia Earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/gia-earrings/",
+        "pageTitle": "Mother of Pearl Dangle Earrings | Pearl Earrings for Sale",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_103-032-2g-1-510x763.jpg"
+    },
+    "Betsy-Blue Necklace": {
+        "productName": "Betsy-Blue Necklace",
+        "productPrice": "$54.99",
+        "productDescription": "\n\tThe Betsy Blue Necklace is equal to the cost of 1 week of counseling. Every purchase of the Betsy Blue Necklace means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/betsy-blue-necklace/",
+        "pageTitle": "Blue Mother of Pearl Necklace | Handmade Chunky Pearl Necklace",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_203-032-1_C-1-510x763.jpg"
+    },
+    "Kinsley Necklace": {
+        "productName": "Kinsley Necklace",
+        "productPrice": "$59.99",
+        "productDescription": "\n\tThe Kinsley Necklace is equal to the cost of 1.5 weeks of vocational training for one exploited woman. Every purchase of the Kinsley Necklace means exploited women and girls can gain the skills they need to establish an independent life after Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/kinsley-necklace/",
+        "pageTitle": "Handmade Mother of Pearl & Glass Bead Necklace | Long Glass Bead Necklace",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_226-025-1-510x763.jpg"
+    },
+    "Linda Necklace": {
+        "productName": "Linda Necklace",
+        "productPrice": "$54.99",
+        "productDescription": "\n\tThe Linda Necklace is equal to the cost of 1 week of counseling. Every purchase of the Linda Necklace means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/linda-necklace/",
+        "pageTitle": "Rose Quartz & Crystal Bead Necklace | Rose Quartz Crystal Jewelry",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_213-032-1-510x763.jpg"
+    },
+    "Valeria Earrings": {
+        "productName": "Valeria Earrings",
+        "productPrice": "$29.99",
+        "productDescription": "\n\tThe Valeria Earrings are equal to the cost of 1 week of medical care. Every purchase of the Valeria Earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/valeria-earrings/",
+        "pageTitle": "Rose Quartz & Crystal Drop Earrings | Pink Crystal Drop Earrings",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/06/SFweb-earring_126-023g-510x763.jpg"
+    },
+    "Reese Necklace": {
+        "productName": "Reese Necklace",
+        "productPrice": "$42.99",
+        "productDescription": "\n\tThe Reese Necklace is equal to the cost of 1 week of vocational training for one exploited woman. Every purchase of the Reese Necklace means exploited women and girls can gain the skills they need to establish an independent life after Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/reese-necklace/",
+        "pageTitle": "Agate Tassel Necklace | Red Tassel Agate Necklace | Long Tassel Necklace",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_222-033-1-510x763.jpg"
+    },
+    "Ruby; Pink, purple, & blue bracelet": {
+        "productName": "Ruby; Pink, purple, & blue bracelet",
+        "productPrice": "$19.99",
+        "productDescription": "\n\tRuby Pink, purple, & blue bracelet. Handmade by women who are beginning a new life at Starfish Project. When you buy Starfish Project jewelry, you are investing in our mission to transform lives and restore hope to exploited women.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/ruby-pink-purple-blue-bracelet/",
+        "pageTitle": "Ruby; Pink, purple, & blue bracelet - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-bracelet_422-021-4-510x763.jpg"
+    },
+    "Amber; Tibetan Pendant Necklace": {
+        "productName": "Amber; Tibetan Pendant Necklace",
+        "productPrice": "$38.99",
+        "productDescription": "\n\tThe Amber Tibetan Bead Necklace is equal to the cost of 1 week of counseling. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/amber-hand-painted-tibetan-pendant-necklace/",
+        "pageTitle": "Amber; Tibetan Pendant Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/204-025_amber_necklace-1-510x763.jpg"
+    },
+    "Josie; Rose Druzy Pendant": {
+        "productName": "Josie; Rose Druzy Pendant",
+        "productPrice": "$38.99",
+        "productDescription": "\n\tThe Josie Rose Agate Pendant is equal to the cost of one week of counseling for an exploited woman. The Josie Rose Agate Pendant Necklace is made by the women at Starfish Project using a rose druzy agate pendant on an 18k gold plated stainless steel chain. This piece measures 16-18 inches. Because of your purchase, exploited women will experience freedom. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/josie-rose-druzy-pendant-copy/",
+        "pageTitle": "Josie; Rose Druzy Pendant - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/226-051-1_necklaces-2-510x763.jpg"
+    },
+    "Josie; Silver Druzy Pendant": {
+        "productName": "Josie; Silver Druzy Pendant",
+        "productPrice": "$38.99",
+        "productDescription": "\n\tThe Josie Silver Agate Pendant is equal to the cost of one week of counseling for an exploited woman. The Josie Silver Agate Pendant Necklace is made by the women at Starfish Project using a silver druzy agate pendant on an 18k gold plated stainless steel chain. This piece measures 16-18 inches. Because of your purchase, exploited women will experience freedom. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/josie-silver-druzy-pendant/",
+        "pageTitle": "Josie; Silver Druzy Pendant - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/226-051-2_necklaces-2-510x763.jpg"
+    },
+    "Mary Catherine; Rose Druzy Bracelet": {
+        "productName": "Mary Catherine; Rose Druzy Bracelet",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Mary Catherine Rose Agate Bracelet is equal to the cost of reaching out to 15 women still living in exploitation. The Mary Catherine Rose Agate Bracelet is made by women at Starfish Project using a rose druzy agate pendant and 18k gold plated stainless steel chain. This piece measures 6-8.5 inches. Because of your purchase, exploited women will experience freedom.\nThe Mary Catherine bracelet is named in honor of Mary Catherine Miller by Virginia Scharf. As a friend, Mary Catherine brings light to the world with her wild abandon, sensitivity, and JD’s Diet Cokes.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/mary-catherine-rose-druzy-bracelet/",
+        "pageTitle": "Mary Catherine; Rose Druzy Bracelet - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/426-011-1_bracelets-510x763.jpg"
+    },
+    "Mary Catherine; Silver Druzy Bracelet": {
+        "productName": "Mary Catherine; Silver Druzy Bracelet",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Mary Catherine Silver Agate Bracelet is equal to the cost of reaching out to 15 women still living in exploitation. The Mary Catherine Silver Agate Bracelet is made by women at Starfish Project using a rose druzy agate pendant and 18k gold plated stainless steel chain. This piece measures 6-8.5 inches. Because of your purchase, exploited women will experience freedom. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/mary-catherine-silver-druzy-bracelet/",
+        "pageTitle": "Mary Catherine; Silver Druzy Bracelet - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/426-011-2_bracelets-510x763.jpg"
+    },
+    "Dana; Blue Druzy Earrings": {
+        "productName": "Dana; Blue Druzy Earrings",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Dana Blue Agate Earrings are equal to the cost of reaching out to 15 women still living in exploitation. The Dana Blue Agate Earrings are made by women at Starfish Project using blue agate pendants on 18k gold plated stainless steel hooks. These are 0.75 inches long. Because of your purchase, exploited women will experience freedom. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/dana-blue-druzy-earrings/",
+        "pageTitle": "Dana; Blue Druzy Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/126-042g_earrings-510x763.jpg"
+    },
+    "Jessica; Gold Druzy Studs": {
+        "productName": "Jessica; Gold Druzy Studs",
+        "productPrice": "$24.99",
+        "productDescription": "\n\tThe Jessica Gold Agate Studs are equal to the cost of reaching out to 15 women still living in exploitation. They are 0.25 inches long. Because of your purchase, exploited women will experience freedom.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/jessica-gold-druzy-studs/",
+        "pageTitle": "Jessica; Gold Druzy Studs - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/126-044-2s_earrings-510x763.jpg"
+    },
+    "Sutton; Leaf Earrings": {
+        "productName": "Sutton; Leaf Earrings",
+        "productPrice": "$34.99",
+        "productDescription": "\n\tThe Sutton Leaf Earrings are equal to the cost of one week of shelter for an exploited woman. The Sutton Leaf Earrings are made from a new sea stone phnom penh pendant on 18k gold plated stainless steel hooks. They are 2 inches long.Because of your purchase, exploited women will experience freedom.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/sutton-leaf-earrings/",
+        "pageTitle": "Sutton; Leaf Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/113-046g_earrings-510x763.jpg"
+    },
+    "Jaden; Turquoise Howlite Feather Necklace": {
+        "productName": "Jaden; Turquoise Howlite Feather Necklace",
+        "productPrice": "$59.99",
+        "productDescription": "\n\tThe Jaden Turquoise Feather Necklace is equal to the cost of 1.5 weeks of vocational training for one exploited woman. The Jaden Turquoise Howlite Feather Necklace is made by the women at Starfish Project using an 18k gold plated turquoise howlite stone pendant with gold plated beads on an 18k gold plated stainless steel chain. This piece measures 30-32.5 inches and the pendant is 3 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/jaden-turquoise-feather-necklace/",
+        "pageTitle": "Jaden; Turquoise Howlite Feather Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/213-046_jaden_starfish_project_necklace-1.jpg"
+    },
+    "Laurel; Amazonite & White Crystal Pendant Necklace": {
+        "productName": "Laurel; Amazonite & White Crystal Pendant Necklace",
+        "productPrice": "$49.99",
+        "productDescription": "\n\tThe Laurel Amazonite & White Crystal Pendant is equal to the cost of one week of computer classes for an exploited woman. The Laurel Amazonite & White Crystal Pendant is made by women at Starfish Project using a gold plated white agate pendant and amazonite stone. This piece measures 35.5 inches and the pendant is 1.5 to 2 inches long. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers.\nThe Laurel necklace is named in honor of Laurel Thrash by Virginia Scharf. As a friend, Laurel brings light to the world with her graciousness, tie dye shirts, and love of sea otters.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/laurel-amazonite-white-crystal-pendant/",
+        "pageTitle": "Laurel; Amazonite & White Crystal Pendant Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/210-009_necklaces-4-e1505190564800-510x763.jpg"
+    },
+    "Zoe; Blue Tassel Earrings": {
+        "productName": "Zoe; Blue Tassel Earrings",
+        "productPrice": "$32.99",
+        "productDescription": "\n\tThe Zoe Navy Blue Tassel Earrings are equal to the cost of one week of shelter for an exploited woman. The Zoe Navy Blue Tassel Earrings are made by women at Starfish Project using a stainless steel plated glass pendant and blue silk thread tassel on 18k gold plated stainless steel hooks. This piece measures 3.5 inches. Because of your purchase, exploited women will experience freedom. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/zoe-blue-tassel-earrings/",
+        "pageTitle": "Zoe; Blue Tassel Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/126-047-1g_earrings-510x763.jpg"
+    },
+    "Zoe; Red Tassel Earrings": {
+        "productName": "Zoe; Red Tassel Earrings",
+        "productPrice": "$32.99",
+        "productDescription": "\n\tThe Zoe Red Tassel Earrings are equal to the cost of one week of shelter for an exploited woman. The Zoe Navy Red Tassel Earrings are made by women at Starfish Project using a stainless steel plated glass pendant and red silk thread tassel on 18k gold plated stainless steel hooks. This piece measures 3.5 inches. Because of your purchase, exploited women will experience freedom. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/zoe-red-tassel-earrings/",
+        "pageTitle": "Zoe; Red Tassel Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/126-047-2g_earrings-510x763.jpg"
+    },
+    "Elliot; Turquoise Bead Bar Necklace": {
+        "productName": "Elliot; Turquoise Bead Bar Necklace",
+        "productPrice": "$32.99",
+        "productDescription": "\n\tThe Elliot Turquoise Bead Bar Necklace is equal to the cost of one week of shelter for an exploited woman. The Elliot Turquoise Bead Bar Necklace is made by women at Starfish Project using turquoise howlite and an 18k gold plated stainless steel chain. This piece measures 16 to 18 inches and the bar is 1 inch long. Because of your purchase, exploited women will experience freedom.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/elliot-turquoise-bead-bar-necklace/",
+        "pageTitle": "Elliot; Turquoise Bead Bar Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/222-036-4_necklaces-2-510x763.jpg"
+    },
+    "Elliot; Crystal Bead Bar Necklace": {
+        "productName": "Elliot; Crystal Bead Bar Necklace",
+        "productPrice": "$32.99",
+        "productDescription": "\n\tThe Elliot Crystal Bead Bar Necklace is equal to the cost of one week of shelter for an exploited woman. The Elliot Crystal Bead Bar Necklace is made by women at Starfish Project using crystal stone and an 18k gold plated stainless steel chain. This piece measures 16 to 18 inches and the bar is 1 inch long. Because of your purchase, exploited women will experience freedom.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/elliot-crystal-bead-bar-necklace/",
+        "pageTitle": "Elliot; Crystal Bead Bar Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/222-036-2_necklaces-2-510x763.jpg"
+    },
+    "Elliot; Natural Bead Bar Necklace": {
+        "productName": "Elliot; Natural Bead Bar Necklace",
+        "productPrice": "$32.99",
+        "productDescription": "\n\tThe Elliot Natural Bead Bar Necklace is equal to the cost of one week of shelter for an exploited woman. The Elliot Natural Bead Bar Necklace is made by women at Starfish Project using black stone and an 18k gold plated stainless steel chain. This piece measures 16 to 18 inches and the bar is 1 inch long. Because of your purchase, exploited women will experience freedom.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/elliot-natural-bead-bar-necklace/",
+        "pageTitle": "Elliot; Natural Bead Bar Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/222-036-3_necklaces-2-510x763.jpg"
+    },
+    "Elliot; Blue Bead Bar Necklace": {
+        "productName": "Elliot; Blue Bead Bar Necklace",
+        "productPrice": "$32.99",
+        "productDescription": "\n\tThe Elliot Blue Bead Bar Necklace is equal to the cost of one week of shelter for an exploited woman. The Elliot Blue Bead Bar Necklace is made by women at Starfish Project using lapiz lazuli and an 18k gold plated stainless steel chain. This piece measures 16 to 18 inches and the bar is 1 inch long. Because of your purchase, exploited women will experience freedom.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/elliot-blue-bead-bar-necklace/",
+        "pageTitle": "Elliot; Blue Bead Bar Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/222-036-1_necklaces-2-510x763.jpg"
+    },
+    "Janie; Blue Druzy Studs": {
+        "productName": "Janie; Blue Druzy Studs",
+        "productPrice": "$24.99",
+        "productDescription": "\n\tThe Janie Blue Agate Studs are equal to the cost of reaching out to 15 women still living in exploitation. They are 0.25 inches long. Because of your purchase, exploited women will experience freedom.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/janie-blue-druzy-studs/",
+        "pageTitle": "Janie; Blue Druzy Studs - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/126-044-1s_earrings-510x763.jpg"
+    },
+    "Lola; Druzy Triangle Necklace": {
+        "productName": "Lola; Druzy Triangle Necklace",
+        "productPrice": "$38.99",
+        "productDescription": "\n\tThe Lola Agate Triangle Necklace is equal to the cost of one week of counseling for an exploited woman. The Lola Agate Triangle Necklace is made by women at Starfish Project using an agate triangle pendant on a stainless steel chain. This piece measures 16.5 to 17.75 inches; the pendant is 0.5 inches long. Because of your purchase, exploited women will experience freedom.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/lola-druzy-triangle-necklace/",
+        "pageTitle": "Lola; Druzy Triangle Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/205-065_necklaces-2-510x763.jpg"
+    },
+    "Justine; Silver & Crystal Pendant": {
+        "productName": "Justine; Silver & Crystal Pendant",
+        "productPrice": "$44.99",
+        "productDescription": "\n\tThe Justine Silver & Crystal Pendant is equal to the cost of one week of computer classes for an exploited woman. The Justine Silver & Crystal Pendant Necklace is made by women at Starfish Project using a crystal pendant on a stainless steel chain. Because of your purchase, exploited women will experience freedom. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/justine-silver-crystal-pendant/",
+        "pageTitle": "Justine; Silver & Crystal Pendant - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/205-064_necklaces-2-510x763.jpg"
+    },
+    "Kelsey; White Necklace": {
+        "productName": "Kelsey; White Necklace",
+        "productPrice": "$38.99",
+        "productDescription": "\n\tThe Kelsey White Necklace is equal to the cost of 1 week of counseling. The Kelsey White Necklace is made by women at Starfish Project using a white druzy agate on a stainless steel chain. This piece measures 16 to 18 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\nThe Kelsey necklace is named in honor of Kelsey by Kevin. As a citizen of the world, Kelsey cares for her community through her benevolence, determination and love for penguins.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/kelsey-white-necklace/",
+        "pageTitle": "Kelsey; White Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/205-065-1_necklaces-2-510x763.jpg"
+    },
+    "Kelsey; Silver Necklace": {
+        "productName": "Kelsey; Silver Necklace",
+        "productPrice": "$38.99",
+        "productDescription": "\n\tThe Kelsey Silver Necklace is equal to the cost of 1 week of counseling. The Kelsey Silver Necklace is made by women at Starfish Project using a silver druzy agate on a stainless steel chain. This piece measures 16 to 18 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\nThe Kelsey necklace is named in honor of Kelsey by Kevin. As a citizen of the world, Kelsey cares for her community through her benevolence, determination and love for penguins.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/kelsey-silver-necklace/",
+        "pageTitle": "Kelsey; Silver Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/205-065-2_necklaces-510x763.jpg"
+    },
+    "Courtney; Pearl Earrings": {
+        "productName": "Courtney; Pearl Earrings",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Courtney Pearl Earrings are equal to the cost of one week of shelter for an exploited woman. The Courtney Pearl Earrings are made by woman at Starfish Project using fresh water pearls on 18k gold plated stainless steel hooks. They are 0.5 inches long. Because of your purchase, exploited women will experience freedom.\nThe Courtney Earrings are named in honor of Courtney Thompson by Virginia Scharf. As a friend, Courtney helps others experience freedom by creating safe places for people to be who they are.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/courtney-pearl-earrings/",
+        "pageTitle": "Courtney; Pearl Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/109-032g_earrings-510x763.jpg"
+    },
+    "Morris; Jade Quartzite Bracelet": {
+        "productName": "Morris; Jade Quartzite Bracelet",
+        "productPrice": "$19.99",
+        "productDescription": "\n\tThe Morris Jade Quartzite Bracelet is equal to the cost of two weeks of meals for an exploited woman. The Morris Jade Quartzite Bracelet is made by women at Starfish Project using jade quartzite and 18k gold plated stainless steel beads. This piece measures 6 inches. Because of your purchase, exploited women will experience freedom. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/morris-jade-quartzite-bracelet/",
+        "pageTitle": "Morris; Jade Quartzite Bracelet - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/410-008-5_bracelets-510x763.jpg"
+    },
+    "Morris; Turquoise Bracelet": {
+        "productName": "Morris; Turquoise Bracelet",
+        "productPrice": "$19.99",
+        "productDescription": "\n\tThe Morris Turquoise Bracelet is equal to the cost of two weeks of meals for an exploited woman. The Morris Turquoise Bracelet is made by women at Starfish Project using aqua stone and 18k gold plated stainless steel beads. This piece measures 6 inches. Because of your purchase, exploited women will experience freedom. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/morris-turquoise-bracelet/",
+        "pageTitle": "Morris; Turquoise Bracelet - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/410-008-4_bracelets-510x763.jpg"
+    },
+    "Morris; Bright Blue Bracelet": {
+        "productName": "Morris; Bright Blue Bracelet",
+        "productPrice": "$19.99",
+        "productDescription": "\n\tThe Morris Bright Blue Bracelet is equal to the cost of two weeks of meals for an exploited woman. The Morris Bright Blue Bracelet is made by the women at Starfish Project using turquoise howlite and 18k gold plated stainless steel beads. This piece measures 6 inches. Because of your purchase, exploited women will experience freedom. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/morris-bright-blue-bracelet/",
+        "pageTitle": "Morris; Bright Blue Bracelet - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/410-008-6_bracelets-510x763.jpg"
+    },
+    "Morris; Green Jade Bracelet": {
+        "productName": "Morris; Green Jade Bracelet",
+        "productPrice": "$19.99",
+        "productDescription": "\n\tThe Morris Green Jade Bracelet is equal to the cost of two weeks of meals for an exploited woman. The Morris Green Jade Bracelet is made by women at Starfish Project using natural jade beads and 18k gold plated stainless steel beads. This piece measures 6 inches. Because of your purchase, exploited women will experience freedom. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/morris-green-jade-bracelet/",
+        "pageTitle": "Morris; Green Jade Bracelet - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/410-008-3_bracelets-510x763.jpg"
+    },
+    "Morris; Red Agate Bracelet": {
+        "productName": "Morris; Red Agate Bracelet",
+        "productPrice": "$19.99",
+        "productDescription": "\n\tThe Morris Red Agate Bracelet is equal to the cost of two weeks of meals for an exploited woman. The Morris Red Agate Bracelet is made by women at Starfish Project using red agate and 18k gold plated stainless steel beads. This piece measures 6 inches. Because of your purchase, exploited women will experience freedom. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/morris-red-agate-bracelet/",
+        "pageTitle": "Morris; Red Agate Bracelet - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/410-008-1_bracelets-510x763.jpg"
+    },
+    "Dena; Amazonite Small Bead Bracelet": {
+        "productName": "Dena; Amazonite Small Bead Bracelet",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Dena Turquoise Small Bead Bracelet is made by the women at Starfish Project using small amazonite stones and gold colored hematite beads bracelet. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/dena-amazonite-small-bead-bracelet/",
+        "pageTitle": "Dena; Amazonite Small Bead Bracelet - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/410-004_dena_starfish_project_bracelet-510x763.jpg"
+    },
+    "Phoebe; Gold Arrowhead Earrings": {
+        "productName": "Phoebe; Gold Arrowhead Earrings",
+        "productPrice": "$32.99",
+        "productDescription": "\n\tThe Phoebe Gold Arrowhead Earrings are equal to the cost of 1 year of internet access for one exploited woman. The Phoebe Gold Arrowhead Earrings are made by the women at Starfish Project using an 18k gold plated agate arrowhead pendant with 18k gold plated stainless steel hooks. This piece measures 2 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/phoebe-gold-arrowhead-earrings/",
+        "pageTitle": "Phoebe; Gold Arrowhead Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/126_032-3g_phoebe-gold_earrings-510x763.jpg"
+    },
+    "Shauna; Crystal Pendant Necklace": {
+        "productName": "Shauna; Crystal Pendant Necklace",
+        "productPrice": "$31.99",
+        "productDescription": "\n\tThe Shauna Crystal Pendant Necklace is equal to the cost of 1 week of room and board at the Starfish Project shelter. Here is what our friend Chenny had to say about her experience at our shelter: “I like the fact the shelter is big. I love having a big and spacious room. My room at the shelter is the biggest and most comfortable room I’ve ever had.”\nBecause of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/shauna-crystal-pendant-necklace/",
+        "pageTitle": "Shauna; Crystal Pendant Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/226-038_shauna_starfish_project_necklaces-2-510x763.jpg"
+    },
+    "Gemma; Turquoise Stone Bracelet": {
+        "productName": "Gemma; Turquoise Stone Bracelet",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Gemma Turquoise Stone Bracelet is equal to the cost of reaching out to 15 women still living in exploitation. The Gemma Turquoise Stone Bracelet is made by the women at Starfish Project using 18k gold plated turquoise stones. This adjustable bracelet can move to fit your wrist. This piece measures 8 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/gemma-turquoise-stone-bracelet/",
+        "pageTitle": "Gemma; Turquoise Stone Bracelet - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/426-008_gemma_bracelet-1-510x763.jpg"
+    },
+    "Kai; Turquoise Stone Ring": {
+        "productName": "Kai; Turquoise Stone Ring",
+        "productPrice": "$19.99",
+        "productDescription": "\n\tThe Kai Turquoise Stone Ring is equal to the cost of reaching out to 15 women still living in exploitation. The Kai Turquoise Stone Ring is made by the women at Starfish Project using 18k gold plated turquoise stone. This adjustable ring can move to fit your finger. This piece measures 3.5 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/new-2017/kai-turquoise-stone-ring/",
+        "pageTitle": "Kai; Turquoise Stone Ring - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/926-008_kai_ring-1-510x763.jpg"
+    },
+    "Lena; Gold Arrowhead & Amazonite Bead Necklace": {
+        "productName": "Lena; Gold Arrowhead & Amazonite Bead Necklace",
+        "productPrice": "$64.99",
+        "productDescription": "\n\tThe Lena Natural Arrow Necklace is equal to the cost of 1 week of schooling for a child of a woman at Starfish Project. The Lena Natural Arrow Necklace is made by the women at Starfish Project using a18k gold plated agate pendant with gold plated beads on 18k gold plated stainless chain. This piece measures 35 inches and the pendant is 2.75 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/lena-gold-arrowhead-bead-necklace/",
+        "pageTitle": "Lena; Gold Arrowhead & Amazonite Bead Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/210-003_lena-gold_necklace.jpg"
+    },
+    "Callie; Turquoise Pendant Gold Necklace": {
+        "productName": "Callie; Turquoise Pendant Gold Necklace",
+        "productPrice": "$42.99",
+        "productDescription": "\n\tThe Callie Turquoise Pendant Gold Necklace is equal to the cost of 1 week of counseling. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/callie-turquoise-pendant-gold-necklace/",
+        "pageTitle": "Callie; Turquoise Pendant Gold Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/213-036_callie_starfish_project_necklaces-510x763.jpg"
+    },
+    "Cora; Turquoise Triangle Pendant Necklace": {
+        "productName": "Cora; Turquoise Triangle Pendant Necklace",
+        "productPrice": "$49.99",
+        "productDescription": "\n\tThe Cora Turquoise Triangle Pendant Necklace is equal to the cost of 1 week of vocational training for one exploited woman. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/cora-turquoise-triangle-pendant-necklace/",
+        "pageTitle": "Cora; Turquoise Triangle Pendant Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/213-044_cora_starfish_project_necklaces-2-510x763.jpg"
+    },
+    "Reed; Stone and Chain Dangle Earrings": {
+        "productName": "Reed; Stone and Chain Dangle Earrings",
+        "productPrice": "$19.99",
+        "productDescription": "\n\tThe Reed Stone and Chain Dangle Earrings are equal to the cost of reaching out to 15 women still living in exploitation. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/reed-stone-chain-dangle-earrings/",
+        "pageTitle": "Reed; Stone and Chain Dangle Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/126-024g_reed_starfish_project_earrings-510x763.jpg"
+    },
+    "Juliet; Gold Chain Necklace": {
+        "productName": "Juliet; Gold Chain Necklace",
+        "productPrice": "$94.99",
+        "productDescription": "\n\tThe Juliet Gold Chain Statement is equal to the cost of 1 week of medical care for an exploited woman. The Juliet Gold Chain Necklace is made by the women at Starfish Project using 18k gold plated brass rings. This piece measures 15-18 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/juliet-gold-chain-necklace/",
+        "pageTitle": "Juliet; Gold Chain Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/226-037_juliet_necklace-510x763.jpg"
+    },
+    "Rowan; Terracotta Colored Crystal Necklace": {
+        "productName": "Rowan; Terracotta Colored Crystal Necklace",
+        "productPrice": "$44.99",
+        "productDescription": "\n\tThe Rowan Terracotta Colored Crystal Necklace is equal to the cost of 1 week of counseling. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/rowan-terracotta-colored-crystal-necklace/",
+        "pageTitle": "Rowan; Terracotta Colored Crystal Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/213-038_rowan_starfish_project_necklaces-2-510x763.jpg"
+    },
+    "Anna; Black Stone Necklace": {
+        "productName": "Anna; Black Stone Necklace",
+        "productPrice": "$38.99",
+        "productDescription": "\n\tThe Anna Black Black Stone Necklace is equal to the cost of 1 week of counseling. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/anna-black-stone-necklace/",
+        "pageTitle": "Anna; Black Stone Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/226-039-5_necklace-1-1-510x763.jpg"
+    },
+    "Jess; Rose Druzy Stud Earrings": {
+        "productName": "Jess; Rose Druzy Stud Earrings",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Jess Rose Rose Druzy Stud Earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/jess-rose-druzy-stud-earrings/",
+        "pageTitle": "Jess; Rose Druzy Stud Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/126-037-2g_jess-rose_starfish_project_earrings-510x763.jpg"
+    },
+    "Maddie; Silver Pendant Necklace": {
+        "productName": "Maddie; Silver Pendant Necklace",
+        "productPrice": "$38.99",
+        "productDescription": "\n\tThe Maddie Silver Pendant Necklace is equal to the cost of 3 weeks of medical care. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/maddie-grey-pendant-necklace/",
+        "pageTitle": "Maddie; Silver Pendant Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/226-040-1_maddie-grey_necklace-1-1-510x763.jpg"
+    },
+    "Tina; Small Gold Pendant Necklace": {
+        "productName": "Tina; Small Gold Pendant Necklace",
+        "productPrice": "$38.99",
+        "productDescription": "\n\tThe Tina Small Gold Pendant Necklace is equal to the cost of 2 weeks of medical care. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/tina-small-gold-pendant-necklace/",
+        "pageTitle": "Tina; Small Gold Pendant Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/226-042_tina_necklace-1-1-510x763.jpg"
+    },
+    "Veronica; Short Yellow Multi-Strand Necklace": {
+        "productName": "Veronica; Short Yellow Multi-Strand Necklace",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Veronica Short Yellow Multi-Strand Necklace is equal to the cost of 5 days of room and board at the Starfish Project shelter. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/veronica-short-yellow-multi-strand-necklace/",
+        "pageTitle": "Veronica; Short Yellow Multi-Strand Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/222-035_veronica_starfish_project_necklaces-510x763.jpg"
+    },
+    "Vienna; Black and White Gold Necklace": {
+        "productName": "Vienna; Black and White Gold Necklace",
+        "productPrice": "$44.99",
+        "productDescription": "\n\tThe Vienna Black and White Gold Necklace is equal to the cost of 1 week of counseling. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/vienna-black-and-white-gold-necklace/",
+        "pageTitle": "Vienna; Black and White Gold Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/213-055_vienna_starfish_project_necklaces-2-510x763.jpg"
+    },
+    "Emily; Turquoise Square Bead Necklace": {
+        "productName": "Emily; Turquoise Square Bead Necklace",
+        "productPrice": "$44.99",
+        "productDescription": "\n\tThe Emily Turquoise Square Bead Necklace is equal to the cost of 1 week of vocational training for one exploited woman. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/emily-turquoise-square-bead-necklace-2/",
+        "pageTitle": "Emily; Turquoise Square Bead Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/204-021_emily_starfish_project_necklaces-2-510x763.jpg"
+    },
+    "Lauren; Green Stone Pendant Necklace": {
+        "productName": "Lauren; Green Stone Pendant Necklace",
+        "productPrice": "$32.99",
+        "productDescription": "\n\tThe Lauren Green Stone Pendant Necklace is equal to the cost of 1 week of room and board at the Starfish Project shelter. The Lauren Green Stone Pendant Necklace is made by the women at Starfish Project using a natural green jasper pendant and double black copper chain. This piece measures 18-20.5 inches and the pendant is 1.5 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/lauren-green-stone-pendant-necklace/",
+        "pageTitle": "Lauren; Green Stone Pendant Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/212-027_lauren_necklace.jpg"
+    },
+    "Gretchen; Stone & Dark Chain Necklace": {
+        "productName": "Gretchen; Stone & Dark Chain Necklace",
+        "productPrice": "$44.99",
+        "productDescription": "\n\tThe Gretchen Stone & Dark Chain Necklace is equal to the cost of 1 week of vocational training for one exploited woman. The Gretchen Stone & Dark Chain Necklace is made by the women at Starfish Project using an 18k gold plated natural agate pendant on a black copper chain. This piece measures 18-20.5 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/gretchen-stone-dark-chain-necklace/",
+        "pageTitle": "Gretchen; Stone & Dark Chain Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/213-056_gretchen_necklace-510x763.jpg"
+    },
+    "Lena; Natural Arrow Necklace": {
+        "productName": "Lena; Natural Arrow Necklace",
+        "productPrice": "$54.99",
+        "productDescription": "\n\tThe Lena – Natural Arrow Necklace is made by the women at Starfish Project using a18k gold plated agate pendant with gold plated beads on 18k gold plated stainless chain. This piece measures 35 inches and the pendant is 2.75 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/lena-natural-arrow-necklace/",
+        "pageTitle": "Lena; Natural Arrow Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/226-036_lena-purple_necklace-510x763.jpg"
+    },
+    "Demi; White Rectangle Stone Necklace": {
+        "productName": "Demi; White Rectangle Stone Necklace",
+        "productPrice": "$34.99",
+        "productDescription": "\n\tThe Demi White Rectangle Stone Necklace is equal to the cost of 1 week of room and board at the Starfish Project shelter. The Demi White Rectangle Stone Necklace is made by the women at Starfish Project using 18k gol plated druzy agate and 18k gold plated stainless steel chain. This piece measures 16.5-18.5 inches and the pendant is 0.5 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/demi-white-rectangle-stone-necklace/",
+        "pageTitle": "Demi; White Rectangle Stone Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/213-058_demi_necklace-510x763.jpg"
+    },
+    "Brooke; Green Stone Necklace": {
+        "productName": "Brooke; Green Stone Necklace",
+        "productPrice": "$54.99",
+        "productDescription": "\n\tThe Brooke Green Stone Necklace is equal to the cost of 1.5 weeks of vocational training for one exploited woman. The Brooke Green Stone Necklace is made by the women at Starfish Project using agreen agate stones pendant with gold plated beads on 18k gold plated stainless steel chain. This piece measures 35 inches and the pendant is 2 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/brooke-green-stone-necklace/",
+        "pageTitle": "Brooke; Green Stone Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/226-047_brooke_necklace-510x763.jpg"
+    },
+    "Vera; Blue Fringe Earrings": {
+        "productName": "Vera; Blue Fringe Earrings",
+        "productPrice": "$24.99",
+        "productDescription": "\n\tThe Vera Earrings are equal to the cost of 7 days of shelter for an exploited woman. Because of your purchase, exploited women will experience freedom. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/vera-blue-fringe-earrings/",
+        "pageTitle": "Vera; Blue Fringe Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/09/118-006-1g_earrings-510x763.jpg"
+    },
+    "Jess; White Druzy Stud Earrings": {
+        "productName": "Jess; White Druzy Stud Earrings",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Jess White Druzy Stud Earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/jess-white-druzy-stud-earrings/",
+        "pageTitle": "Jess; White Druzy Stud Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/126-037-1g_jess-white_starfish_project_earrings-510x763.jpg"
+    },
+    "Anna; White Stone Necklace": {
+        "productName": "Anna; White Stone Necklace",
+        "productPrice": "$38.99",
+        "productDescription": "\n\tThe Anna White White Stone Necklace is equal to the cost of 1 week of counseling. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/anna-white-stone-necklace/",
+        "pageTitle": "Anna; White Stone Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/226-039-3_anna-white_necklace-1-510x763.jpg"
+    },
+    "Kyra; Multicolored Druzy Stud Earrings": {
+        "productName": "Kyra; Multicolored Druzy Stud Earrings",
+        "productPrice": "$24.99",
+        "productDescription": "\n\tThe Kyra Multicolored Druzy Stud Earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/kyra-multicolored-druzy-stud-earrings/",
+        "pageTitle": "Kyra; Multicolored Druzy Stud Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/126-040g_kyra_starfish_project_earrings-2-510x763.jpg"
+    },
+    "Daisy; Peach Multi-Strand Necklace": {
+        "productName": "Daisy; Peach Multi-Strand Necklace",
+        "productPrice": "$39.99",
+        "productDescription": "\n\tThe Daisy Peach Multi-Strand Necklace is equal to the cost of reaching out to 15 women still living in exploitation. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/daisy-peach-multi-strand-necklace/",
+        "pageTitle": "Daisy; Peach Multi-Strand Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/222-026-2_necklaces-510x763.jpg"
+    },
+    "Daisy; Green Multi-Strand Necklace": {
+        "productName": "Daisy; Green Multi-Strand Necklace",
+        "productPrice": "$39.99",
+        "productDescription": "\n\tThe Daisy Green Green Multi-Strand Necklace is equal to the cost of reaching out to 15 women still living in exploitation. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/daisy-green-multi-strand-necklace/",
+        "pageTitle": "Daisy; Green Multi-Strand Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/222-026-1_daisy-green_starfish_project_necklaces-510x763.jpg"
+    },
+    "Tori; Short Green and Gold Necklace": {
+        "productName": "Tori; Short Green and Gold Necklace",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Tori Green Short Green and Gold Necklace is equal to the cost of 1 week of room and board at the Starfish Project shelter. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/tori-short-green-gold-necklace/",
+        "pageTitle": "Tori; Short Green and Gold Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/222-028-1_tori-green_starfish_project_necklaces-510x763.jpg"
+    },
+    "Tori; Short Peach and Gold Necklace": {
+        "productName": "Tori; Short Peach and Gold Necklace",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Tori Peach Short Peach and Gold Necklace is equal to the cost of 1 week of room and board at the Starfish Project shelter. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/tori-short-peach-gold-necklace/",
+        "pageTitle": "Tori; Short Peach and Gold Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/222-028-2_tori-peach_starfish_project_necklaces-510x763.jpg"
+    },
+    "Katie; Tri-Strand Turquoise Necklace": {
+        "productName": "Katie; Tri-Strand Turquoise Necklace",
+        "productPrice": "$49.99",
+        "productDescription": "\n\tThe Katie Tri-Strand Turquoise Necklace is equal to the cost of 1 week of counseling. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/katie-tri-strand-turquoise-necklace/",
+        "pageTitle": "Katie; Tri-Strand Turquoise Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/210-002_katie_necklace-510x763.jpg"
+    },
+    "Cheryl; Short Turquoise Multi-Strand Necklace": {
+        "productName": "Cheryl; Short Turquoise Multi-Strand Necklace",
+        "productPrice": "$54.99",
+        "productDescription": "",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/cheryl-short-turquoise-multi-strand-necklace/",
+        "pageTitle": "Cheryl; Short Turquoise Multi-Strand Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/204-024_cheryl_starfish_project_necklaces-510x763.jpg"
+    },
+    "Natalie; Turquoise Hexagon Stud Earrings": {
+        "productName": "Natalie; Turquoise Hexagon Stud Earrings",
+        "productPrice": "$24.99",
+        "productDescription": "\n\tThe Natalie Turquoise Hexagon Stud Earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers.\nThe Natalie Earrings are named in honor of Natalie Wellsfry by Virginia Scharf. As a friend and roommate, Natalie brings light to the world with her graciousness and chocolate chip cookies.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/natalie-turquoise-hexagon-stud-earrings/",
+        "pageTitle": "Natalie; Turquoise Hexagon Stud Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/126-038g_earrings-2-510x763.jpg"
+    },
+    "Lori; Antique Gold and Bead Dangle Earrings": {
+        "productName": "Lori; Antique Gold and Bead Dangle Earrings",
+        "productPrice": "$21.99",
+        "productDescription": "\n\tThe Lori Antique Gold and Bead Dangle Earrings are equal to the cost of reaching out to 15 women still living in exploitation. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/lori-antique-gold-bead-dangle-earrings/",
+        "pageTitle": "Lori; Antique Gold and Bead Dangle Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/106-042g_lori_starfish_project_earrings-510x763.jpg"
+    },
+    "Amber; Turquoise Tibetan Bead Necklace": {
+        "productName": "Amber; Turquoise Tibetan Bead Necklace",
+        "productPrice": "$38.99",
+        "productDescription": "\n\tThe Amber Turquoise Tibetan Bead Necklace is equal to the cost of 1 week of counseling. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/amber-tibetan-bead-necklace/",
+        "pageTitle": "Amber; Turquoise Tibetan Bead Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/204-025-2_necklaces-2-510x763.jpg"
+    },
+    "Bailey; Amazonite Bead Necklace": {
+        "productName": "Bailey; Amazonite Bead Necklace",
+        "productPrice": "$46.99",
+        "productDescription": "\n\tThe Bailey Turquoise Bead Necklace is made by the women at Starfish Project using amazonite stone and gold colored hematite beads. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/new-2017/bailey-amazonite-bead-necklace/",
+        "pageTitle": "Bailey; Amazonite Bead Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/210-001_bailey_starfish_project_necklace-2-510x763.jpg"
+    },
+    "Bess; Amazonite Bead Bracelet": {
+        "productName": "Bess; Amazonite Bead Bracelet",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Bess Turquoise Bead Bracelet is made by the women at Starfish Project using large amazonite stones and gold colored hematite beads bracelet. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/bracelet/bess-amazonite-bead-bracelet/",
+        "pageTitle": "Bess; Amazonite Bead Bracelet - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/410-007_bess_starfish_project_bracelet-510x763.jpg"
+    },
+    "Sierra; Gold Stone Tassel Earrings": {
+        "productName": "Sierra; Gold Stone Tassel Earrings",
+        "productPrice": "$34.99",
+        "productDescription": "\n\tThe Sierra Gold Stone Tassel Earrings are equal to the cost of 1 week of medical care for an exploited woman. The Sierra Gold Stone Tassel Earrings are made by the women at Starfish Project using an 18k gold plated druzy agate, on 18k gold plated stainless steel tassels and on 18k gold plated stainless steel hooks. This piece measures 2 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/sierra-gold-stone-tassel-earrings/",
+        "pageTitle": "Sierra; Gold Stone Tassel Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/126-025g_sierra_starfish_project_earrings-510x763.jpg"
+    },
+    "Riley; Black Druzy Stud Earrings": {
+        "productName": "Riley; Black Druzy Stud Earrings",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Riley Black Druzy Stud Earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. The Riley Black Druzy Stud Earrings are made by the women at Starfish Project using 18k gold plated circular black druzy agate studs. This piece measures 0.35 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/riley-black-druzy-stud-earrings/",
+        "pageTitle": "Riley; Black Druzy Stud Earrings - Starfish Project",
         "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/126-034-1g_riley-black_earrings.jpg"
     },
-    "17": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/ashton-pink-druzy-stud-earrings/",
+    "Ashton; Pink Druzy Stud Earrings": {
+        "productName": "Ashton; Pink Druzy Stud Earrings",
         "productPrice": "$24.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/126-035-1g_ashton-pink_earrings-220x330.jpg"
+        "productDescription": "\n\tThe Ashton Pink Druzy Stud Earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. The Ashton Pink Druzy Stud Earrings are made by the women at Starfish Project using 18k gold plated pink druzy agate studs. This piece measures 0.45 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/ashton-pink-druzy-stud-earrings/",
+        "pageTitle": "Ashton; Pink Druzy Stud Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/126-035-1g_ashton-pink_earrings-510x763.jpg"
     },
-    "18": {
+    "Beth; Purple Crystal Pendant Necklace": {
+        "productName": "Beth; Purple Crystal Pendant Necklace",
+        "productPrice": "$34.99",
+        "productDescription": "\n\tThe Beth Purple Crystal Pendant Necklace is equal to the cost of 1 week of medical care for an exploited woman. The Beth Purple Crystal Pendant Necklace is made by the women at Starfish Project using an 18k gold-plated purple crystal pendant and 18k gold-plated stainless steel chain. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\nThe Beth necklace is named in honor of Beth Adams by Stefanie Atem. As a friend, Beth impacts my life by being a good listener and loving those around her well.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/beth-purple-crystal-pendant-necklace/",
+        "pageTitle": "Beth; Purple Crystal Pendant Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/213-053_beth_necklace-510x763.jpg"
+    },
+    "Darcy; Black & Gold Pendant Necklace": {
+        "productName": "Darcy; Black & Gold Pendant Necklace",
+        "productPrice": "$29.99",
+        "productDescription": "\n\tThe Darcy Black & Gold Pendant Necklace is equal to the cost of 1 week of room and board at the Starfish Project shelter. The Darcy Black and Gold Pendant Necklace was released in honor of Shao, a woman who joined Starfish Project in April 2017 after she broke her ankle in her exploitative situation. Because of your support, we can provide Shao with a wheelchair and other medical support. Your purchase supports Shao and women like her as they experience freedom at Starfish Project.\nThe Darcy necklace was made by the women at Starfish Project using 18k gold plated black stone and an 18k gold plated stainless steel chain. This piece measures 16-18 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/darcy-black-gold-pendant-necklace/",
+        "pageTitle": "Darcy; Black & Gold Pendant Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/226-030_darcy_necklace-510x763.jpg"
+    },
+    "Allison; White Quartz Earrings": {
+        "productName": "Allison; White Quartz Earrings",
+        "productPrice": "$19.99",
+        "productDescription": "\n\tThe Allison White Quartz Earrings is made by the women at Starfish Project using white quartz stones, 18k gold plated stainless steel chain on 18k gold plated stainless steel hooks. This piece measures 2 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
         "productUrl": "https://starfishproject.com/shop/all/earrings/allison-white-quartz-earrings/",
-        "productPrice": "$19.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/122-035-1g_allison-white_earrings-220x330.jpg"
+        "pageTitle": "Allison; White Quartz Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/122-035-1g_allison-white_earrings-510x763.jpg"
     },
-    "19": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/jamie-multicolored-small-crystal-earrings/",
+    "Jamie; Multicolored Small Crystal Earrings": {
+        "productName": "Jamie; Multicolored Small Crystal Earrings",
         "productPrice": "$22.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/106-041g_jamie-multicolored_earrings-220x330.jpg"
+        "productDescription": "\n\tThe Jamie Multicolored Small Crystal Earrings is made by the women at Starfish Project using gold plated wire-wrapped multicolored teardrop crystals on 18k gold plated stainless steel hooks. This piece measures 1 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/jamie-multicolored-small-crystal-earrings/",
+        "pageTitle": "Jamie; Multicolored Small Crystal Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/106-041g_jamie-multicolored_earrings-510x763.jpg"
     },
-    "20": {
+    "Lila; Clear Teardrop Earrings": {
+        "productName": "Lila; Clear Teardrop Earrings",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Lila Clear Clear Teardrop Earrings are equal to the cost of 1 week of medical care. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
         "productUrl": "https://starfishproject.com/shop/all/earrings/lila-clear-teardrop-earrings/",
-        "productPrice": "$28.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/126-028g_lila-clear_starfish_project_earrings-220x330.jpg"
+        "pageTitle": "Lila; Clear Teardrop Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/06/126-028g_lila-clear_starfish_project_earrings-510x763.jpg"
     },
-    "21": {
+    "Vivian; Black Teardrop Earrings": {
+        "productName": "Vivian; Black Teardrop Earrings",
+        "productPrice": "$28.99",
+        "productDescription": "\n\tThe Vivian Black Teardrop Earrings is made by the women at Starfish Project using black onyx on a 18k gold plated stainless steel hooks. This piece measures 1.25 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
         "productUrl": "https://starfishproject.com/shop/all/earrings/vivian-black-teardrop-earrings/",
-        "productPrice": "$28.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/126-023g_vivian_earrings-220x330.jpg"
+        "pageTitle": "Vivian; Black Teardrop Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/126-023g_vivian_earrings-510x763.jpg"
     },
-    "22": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/allison-blue-quartz-earrings/",
+    "Allison; Blue Quartz Earrings": {
+        "productName": "Allison; Blue Quartz Earrings",
         "productPrice": "$19.99",
+        "productDescription": "\n\tThe Allison Blue Quartz Earrings are equal to the cost of reaching out to 15 women still living in exploitation. The Allison Blue Quartz Earrings are made by the women at Starfish Project using blue quartz stones hung from on an 18k gold plated stainless steel chain on 18k gold plated stainless steel hooks. This piece measures 2 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/allison-blue-quartz-earrings/",
+        "pageTitle": "Allison; Blue Quartz Earrings - Starfish Project",
         "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/122-035-3g_allison-blue_earrings.jpg"
     },
-    "23": {
+    "Melissa; Tea Rose Quartz Chain Necklace": {
+        "productName": "Melissa; Tea Rose Quartz Chain Necklace",
+        "productPrice": "$32.99",
+        "productDescription": "\n\tThe Melissa Tea Rose Quartz Chain Necklace is equal to the cost of 1 week of medical care for an exploited woman. The Melissa Tea Rose Quartz Chain Necklace is made by the women at Starfish Project using a tea rose quartz crystal pendant and double 18k gold plated stainless steel chain. This piece measures 18-20 inches and the pendant is 1.5 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/melissa-tea-rose-quartz-chain-necklace/",
+        "pageTitle": "Melissa; Tea Rose Quartz Chain Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/222-035-2_melissa-tea_rose_necklace-510x763.jpg"
+    },
+    "Allison; Tea Rose Quartz Earrings": {
+        "productName": "Allison; Tea Rose Quartz Earrings",
+        "productPrice": "$19.99",
+        "productDescription": "\n\tThe Allison Tea Rose Quartz Earrings are equal to the cost of reaching out to 15 women still living in exploitation. The Allison Tea Rose Quartz Earrings are made by the women at Starfish Project using tea rose quartz stones hung from on an 18k gold plated stainless steel chain on 18k gold plated stainless steel hooks. This piece measures 2 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
         "productUrl": "https://starfishproject.com/shop/all/earrings/allison-tea-rose-quartz-earrings/",
-        "productPrice": "$19.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/122-035-2g_allison-tea_rose_earrings-220x330.jpg"
+        "pageTitle": "Allison; Tea Rose Quartz Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/122-035-2g_allison-tea_rose_earrings-510x763.jpg"
     },
-    "24": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/vera-red-fringe-earrings/",
+    "Vera; Red Fringe Earrings": {
+        "productName": "Vera; Red Fringe Earrings",
         "productPrice": "$24.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/118-006g_vera_earrings-220x330.jpg"
+        "productDescription": "\n\tThe Vera Red Fringe Earrings is made by the women at Starfish Project using red jasper beads, gold plated brass fringe and on 18k gold plated stainless steel hooks. This piece measures 3 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/vera-red-fringe-earrings/",
+        "pageTitle": "Vera; Red Fringe Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/118-006g_vera_earrings-510x763.jpg"
     },
-    "25": {
+    "Nicola; Quartz Pendant Necklace": {
+        "productName": "Nicola; Quartz Pendant Necklace",
+        "productPrice": "$46.99",
+        "productDescription": "\n\tThe Nicola Blush & Gold Pendant Necklace is equal to the cost of 1 week of vocational training for one exploited woman. The Nicola Blush & Gold Pendant Necklace is made by the women at Starfish Project using a wire wrapped quartz pendant and 18k gold plated stainless steel chain. This piece measures 21.5-24 inches and the pendant is 1.5 inches. It is a red, blush color that varies from stone to stone. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/nicola-quartz-pendant-necklace/",
+        "pageTitle": "Nicola; Quartz Pendant Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/226-031_nicola_necklace-510x763.jpg"
+    },
+    "Hannah; Turquoise Bead Necklace": {
+        "productName": "Hannah; Turquoise Bead Necklace",
+        "productPrice": "$46.99",
+        "productDescription": "\n\tThe Hannah Turquoise Bead Necklace is equal to the cost of 1 week of counseling for an exploited woman . The Hannah Turquoise Bead Necklace is made by the women at Starfish Project using turquoise stone and gold colored wooden beads. This piece measures 29 and 37 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/hannah-turquoise-bead-necklace/",
+        "pageTitle": "Hannah; Turquoise Bead Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/226-036-2_hannah-turquoise_necklace-510x763.jpg"
+    },
+    "Nadia; Black Circle Ceramic Earrings": {
+        "productName": "Nadia; Black Circle Ceramic Earrings",
+        "productPrice": "$19.99",
+        "productDescription": "\n\tThe Nadia Black Circle Ceramic Earrings are equal to the cost of 4 days of room and board at the Starfish Project shelter. The Nadia Black Circle Ceramic Earrings are made by the women at Starfish Project using black agate pendants, hematite beads, black copper chain and 18k gold plated stainless steel hooks. This piece measures 1.75 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
         "productUrl": "https://starfishproject.com/shop/all/earrings/nadia-black-circle-ceramic-earrings/",
-        "productPrice": "$19.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/122-038g_nadia_earrings-3-220x330.jpg"
+        "pageTitle": "Nadia; Black Circle Ceramic Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/122-038g_nadia_earrings-3-510x763.jpg"
     },
-    "26": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/rachel-black-striped-ceramic-earrings/",
+    "Rachel; Black Striped Ceramic Earrings": {
+        "productName": "Rachel; Black Striped Ceramic Earrings",
         "productPrice": "$19.99",
+        "productDescription": "\n\tThe Rachel Black Striped Ceramic Earrings are equal to the cost of 4 days of room and board at the Starfish Project shelter. The Rachel Black Striped Ceramic Earrings are made by the women at Starfish Project using black agate pendant, hematite beads, black copper chain and 18k gold plated stainless steel hooks. This piece measures 2 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/rachel-black-striped-ceramic-earrings/",
+        "pageTitle": "Rachel; Black Striped Ceramic Earrings - Starfish Project",
         "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/122-037g_rachel_earrings.jpg"
     },
-    "27": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/bridget-light-blue-crystal-earrings/",
-        "productPrice": "$22.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/106-036g_bridget-light_blue_earrings-220x330.jpg"
-    },
-    "28": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/cindy-purple-crystal-gold-earrings/",
-        "productPrice": "$24.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_104-022g-4-220x330.jpg"
-    },
-    "29": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/raya-crystal-gold-earrings/",
+    "Layla-Silver; Cross Bar Necklace": {
+        "productName": "Layla-Silver; Cross Bar Necklace",
         "productPrice": "$42.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-017s-4-220x330.jpg"
+        "productDescription": "\n\tThe Layla Silver Cross Bar Necklace is equal to the cost of 1 week of counseling. Every purchase of the Layla Silver Cross Bar Necklace means exploited women and girls can live in emotional safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/layla-silver-cross-bar-necklace/",
+        "pageTitle": "Layla-Silver; Cross Bar Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_205-047-2-1-510x763.jpg"
     },
-    "30": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/lindy-black-white-stone-earrings/",
-        "productPrice": "$36.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-014g-4-220x330.jpg"
-    },
-    "31": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/yvonne-stainless-steel-gold-post-earrings/",
-        "productPrice": "$32.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-009g-1-220x330.jpg"
-    },
-    "32": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/charlie-stainless-steel-post-earrings/",
-        "productPrice": "$32.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_105-118s-1-220x330.jpg"
-    },
-    "33": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/ellen-gold-triangle-earrings/",
-        "productPrice": "$26.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-020g-4-220x330.jpg"
-    },
-    "34": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/ellen-silver-triangle-earrings/",
-        "productPrice": "$26.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-020s-4-220x330.jpg"
-    },
-    "35": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/clara-silver-stud-earrings/",
-        "productPrice": "$24.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-018s-4-220x330.jpg"
-    },
-    "36": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/rosette-turquoise-disk-gold-earrings/",
-        "productPrice": "$28.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_104-021g-4-220x330.jpg"
-    },
-    "37": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/gala-white-crystal-gold-earrings/",
-        "productPrice": "$36.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-019g-4-220x330.jpg"
-    },
-    "38": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/randi-ceramic-and-copper-earrings/",
-        "productPrice": "$32.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-006n-1-220x330.jpg"
-    },
-    "39": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/adalyn-earrings/",
-        "productPrice": "$32.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_122-025n-1-220x330.jpg"
-    },
-    "40": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/janelle-charcoal-dangle-earrings/",
-        "productPrice": "$24.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/03/SFweb-earring_105-045s-220x330.jpg"
-    },
-    "41": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/ada-gold-fringe-earrings/",
-        "productPrice": "$34.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_126-016g-4-220x330.jpg"
-    },
-    "42": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/ayla-red-gold-earrings/",
-        "productPrice": "$24.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/12/SFweb-earring_118-004g-220x330.jpg"
-    },
-    "43": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/bridget-crystal-wire-wrapped-teardrop-earrings/",
+    "Bridget; Light Blue Crystal Earrings": {
+        "productName": "Bridget; Light Blue Crystal Earrings",
         "productPrice": "$22.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/02/SFweb-earring_105-030s-220x330.jpg"
+        "productDescription": "\n\tThe Bridget Light Blue Crystal Earrings are equal to the cost of reaching out to 15 women still living in exploitation. The Bridget Light Blue Crystal Earrings are made by the women at Starfish Project using gold plated wire-wrapped light blue teardrop crystals on 18k gold plated stainless steel hooks. This piece measures 1.25 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/bridget-light-blue-crystal-earrings/",
+        "pageTitle": "Bridget; Light Blue Crystal Earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/106-036g_bridget-light_blue_earrings-510x763.jpg"
     },
-    "44": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/bridget-moonstone-wire-wrapped-teardrop-earrings/",
+    "May; Black Onyx Crystal Necklace": {
+        "productName": "May; Black Onyx Crystal Necklace",
+        "productPrice": "$54.99",
+        "productDescription": "\n\tThe May Black Onyx Crystal Necklace is made by the women at Starfish Project using black onyx crystal, glass and hematite beads on a on a continuous 18k gold plated stainless steel chain. This piece measures 40 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/may-black-onyx-bead-necklace/",
+        "pageTitle": "May; Black Onyx Crystal Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/206-037_may_black-necklace-510x763.jpg"
+    },
+    "Andrea; Gold Multicolor Crystal & Gold Necklace": {
+        "productName": "Andrea; Gold Multicolor Crystal & Gold Necklace",
+        "productPrice": "$54.99",
+        "productDescription": "\n\tThe Andrea Multicolor Crystal & Gold Necklace is equal to the cost of 1 week of medical care for an exploited woman. The Andrea Gold Multicolor Crystal & Gold Necklace is made by the women at Starfish Project using multicolored crystal beads and glass on a on a continuous 18k gold plated stainless steel chain. This piece measure 40 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/andrea-gold-multicolor-crystal-gold-necklace/",
+        "pageTitle": "Andrea; Gold Multicolor Crystal & Gold Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/205-060-1_andrea-gold_necklace.jpg"
+    },
+    "May; Blue Crystal Bead Necklace": {
+        "productName": "May; Blue Crystal Bead Necklace",
+        "productPrice": "$54.99",
+        "productDescription": "\n\tThe May Blue Crystal Bead Necklace is equal to the cost of 1 week of counseling for an exploited woman . The May Blue Crystal Bead Necklace is made by the women at Starfish Project using blue crystal beads and glass on a on a continuous 18k gold-plated stainless steel chain. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/may-blue-crystal-bead-necklace/",
+        "pageTitle": "May; Blue Crystal Bead Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/04/206-035_may-blue_necklace.jpg"
+    },
+    "May; Pink Agate Necklace": {
+        "productName": "May; Pink Agate Necklace",
+        "productPrice": "$54.99",
+        "productDescription": "\n\tThe May Pink Crystal Bead Necklace is equal to the cost of 1 week of counseling for an exploited woman. The May Pink Agate Necklace is made by the women at Starfish Project using pink agate, crystal, glass and hematite on a continuous 18k gold plated stainless steel chain. This piece measures 40 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/may-pink-agate-bead-necklace/",
+        "pageTitle": "May; Pink Agate Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/206-039_may-pink_necklace-510x763.jpg"
+    },
+    "Nina; Rainbow Bead Children’s Necklace": {
+        "productName": "Nina; Rainbow Bead Children’s Necklace",
+        "productPrice": "$32.99",
+        "productDescription": "\n\tThe Nina Rainbow Bead Children's Necklace is made by the women at Starfish Project using rainbow lampwork glass beads and ribbon. This piece measures 40 inches. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/nina-rainbow-bead-childrens-necklace/",
+        "pageTitle": "Nina; Rainbow Bead Children's Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/202-020_nina_necklace-510x763.jpg"
+    },
+    "Hannah; Blue Bead Necklace": {
+        "productName": "Hannah; Blue Bead Necklace",
+        "productPrice": "$46.99",
+        "productDescription": "\n\tThe Hannah Blue Bead Necklace is equal to the cost of 1 week of vocational training for one exploited woman. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/hannah-blue-bead-necklace/",
+        "pageTitle": "Hannah; Blue Bead Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/226-036-1_hannah-blue_necklace-510x763.jpg"
+    },
+    "Restore Hope T-Shirt": {
+        "productName": "Restore Hope T-Shirt",
+        "productPrice": "$25.00",
+        "productDescription": "",
+        "productUrl": "https://starfishproject.com/shop/all/t-shirt/restore-hope-t-shirt/",
+        "pageTitle": "Restore Hope T-Shirt - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/IMG_5992.JPG-510x763.jpeg"
+    },
+    "Haley; Red Star and Ribbon Children’s Necklace": {
+        "productName": "Haley; Red Star and Ribbon Children’s Necklace",
         "productPrice": "$22.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_105-005s-1-220x330.jpg"
+        "productDescription": "\n\tThe Haley Red Star & Ribbon Necklace is equal to the cost of reaching out to 15 women still living in exploitation. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/haley-red-star-and-ribbon-childrens-necklace/",
+        "pageTitle": "Haley; Red Star and Ribbon Children's Necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2017/03/202-021_haley_necklace-510x763.jpg"
     },
-    "45": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/annika-silver-toned-bead-earrings/",
-        "productPrice": "$19.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_105-113s-1-220x330.jpg"
+    "Avery; Long Crystal Pendant Necklace": {
+        "productName": "Avery; Long Crystal Pendant Necklace",
+        "productPrice": "$56.99",
+        "productDescription": "\n\tThe Avery Long Crystal Pendant Necklace is equal to the cost of 1.5 weeks of vocational training for one exploited woman. Every purchase of the Avery Long Crystal Pendant Necklace means exploited women and girls can gain the skills they need to establish an independent life after Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/avery-long-crystal-pendant-necklace/",
+        "pageTitle": "Avery Necklace: Long Blue & Purple Crystal Stone Pendant Necklace | Purple Pendant Necklace",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_213-010-1-510x763.jpg"
     },
-    "46": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/leia-bali-ball-spherical-earrings/",
-        "productPrice": "$19.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_105-015s-1-220x330.jpg"
+    "Rhianna; Purple & gold layering necklace": {
+        "productName": "Rhianna; Purple & gold layering necklace",
+        "productPrice": "$54.99",
+        "productDescription": "\n\tThe Rhianna Purple & gold layering necklace is equal to the cost of 1.5 weeks of vocational training for one exploited woman. Every purchase of the Rhianna Purple & gold layering necklace means exploited women and girls can gain the skills they need to establish an independent life after Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/rhianna-purple-gold-layering-necklace/",
+        "pageTitle": "Rhianna; Purple & gold layering necklace - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_213-019-4-510x763.jpg"
     },
-    "47": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/willow-earrings/",
+    "Joleen; Purple Crystal Pendant Necklace": {
+        "productName": "Joleen; Purple Crystal Pendant Necklace",
+        "productPrice": "$54.99",
+        "productDescription": "\n\tThe Joleen Purple Crystal Pendant Necklace is equal to the cost of 1 week of schooling for a child of a woman at Starfish Project. Every purchase of the Joleen Purple Crystal Pendant Necklace means exploited women can provide physical safety and education for their child.  Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/necklace/joleen-purple-crystal-pendant-necklace/",
+        "pageTitle": "Purple Crystal Pendant Necklace | Crystal Necklaces for Women",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-necklace_213-012-1-510x763.jpg"
+    },
+    "Cindy; Purple crystal & gold earrings": {
+        "productName": "Cindy; Purple crystal & gold earrings",
         "productPrice": "$24.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_122-030m-1-220x330.jpg"
-    },
-    "48": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/kendra-blue-quartz-earrings/",
-        "productPrice": "$26.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_122-010-3m-1-220x330.jpg"
-    },
-    "49": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/kendra-white-quartz-earrings/",
-        "productPrice": "$26.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_122-010-1n-1-220x330.jpg"
-    },
-    "50": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/gia-earrings/",
-        "productPrice": "$24.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_103-032-2g-1-220x330.jpg"
-    },
-    "51": {
-        "productUrl": "https://starfishproject.com/shop/all/earrings/valeria-earrings/",
-        "productPrice": "$29.99",
-        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/06/SFweb-earring_126-023g-220x330.jpg"
+        "productDescription": "\n\tThe Cindy Purple crystal & gold earrings are equal to the cost of 1 week of room and board at the Starfish Project shelter. Every purchase of the Cindy Purple crystal & gold earrings means exploited women and girls can live in physical safety at Starfish Project. Because of your purchase, exploited women and girls will experience freedom, establish independence, and develop careers. Thank you for restoring hope to exploited women and girls.\n",
+        "productUrl": "https://starfishproject.com/shop/all/earrings/cindy-purple-crystal-gold-earrings/",
+        "pageTitle": "Cindy; Purple crystal & gold earrings - Starfish Project",
+        "imageUrl": "https://starfishproject.com/wp-content/uploads/2016/07/SFweb-earring_104-022g-4-510x763.jpg"
     }
 }
