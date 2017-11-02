@@ -30,8 +30,9 @@ Promise.map(urls, function(url){
 	// Here is the access to the product page listings
 	pages.forEach(function($){
 		// This code here grabs the url from each listing, and then pushes that url into the pageUrls array
-	  $('.product-box').each(function(index, elem){
-	    var productUrl = $(elem).children().first().attr("href");
+	  $('.product-box a').each(function(index, elem){
+      var hs = 'https://www.fairandsimple.com'
+	    var productUrl = hs + $(elem).attr("href");
 	    pageUrls.push(productUrl);
 	  });
 	})
