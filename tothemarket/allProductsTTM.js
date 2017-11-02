@@ -61,8 +61,8 @@ Promise.map(urls, function(url){
 	// Here is the access to the product page listings
 	pages.forEach(function($){
 		// This code here grabs the url from each listing, and then pushes that url into the pageUrls array
-	  $('.product-small').each(function(index, elem){
-	    var productUrl = $(elem).children().first().attr("href");
+	  $('.product-hover a').each(function(index, elem){
+	    var productUrl = $(elem).attr("href");
 	    pageUrls.push(productUrl);
 	  });
 	})
@@ -90,11 +90,11 @@ Promise.map(urls, function(url){
 
 		  // This is where the specific queries are written to get all the info you need
 		  // Can even get all the meta data, google how to get a pages meta data from Jquery
-		  productName = $('h1.entry-title').text();
-		  productPrice = $('p.price > span').text();
-		  productDescription = $('div.short-description').text();
+		  productName = $('product-name h1').text();
+		  productPrice = $('span.price').text();
+		  productDescription = $('div.std').text();
 		  pageTitle = $('title').text();
-		  imageUrl = $('div.product-image div.slide.easyzoom a > img').attr('src');
+		  imageUrl = $('.cloud-zoom').attr('href');
 
 		  // Store all the info we found into the results array
 		  results[productName] = {
@@ -111,7 +111,7 @@ Promise.map(urls, function(url){
 	})
 	.then(function(results){
 		// Now write the results to a json file
-    fs.writeFile('output.json', JSON.stringify(results, null, 4), function(err){
+    fs.writeFile('outputTTM.json', JSON.stringify(results, null, 4), function(err){
       console.log('done');
     })
 	})
