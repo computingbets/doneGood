@@ -8,7 +8,7 @@ var Promise = require('bluebird');
 * This is a two step scraping method. First identify all the pages on a website that list products. Put all of those links into the URL array below
 */
 urls = [
-  'http://www.surhilo.com/products'
+  'https://www.oneearthdesigns.com/shop/'
 ]
 
 Promise.map(urls, function(url){
@@ -25,9 +25,8 @@ Promise.map(urls, function(url){
 	// Here is the access to the product page listings
 	pages.forEach(function($){
 		// This code here grabs the url from each listing, and then pushes that url into the pageUrls array
-	  $('.product-card').each(function(index, elem){
-      var hs = 'http://www.surhilo.com'
-	    var productUrl = hs + $(elem).children().first().attr("href");
+	  $('.image-fade_in_back').each(function(index, elem){
+	    var productUrl = $(elem).children().first().attr("href");
 	    pageUrls.push(productUrl);
 	  });
 	})
@@ -55,11 +54,11 @@ Promise.map(urls, function(url){
 
 		  // This is where the specific queries are written to get all the info you need
 		  // Can even get all the meta data, google how to get a pages meta data from Jquery
-		  productName = $('.page-title').text();
-		  productPrice = $('.product-price').text();
-		  productDescription = $('.product-description').text();
+		  productName = $('h1.entry-title').text();
+		  productPrice = $('p.price > span').text();
+		  productDescription = $('div.product-short-description').text();
 		  pageTitle = $('title').text();
-		  imageUrl = $('.primary-image > img').attr('src');
+		  imageUrl = $('div.product-image div.slide.easyzoom a > img').attr('src');
 
 		  // Store all the info we found into the results array
 		  results[productName] = {
