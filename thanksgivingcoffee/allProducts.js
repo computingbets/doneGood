@@ -9,7 +9,7 @@ var Promise = require('bluebird');
 */
 urls = [
   'https://store.thanksgivingcoffee.com/thanksgiving-coffee-c143.aspx',
-  'https://starfishproject.com/product-category/all/'
+  
 ]
 
 Promise.map(urls, function(url){
