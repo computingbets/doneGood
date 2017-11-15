@@ -1,121 +1,762 @@
 {
-    "\n\t\tWarrior Too Yoga Short\n\t\t$78\n\t": {
-        "productName": "\n\t\tWarrior Too Yoga Short\n\t\t$78\n\t",
-        "productPrice": "$78",
-        "productDescription": "This is the yoga short that started Kozm. Lightweight, ultra comfortable, and rugged with a little stretch. Just the necessities – a small back pocket and a simple cotton drawcord. Built for #consciouscombat, this is the Warrior Too.",
-        "productUrl": "https://thekozm.com/product/warrior-too/",
-        "pageTitle": "Warrior Too Yoga Short • Product • Kozm"
+    "Storm Sweater": {
+        "productName": "Storm Sweater",
+        "productPrice": "\n                                            99.00USD\n                                                            ",
+        "productDescription": "15WMW020 - Storm Sweater70% Coton-30% Modal15WMW020 - Storm Sweater70% Coton-30% Modal",
+        "productUrl": "http://www.heidi.com/usen/men/storm-sweater-5200.html",
+        "pageTitle": "Storm Sweater  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_15WMW020_front.jpg_4.jpg"
     },
-    "\n\t\tPocket Tee\n\t\t$48\n\t": {
-        "productName": "\n\t\tPocket Tee\n\t\t$48\n\t",
-        "productPrice": "$48",
-        "productDescription": "The Kozm tee is ultra-lightweight & slim w/ a comfortable neck opening and THE KOZM ANCHOR (pat. pend.), allowing you to connect your shirt to your shorts for hassle free inversions.The Kozmagon pocket adds smart styling.",
-        "productUrl": "https://thekozm.com/product/pocket-tee-2/",
-        "pageTitle": "Pocket Tee • Product • Kozm"
+    "Classic Seppeli Jacket": {
+        "productName": "Classic Seppeli Jacket",
+        "productPrice": "\n                                            89.00USD\n                                                            ",
+        "productDescription": "16EMJ021 - Classic Seppeli Jacket80% Cotton-20% Polyester16EMJ021 - Classic Seppeli Jacket80% Cotton-20% Polyester",
+        "productUrl": "http://www.heidi.com/usen/men/jaquette-classic-seppeli-6008.html",
+        "pageTitle": "Classic Seppeli Jacket  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_16EMJ021_front.jpg_4.jpg"
     },
-    "\n\t\tKozmagon Tee\n\t\t$46\n\t": {
-        "productName": "\n\t\tKozmagon Tee\n\t\t$46\n\t",
-        "productPrice": "$46",
-        "productDescription": "The Kozm tee is ultra-lightweight & slim w/ a comfortable neck opening and THE KOZM ANCHOR (pat. pend.) allowing you to connect your shirt to your shorts for hassle free inversions. A small Kozmagon logo on the chest adds simple styling.",
-        "productUrl": "https://thekozm.com/product/kozmagon-tee-2/",
-        "pageTitle": "Kozmagon Tee • Product • Kozm"
+    "Blank Gustav T-shirt": {
+        "productName": "Blank Gustav T-shirt",
+        "productPrice": "\n                                            25.00USD\n                                                            ",
+        "productDescription": "16EWT011 - Blank Gustav T-shirt50% Cotton-50% Modal16EWT011 - Blank Gustav T-shirt50% Cotton-50% Modal",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-blank-clara-6313.html",
+        "pageTitle": "Blank Gustav T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_16EWT011_front.jpg_4.jpg"
     },
-    "\n\t\tSkelly Bones Tee – sold out\n\t\t$46\n\t": {
-        "productName": "\n\t\tSkelly Bones Tee – sold out\n\t\t$46\n\t",
-        "productPrice": "$46",
-        "productDescription": "The Kozm tee is ultra-lightweight & slim w/ a comfortable neck opening and THE KOZM ANCHOR (pat. pend.), allowing you to connect your shirt to your shorts for hassle free inversions. For those who feel the Kozm quest in their bones. #skelly",
-        "productUrl": "https://thekozm.com/product/skelly-bones-tee/",
-        "pageTitle": "Skelly Bones Tee – sold out • Product • Kozm"
+    "Original Peter T-shirt": {
+        "productName": "Original Peter T-shirt",
+        "productPrice": "\n                                            29.00USD\n                                                            ",
+        "productDescription": "16EMT001 - Original Peter T-shirt100% Cotton16EMT001 - Original Peter T-shirt100% Cotton",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-original-peter-6614.html",
+        "pageTitle": "Original Peter T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_16EMT001_front.jpg_2.jpg"
     },
-    "\n\t\tMade Fair Tee\n\t\t$46\n\t": {
-        "productName": "\n\t\tMade Fair Tee\n\t\t$46\n\t",
-        "productPrice": "$46",
-        "productDescription": "The Kozm tee is ultra-lightweight & slim w/ a comfortable neck opening and THE KOZM ANCHOR (pat. pend.), allowing you to connect your shirt to your shorts for hassle free inversions.This tee features a clean statement so powerful we hashtagged it. #madefairwithcare",
-        "productUrl": "https://thekozm.com/product/made-fair-tee-3/",
-        "pageTitle": "Made Fair Tee • Product • Kozm"
+    "Original Classic Josef Polo": {
+        "productName": "Original Classic Josef Polo",
+        "productPrice": "\n                                            59.00USD\n                                                            ",
+        "productDescription": "16SMP001 - Original Classic Josef Polo50% Cotton- 50% Modal16SMP001 - Original Classic Josef Polo50% Cotton- 50% Modal",
+        "productUrl": "http://www.heidi.com/usen/men/polo-original-classic-josef-6020.html",
+        "pageTitle": "Original Classic Josef Polo  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_16SMP001_front.jpg_4.jpg"
     },
-    "\n\t\tSkelly Bones Tee\n\t\t$46\n\t": {
-        "productName": "\n\t\tSkelly Bones Tee\n\t\t$46\n\t",
-        "productPrice": "$46",
-        "productDescription": "The Kozm tee is ultra-lightweight & slim w/ a comfortable neck opening and THE KOZM ANCHOR (pat. pend.), allowing you to connect your shirt to your shorts for hassle free inversions. For those who feel the Kozm quest in their bones. #skelly",
-        "productUrl": "https://thekozm.com/product/skelly-bones-tee-3/",
-        "pageTitle": "Skelly Bones Tee • Product • Kozm"
+    "Original Josef Classic Polo": {
+        "productName": "Original Josef Classic Polo",
+        "productPrice": "\n                                            59.00USD\n                                                            ",
+        "productDescription": "16SMP002 - Original Josef Classic Polo50% Cotton- 50% Modal16SMP002 - Original Josef Classic Polo50% Cotton- 50% Modal",
+        "productUrl": "http://www.heidi.com/usen/men/polo-original-classic-josef-6026.html",
+        "pageTitle": "Original Josef Classic Polo  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_16SMP002_front.jpg_4.jpg"
     },
-    "\n\t\tOriginal Zip Hood\n\t\t$112\n\t": {
-        "productName": "\n\t\tOriginal Zip Hood\n\t\t$112\n\t",
-        "productPrice": "$112",
-        "productDescription": "The name says it all. The Original Zip is the 3rd of 4 styles in our A|S (All Seasons) French Terry collection and gives the pre practice uniform a serious upgrade. Old school, one-piece hood, modern ghost side pockets and a classic front zip. Modern slim silhouette perfectly cropped right at the waist.",
-        "productUrl": "https://thekozm.com/product/original-zip-hood-blk/",
-        "pageTitle": "Original Zip Hood • Product • Kozm"
+    "3 Swiss Supporter T-shirts": {
+        "productName": "3 Swiss Supporter T-shirts",
+        "productPrice": "\n                                            54.00USD\n                                                            ",
+        "productDescription": "swiss-supporter-pack - 3 Swiss Supporter T-shirtsdesign 1,2 & 3, 100% cottonswiss-supporter-pack - 3 Swiss Supporter T-shirtsdesign 1,2 & 3, 100% cotton",
+        "productUrl": "http://www.heidi.com/usen/men/3-t-shirts-swiss-supporter-5976.html",
+        "pageTitle": "3 Swiss Supporter T-shirts  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/S/w/Swiss_Supporte_Pack.jpg_5.jpg"
     },
-    "\n\t\tOriginal Zip Hood *Limited\n\t\t$112\n\t": {
-        "productName": "\n\t\tOriginal Zip Hood *Limited\n\t\t$112\n\t",
-        "productPrice": "$112",
-        "productDescription": "The name says it all. The Original Zip is the 3rd of 4 styles in our A|S (All Seasons) French Terry collection and gives the pre practice uniform a serious upgrade. Old school, one-piece hood, modern ghost side pockets and a classic front zip. Modern slim silhouette perfectly cropped right at the waist.",
-        "productUrl": "https://thekozm.com/product/original-zip-hood-blu/",
-        "pageTitle": "Original Zip Hood *Limited • Product • Kozm"
+    "Swiss Supporter T-shirt": {
+        "productName": "Swiss Supporter T-shirt",
+        "productPrice": "\n                                            27.00USD\n                                                            ",
+        "productDescription": "SV-M071-100 - Swiss Supporter T-shirtdesign 1, 100% cottonSV-M071-100 - Swiss Supporter T-shirtdesign 1, 100% cotton",
+        "productUrl": "http://www.heidi.com/usen/men/swiss-supporter-126.html",
+        "pageTitle": "Swiss Supporter T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/S/V/SV-M071-100.jpg_5.jpg"
     },
-    "\n\t\tKozm Crew\n\t\t$89\n\t": {
-        "productName": "\n\t\tKozm Crew\n\t\t$89\n\t",
-        "productPrice": "$89",
-        "productDescription": "The Kozm crew is an instant classic and is the 2nd of 4 styles in our A|S (All Seasons) French Terry collection. Raglan cut sleeves, a slightly more open & stylish neck opening and a modern slim (not skinny) fit all around. Thumbholes at the cuffs, and a vintage-inspired cropped waist. Dressing down never looked so good.",
-        "productUrl": "https://thekozm.com/product/kozm-crew-black/",
-        "pageTitle": "Kozm Crew • Product • Kozm"
+    "Fashion Tobias Polo": {
+        "productName": "Fashion Tobias Polo",
+        "productPrice": "\n                                            59.00USD\n                                                            ",
+        "productDescription": "16EMP011 - Fashion Tobias Polo50% Cotton- 50% Modal16EMP011 - Fashion Tobias Polo50% Cotton- 50% Modal",
+        "productUrl": "http://www.heidi.com/usen/men/polo-classic-tobias-5745.html",
+        "pageTitle": "Fashion Tobias Polo  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_16EMP011_front.jpg_4.jpg"
     },
-    "\n\t\tNo Slack Pant\n\t\t$98\n\t": {
-        "productName": "\n\t\tNo Slack Pant\n\t\t$98\n\t",
-        "productPrice": "$98",
-        "productDescription": "A chino cut inspired “sweat pant” which is the 1st of 4 styles in our A|S (All Seasons) French Terry collection. It’s slim fitting, with enough room at the hips, and tapered at the ankles with a chino pant hem (no sport elastic here), these pants make looking sharp more comfortable than ever.",
-        "productUrl": "https://thekozm.com/product/no-slack-pant-blk/",
-        "pageTitle": "No Slack Pant • Product • Kozm"
+    "T-shirt Keep Calm and Eat Fondue": {
+        "productName": "T-shirt Keep Calm and Eat Fondue",
+        "productPrice": "\n                                            27.00USD\n                                                            ",
+        "productDescription": "SV-W001-40 - T-shirt Keep Calm and Eat Fondue100% cottonSV-W001-40 - T-shirt Keep Calm and Eat Fondue100% cotton",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-keep-calm-and-eat-fondue-5468.html",
+        "pageTitle": "T-shirt Keep Calm and Eat Fondue  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_SV-W001-40_front.jpg_4.jpg"
     },
-    "\n\t\tWild in the Streets Short\n\t\t$88\n\t": {
-        "productName": "\n\t\tWild in the Streets Short\n\t\t$88\n\t",
-        "productPrice": "$88",
-        "productDescription": "This is a comfortable fit that says, “style matters.” The 4th of 4 styles in our A|S (All Seasons French Terry) collection, it is slim at the thighs, cut above the knees, with some room at the hips and a sewn performance gusset. These are definitely not your brother-in-law’s basketball shorts. Perfect for before/after your practice. Heck, even during.",
-        "productUrl": "https://thekozm.com/product/wild-in-the-streets-blk/",
-        "pageTitle": "Wild in the Streets Short • Product • Kozm"
+    "Classic Switzerland T-shirt": {
+        "productName": "Classic Switzerland T-shirt",
+        "productPrice": "\n                                            20.00USD\n                                                            ",
+        "productDescription": "SV-M016-41 - Classic Switzerland T-shirt100% cottonSV-M016-41 - Classic Switzerland T-shirt100% cotton",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-classic-switzerland-5601.html",
+        "pageTitle": "Classic Switzerland T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_SV-M016-41_front.jpg_4.jpg"
     },
-    "\n\t\tBaja Hoodie\n\t\t$84\n\t": {
-        "productName": "\n\t\tBaja Hoodie\n\t\t$84\n\t",
-        "productPrice": "$84",
-        "productDescription": "This woven hemp/recycled PET blend has a lightweight hand with a smooth finish. Inspired by the ponchos we grew up wearing on Baja trips, updated with Kozm design, this pullover hides the grime on your tee and provides a light layer when the sun is scarce. Pouch pockets, drawcord hood and hem, no zip.",
-        "productUrl": "https://thekozm.com/product/baja-hoodie-2/",
-        "pageTitle": "Baja Hoodie • Product • Kozm"
+    "Original T-Shirt": {
+        "productName": "Original T-Shirt",
+        "productPrice": "\n                                            29.00USD\n                                                            ",
+        "productDescription": "15WMT002 - Original T-Shirt100% CottonT-shirt, round neck\n15WMT002 - Original T-Shirt100% Cotton",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-original-6140.html",
+        "pageTitle": "Original T-Shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_15WMT002_front.jpg_4.jpg"
     },
-    "\n\t\tSmithereen Beanie\n\t\t$32\n\t": {
-        "productName": "\n\t\tSmithereen Beanie\n\t\t$32\n\t",
-        "productPrice": "$32",
-        "productDescription": "A classic fit, intended to be worn with a proper fold and more early am surf check than Antarctic survival mission, our beanies keep head chi in while you’re warming up. Custom crafted and knit to perfection — this lightweight beanie will go with you everywhere.",
-        "productUrl": "https://thekozm.com/product/smithereen-beanie-3/",
-        "pageTitle": "Smithereen Beanie • Product • Kozm"
+    "Classic Josef Polo": {
+        "productName": "Classic Josef Polo",
+        "productPrice": "\n                                            59.00USD\n                                                            ",
+        "productDescription": "16EMP001 - Classic Josef Polo50% Cotton- 50% Modal16EMP001 - Classic Josef Polo50% Cotton- 50% Modal",
+        "productUrl": "http://www.heidi.com/usen/men/polo-classic-josef-5883.html",
+        "pageTitle": "Classic Josef Polo  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_16EMP001_front.jpg_4.jpg"
     },
-    "\n\t\tThe Red  Beanie\n\t\t$32\n\t": {
-        "productName": "\n\t\tThe Red  Beanie\n\t\t$32\n\t",
-        "productPrice": "$32",
-        "productDescription": "A classic fit, intended to be worn with a proper fold and more early am surf check than Antarctic survival mission, our beanies keep head chi in while you’re warming up. Custom crafted and knit to perfection — this lightweight beanie will go with you everywhere.",
-        "productUrl": "https://thekozm.com/product/the-red-beanie-limited/",
-        "pageTitle": "The Red  Beanie • Product • Kozm"
+    "Longsleeves Newcastle T-Shirt": {
+        "productName": "Longsleeves Newcastle T-Shirt",
+        "productPrice": "\n                                            49.00USD\n                                                            ",
+        "productDescription": "15WMT011 - Longsleeves Newcastle T-Shirt100% CottonT-shirt, round neck\n15WMT011 - Longsleeves Newcastle T-Shirt100% Cotton",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-longues-manches-newcastle-5852.html",
+        "pageTitle": "Longsleeves Newcastle T-Shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_15WMT011_front.jpg_5.jpg"
     },
-    "\n\t\tSkelly on the Mind Hat\n\t\t$38\n\t": {
-        "productName": "\n\t\tSkelly on the Mind Hat\n\t\t$38\n\t",
-        "productPrice": "$38",
-        "productDescription": "A custom cap with the Kozm aesthetic, this cap is fitted and formed with an upholstery-inspired canvas. The Skelly embroidery provides understated style and the self-fabric adjustor and brass clamp at the rear keep it all in place.",
-        "productUrl": "https://thekozm.com/product/skelly-on-the-mind-hat-2/",
-        "pageTitle": "Skelly on the Mind Hat • Product • Kozm"
+    "Longsleeves Skier T-Shirt": {
+        "productName": "Longsleeves Skier T-Shirt",
+        "productPrice": "\n                                            49.00USD\n                                                            ",
+        "productDescription": "15WMT100 - Longsleeves Skier T-Shirt100% CottonT-shirt, round neck\n15WMT100 - Longsleeves Skier T-Shirt100% Cotton",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-longues-manches-skier-5983.html",
+        "pageTitle": "Longsleeves Skier T-Shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_15WMT100_front.jpg_5.jpg"
     },
-    "\n\t\tSkelly Tote Bag\n\t\t$42\n\t": {
-        "productName": "\n\t\tSkelly Tote Bag\n\t\t$42\n\t",
-        "productPrice": "$42",
-        "productDescription": "Low pro, durable tote with Skelly embroidered pocket for understated style and maximum function.",
-        "productUrl": "https://thekozm.com/product/skelly-tote-bag/",
-        "pageTitle": "Skelly Tote Bag • Product • Kozm"
+    "Berthold Hooded Jacket": {
+        "productName": "Berthold Hooded Jacket",
+        "productPrice": "\n                                            59.00USD\n                                                            ",
+        "productDescription": "40000-44 - Berthold Hooded JacketEssentials50% Cotton & 50% Modal, 290 gsm (Unbrushed)\n40000-44 - Berthold Hooded JacketEssentials",
+        "productUrl": "http://www.heidi.com/usen/men/jaquette-a-capuche-berthold-6903.html",
+        "pageTitle": "Berthold Hooded Jacket  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_40000-44_front.jpg_5.jpg"
     },
-    "\n\t\tYoki x Kozm Magic Carpet\n\t\t$120\n\t": {
-        "productName": "\n\t\tYoki x Kozm Magic Carpet\n\t\t$120\n\t",
-        "productPrice": "$120",
-        "productDescription": "",
-        "productUrl": "https://thekozm.com/product/yoki-x-kozm-magic-carpet-2/",
-        "pageTitle": "Yoki x Kozm Magic Carpet • Product • Kozm"
+    "Mat rib Jogging Pant": {
+        "productName": "Mat rib Jogging Pant",
+        "productPrice": "\n                                            39.90USD\n                                                            ",
+        "productDescription": "30500-22 - Mat rib Jogging PantEssentials50% Cotton & 50% Modal, 290 gsm (Unbrushed)\n30500-22 - Mat rib Jogging PantEssentials",
+        "productUrl": "http://www.heidi.com/usen/men/pantalon-jogging-mat-rib-6789.html",
+        "pageTitle": "Mat rib Jogging Pant  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_30500-22_front.jpg_5.jpg"
+    },
+    "Dylan Jogging Pant": {
+        "productName": "Dylan Jogging Pant",
+        "productPrice": "\n                                            39.90USD\n                                                            ",
+        "productDescription": "30000-22 - Dylan Jogging PantEssentials50% Cotton & 50% Modal, 290 gsm (Unbrushed)\n30000-22 - Dylan Jogging PantEssentials",
+        "productUrl": "http://www.heidi.com/usen/men/pantalon-jogging-dylan-6741.html",
+        "pageTitle": "Dylan Jogging Pant  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_30000-22_front.jpg_5.jpg"
+    },
+    "Tobias Fashion Polo": {
+        "productName": "Tobias Fashion Polo",
+        "productPrice": "\n                                            39.90USD\n                                                            ",
+        "productDescription": "20000-23 - Tobias Fashion PoloEssentials50% cotton & 50% Modal, 170 gsm\n20000-23 - Tobias Fashion PoloEssentials",
+        "productUrl": "http://www.heidi.com/usen/men/polo-fashion-tobias-6717.html",
+        "pageTitle": "Tobias Fashion Polo  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_20000-23_front.jpg_5.jpg"
+    },
+    "Tom longsleeve T-shirt": {
+        "productName": "Tom longsleeve T-shirt",
+        "productPrice": "\n                                            29.90USD\n                                                            ",
+        "productDescription": "18000-12 - Tom longsleeve T-shirtEssentials50% cotton & 50% Modal, 170 gsm\n18000-12 - Tom longsleeve T-shirtEssentials",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-manches-longues-tom-6699.html",
+        "pageTitle": "Tom longsleeve T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_18000-12_front.jpg_5.jpg"
+    },
+    "T-shirt Music": {
+        "productName": "T-shirt Music",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12200-40 - T-shirt MusicSwiss Horizon100% coton, 170gsm\n12200-40 - T-shirt MusicSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-music-6907.html",
+        "pageTitle": "T-shirt Music  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12200-40_front.jpg_11.jpg"
+    },
+    "T-shirt Music Festival": {
+        "productName": "T-shirt Music Festival",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12190-01 - T-shirt Music FestivalSwiss Horizon100% coton, 170gsm\n12190-01 - T-shirt Music FestivalSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-music-festival-6901.html",
+        "pageTitle": "T-shirt Music Festival  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12190-01_front.jpg_11.jpg"
+    },
+    "T-shirt Camping": {
+        "productName": "T-shirt Camping",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12180-31 - T-shirt CampingSwiss Horizon100% coton, 170gsm\n12180-31 - T-shirt CampingSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-camping-6895.html",
+        "pageTitle": "T-shirt Camping  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12180-31_front.jpg_11.jpg"
+    },
+    "Tony Jacket": {
+        "productName": "Tony Jacket",
+        "productPrice": "\n                                            49.90USD\n                                                            ",
+        "productDescription": "41000-12 - Tony JacketEssentials50% Cotton & 50% Modal, 290 gsm (Unbrushed)\n41000-12 - Tony JacketEssentials",
+        "productUrl": "http://www.heidi.com/usen/men/jaquette-tony-6927.html",
+        "pageTitle": "Tony Jacket  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_41000-12_front.jpg_5.jpg"
+    },
+    "Hiking T-shirt": {
+        "productName": "Hiking T-shirt",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12040-20 - Hiking T-shirtSwiss Horizon100% cotton, 170gsm\n12040-20 - Hiking T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-hiking-6459.html",
+        "pageTitle": "Hiking T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12040-20_front.jpg_5.jpg"
+    },
+    "Poya Muerte T-shirt": {
+        "productName": "Poya Muerte T-shirt",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "12020-41 - Poya Muerte T-shirtSwiss Horizon60% Cotton; 40% Polyester, 170 gsm\n12020-41 - Poya Muerte T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-poya-muerte-6435.html",
+        "pageTitle": "Poya Muerte T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12020-41_front.jpg_5.jpg"
+    },
+    "Breathe T-shirt": {
+        "productName": "Breathe T-shirt",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12010-01 - Breathe T-shirtSwiss Horizon100% cotton, 170gsm\n12010-01 - Breathe T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-breathe-6423.html",
+        "pageTitle": "Breathe T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12010-01_front.jpg_5.jpg"
+    },
+    "Modern Poya T-shirt": {
+        "productName": "Modern Poya T-shirt",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "12000-01 - Modern Poya T-shirtSwiss Horizon100% cotton, 170gsm\n12000-01 - Modern Poya T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-modern-poya-6411.html",
+        "pageTitle": "Modern Poya T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12000-01_front.jpg_5.jpg"
+    },
+    "Bart melange T-shirt": {
+        "productName": "Bart melange T-shirt",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "10500-12 - Bart melange T-shirtEssentials50% cotton & 50% Modal, 170 gsm\n10500-12 - Bart melange T-shirtEssentials",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-bart-melange-6477.html",
+        "pageTitle": "Bart melange T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_10500-12_front.jpg_5.jpg"
+    },
+    "Mountaineer T-shirt": {
+        "productName": "Mountaineer T-shirt",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12050-01 - Mountaineer T-shirtSwiss Horizon100% cotton, 170gsm\n12050-01 - Mountaineer T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-mountainer-6471.html",
+        "pageTitle": "Mountaineer T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12050-01_front.jpg_5.jpg"
+    },
+    "Swiss Sports T-shirt": {
+        "productName": "Swiss Sports T-shirt",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12060-20 - Swiss Sports T-shirtSwiss Horizon100% cotton, 170gsm\n12060-20 - Swiss Sports T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-swiss-sports-6483.html",
+        "pageTitle": "Swiss Sports T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12060-20_front.jpg_5.jpg"
+    },
+    "Swiss Stars T-shirt": {
+        "productName": "Swiss Stars T-shirt",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12390-40 - Swiss Stars T-shirtSwiss Horizon100% cotton, 170gsm\n12390-40 - Swiss Stars T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-swiss-stars-6579.html",
+        "pageTitle": "Swiss Stars T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12390-40_front.jpg_5.jpg"
+    },
+    "Swiss Mustache T-shirt": {
+        "productName": "Swiss Mustache T-shirt",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12380-290 - Swiss Mustache T-shirtSwiss Horizon100% cotton, 170gsm\n12380-290 - Swiss Mustache T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-swiss-mustache-6573.html",
+        "pageTitle": "Swiss Mustache T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12380-290_front.jpg_5.jpg"
+    },
+    "Swiss Pulse T-shirt": {
+        "productName": "Swiss Pulse T-shirt",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12370-40 - Swiss Pulse T-shirtSwiss Horizon100% cotton, 170gsm\n12370-40 - Swiss Pulse T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-swiss-pulse-6567.html",
+        "pageTitle": "Swiss Pulse T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12370-40_front.jpg_5.jpg"
+    },
+    "Swiss Side T-shirt": {
+        "productName": "Swiss Side T-shirt",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "12320-10 - Swiss Side T-shirtSwiss Horizon100% cotton, 170gsm\n12320-10 - Swiss Side T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-swiss-side-6561.html",
+        "pageTitle": "Swiss Side T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12320-10_front.jpg_5.jpg"
+    },
+    "World Map T-shirt": {
+        "productName": "World Map T-shirt",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12130-40 - World Map T-shirtSwiss Horizon100% cotton, 170gsm\n12130-40 - World Map T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-world-map-6543.html",
+        "pageTitle": "World Map T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12130-40_front.jpg_5.jpg"
+    },
+    "Work in Progress T-shirt": {
+        "productName": "Work in Progress T-shirt",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12120-40 - Work in Progress T-shirtSwiss Horizon100% cotton, 170gsm\n12120-40 - Work in Progress T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-work-in-progress-6537.html",
+        "pageTitle": "Work in Progress T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12120-40_front.jpg_5.jpg"
+    },
+    "Keep Calm And Eat Roechti T-shirt": {
+        "productName": "Keep Calm And Eat Roechti T-shirt",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "12110-40 - Keep Calm And Eat Roechti T-shirtSwiss Horizon100% cotton, 170gsm\n12110-40 - Keep Calm And Eat Roechti T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/men/t-shirt-keep-calm-and-eat-roechti-6525.html",
+        "pageTitle": "Keep Calm And Eat Roechti T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12110-40_front.jpg_5.jpg"
+    },
+    "Keep Calm And Be Swiss T-shirt": {
+        "productName": "Keep Calm And Be Swiss T-shirt",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "12105-10 - Keep Calm And Be Swiss T-shirtSwiss Horizon50% cotton & 50% Modal, 170 gsm\n12105-10 - Keep Calm And Be Swiss T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-keep-calm-and-be-swiss-6519.html",
+        "pageTitle": "Keep Calm And Be Swiss T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12105-10_front.jpg_5.jpg"
+    },
+    "T-shirt Cervela So Swiss": {
+        "productName": "T-shirt Cervela So Swiss",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "12230-10 - T-shirt Cervela So SwissSwiss Horizon100% coton, 170gsm\n12230-10 - T-shirt Cervela So SwissSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/catalog/product/view/id/6977/s/t-shirt-cervela-so-swiss/category/86/",
+        "pageTitle": "T-shirt Cervela So Swiss  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/oups.jpg"
+    },
+    "San Bernardo Classic Sweater": {
+        "productName": "San Bernardo Classic Sweater",
+        "productPrice": "\n                                            99.00USD\n                                                            ",
+        "productDescription": "15WMW000 - San Bernardo Classic Sweater70% Cotton-30% ModalSan Bernardo Da Mentone\n15WMW000 - San Bernardo Classic Sweater70% Cotton-30% Modal",
+        "productUrl": "http://www.heidi.com/usen/men/san-bernardo-classic-sweater-5338.html",
+        "pageTitle": "San Bernardo Classic Sweater  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_15WMW000_front.jpg_5.jpg"
+    },
+    "Dandelion all-over T-shirt": {
+        "productName": "Dandelion all-over T-shirt",
+        "productPrice": "\n                                            29.90USD\n                                                            ",
+        "productDescription": "12025-01 - Dandelion all-over T-shirtSwiss Horizon50% cotton & 50% Modal, 170 gsm\n12025-01 - Dandelion all-over T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-all-over-dandelion-6441.html",
+        "pageTitle": "Dandelion all-over T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12025-01_front.jpg_5.jpg"
+    },
+    "Original Classic Johana Polo": {
+        "productName": "Original Classic Johana Polo",
+        "productPrice": "\n                                            59.00USD\n                                                            ",
+        "productDescription": "16SWP001 - Original Classic Johana Polo50% Cotton- 50% Modal16SWP001 - Original Classic Johana Polo50% Cotton- 50% Modal",
+        "productUrl": "http://www.heidi.com/usen/women/polo-original-classic-johana-6005.html",
+        "pageTitle": "Original Classic Johana Polo  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_16SWP001_front.jpg_4.jpg"
+    },
+    "Classic Dete Jacket": {
+        "productName": "Classic Dete Jacket",
+        "productPrice": "\n                                            79.00USD\n                                                            ",
+        "productDescription": "16EWJ021 - Classic Dete Jacket80% Cotton-20% Polyester16EWJ021 - Classic Dete Jacket80% Cotton-20% Polyester",
+        "productUrl": "http://www.heidi.com/usen/women/jaquette-classic-dete-5995.html",
+        "pageTitle": "Classic Dete Jacket  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_16EWJ021_front.jpg_4.jpg"
+    },
+    "Fashion Lili Polo": {
+        "productName": "Fashion Lili Polo",
+        "productPrice": "\n                                            59.00USD\n                                                            ",
+        "productDescription": "16EWP021 - Fashion Lili Polo50% Cotton- 50% Modal16EWP021 - Fashion Lili Polo50% Cotton- 50% Modal",
+        "productUrl": "http://www.heidi.com/usen/women/fashion-polo-lili-6010.html",
+        "pageTitle": "Fashion Lili Polo  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_16EWP021_front.jpg_4.jpg"
+    },
+    "Original Heidi T-shirt": {
+        "productName": "Original Heidi T-shirt",
+        "productPrice": "\n                                            29.00USD\n                                                            ",
+        "productDescription": "16EWT001 - Original Heidi T-shirt50% Cotton-50% Modal16EWT001 - Original Heidi T-shirt50% Cotton-50% Modal",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-original-heidi-6500.html",
+        "pageTitle": "Original Heidi T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_16EWT001_front.jpg_4.jpg"
+    },
+    "pinks all-over T-shirt": {
+        "productName": "pinks all-over T-shirt",
+        "productPrice": "\n                                            29.90USD\n                                                            ",
+        "productDescription": "12005-01 - pinks all-over T-shirtSwiss Horizon50% cotton & 50% Modal, 170 gsm\n12005-01 - pinks all-over T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-all-over-pinks-6465.html",
+        "pageTitle": "pinks all-over T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12005-01_front.jpg_5.jpg"
+    },
+    "Clara melange T-shirt": {
+        "productName": "Clara melange T-shirt",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "10005-603 - Clara melange T-shirtEssentials50% cotton & 50% Modal, 170 gsm\n10005-603 - Clara melange T-shirtEssentials",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-clara-melange-6422.html",
+        "pageTitle": "Clara melange T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_10005-603_front.jpg_5.jpg"
+    },
+    "Flora all-over Loose T-shirt": {
+        "productName": "Flora all-over Loose T-shirt",
+        "productPrice": "\n                                            29.90USD\n                                                            ",
+        "productDescription": "17205-01 - Flora all-over Loose T-shirtSwiss Horizon50% cotton & 50% Modal, 170 gsm\n17205-01 - Flora all-over Loose T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-flora-all-over-loose-6687.html",
+        "pageTitle": "Flora all-over Loose T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_17205-01_front.jpg_5.jpg"
+    },
+    "Happy Lilly Strass T-shirt": {
+        "productName": "Happy Lilly Strass T-shirt",
+        "productPrice": "\n                                            27.00USD\n                                                            ",
+        "productDescription": "SV-W089-1 - Happy Lilly Strass T-shirtThe Swiss AmbassadorThis t-shirt is the result of a collaboration between heidi.com and the company Trauffer, a traditional Swiss manufacturer of wooden toys who made of his small wooden cow a kind of Swiss ambassador around the world. This little cow travels around the world thanks to our friends Nicolas Bideau and all the team of \"Présence Suisse\", the department of the Swiss Confederation responsible for the image of Switzerland abroad.50% Cotton & 50% Modal\n#happylilly #swissambassador #heidicom #houseofswitzerland #switzerland #schweiz #svizzera #swisscow #trauffer #littlecow #woodencow #swiss #swisslabel #swissbrand #swissclothingbrand #swissclothing SV-W089-1 - Happy Lilly Strass T-shirtThe Swiss Ambassador",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-happy-lilly-strass-6197.html",
+        "pageTitle": "Happy Lilly Strass T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_SV-W089-1_front.jpg_5.jpg"
+    },
+    "Swiss Cities T-shirt": {
+        "productName": "Swiss Cities T-shirt",
+        "productPrice": "\n                                            27.00USD\n                                                            ",
+        "productDescription": "SV-W062-1 - Swiss Cities T-shirt100% cottonGenève - Bern - Luzern - Zürich - SwitzerlandSV-W062-1 - Swiss Cities T-shirt100% cotton",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-swiss-cities-5528.html",
+        "pageTitle": "Swiss Cities T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_SV-W062-1_front.jpg_4.jpg"
+    },
+    "BCRS Rock T-shirt": {
+        "productName": "BCRS Rock T-shirt",
+        "productPrice": "\n                                            27.00USD\n                                                            ",
+        "productDescription": "SV-W060-40 - BCRS Rock T-shirt100% cottonSV-W060-40 - BCRS Rock T-shirt100% cotton",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-bcrs-rock-5504.html",
+        "pageTitle": "BCRS Rock T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_SV-W060-40_front.jpg_5.jpg"
+    },
+    "Swiss Poya Muerte T-shirt": {
+        "productName": "Swiss Poya Muerte T-shirt",
+        "productPrice": "\n                                            27.00USD\n                                                            ",
+        "productDescription": "SV-W065-118 - Swiss Poya Muerte T-shirt100% cottonSV-W065-118 - Swiss Poya Muerte T-shirt100% cotton",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-swiss-poya-muerte-5492.html",
+        "pageTitle": "Swiss Poya Muerte T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_SV-W065-118_front.jpg_5.jpg"
+    },
+    "Classic Johana Polo": {
+        "productName": "Classic Johana Polo",
+        "productPrice": "\n                                            59.00USD\n                                                            ",
+        "productDescription": "16EWP001 - Classic Johana Polo50% Cotton- 50% Modal16EWP001 - Classic Johana Polo50% Cotton- 50% Modal",
+        "productUrl": "http://www.heidi.com/usen/women/polo-classic-johana-5903.html",
+        "pageTitle": "Classic Johana Polo  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_16EWP001_front.jpg_4.jpg"
+    },
+    "SWISS ME T-shirt": {
+        "productName": "SWISS ME T-shirt",
+        "productPrice": "\n                                            27.00USD\n                                                            ",
+        "productDescription": "SV-W028-1 - SWISS ME T-shirt100% cottonSV-W028-1 - SWISS ME T-shirt100% cotton",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-swiss-me-5565.html",
+        "pageTitle": "SWISS ME T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_SV-W028-1_front.jpg_4.jpg"
+    },
+    "T-shirt Rocket": {
+        "productName": "T-shirt Rocket",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12245-146 - T-shirt RocketSwiss Horizon50% coton & 50% Modal, 170 gsm\n12245-146 - T-shirt RocketSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/catalog/product/view/id/6995/s/t-shirt-rocket/category/87/",
+        "pageTitle": "T-shirt Rocket  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/oups.jpg"
+    },
+    "Olga Hooded Jacket": {
+        "productName": "Olga Hooded Jacket",
+        "productPrice": "\n                                            59.00USD\n                                                            ",
+        "productDescription": "40005-45 - Olga Hooded JacketEssentials50% Cotton & 50% Modal, 290 gsm (Unbrushed)\n40005-45 - Olga Hooded JacketEssentials",
+        "productUrl": "http://www.heidi.com/usen/women/jaquette-a-capuche-olga-6879.html",
+        "pageTitle": "Olga Hooded Jacket  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_40005-45_front.jpg_5.jpg"
+    },
+    "Aude 3/4 Jogging Pant": {
+        "productName": "Aude 3/4 Jogging Pant",
+        "productPrice": "\n                                            39.90USD\n                                                            ",
+        "productDescription": "30015-13 - Aude 3/4 Jogging PantEssentials50% Cotton & 50% Modal, 290 gsm (Unbrushed)\n30015-13 - Aude 3/4 Jogging PantEssentials",
+        "productUrl": "http://www.heidi.com/usen/women/pantalon-jogging-3-4-aude-6849.html",
+        "pageTitle": "Aude 3/4 Jogging Pant  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_30015-13_front.jpg_5.jpg"
+    },
+    "Linda Jogging Pant": {
+        "productName": "Linda Jogging Pant",
+        "productPrice": "\n                                            39.90USD\n                                                            ",
+        "productDescription": "30005-45 - Linda Jogging PantEssentials50% Cotton & 50% Modal, 290 gsm (Unbrushed)\n30005-45 - Linda Jogging PantEssentials",
+        "productUrl": "http://www.heidi.com/usen/women/pantalon-jogging-linda-6753.html",
+        "pageTitle": "Linda Jogging Pant  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_30005-45_front.jpg_5.jpg"
+    },
+    "Lily Fashion Polo": {
+        "productName": "Lily Fashion Polo",
+        "productPrice": "\n                                            39.90USD\n                                                            ",
+        "productDescription": "20005-45 - Lily Fashion PoloEssentials50% cotton & 50% Modal, 170 gsm\n20005-45 - Lily Fashion PoloEssentials",
+        "productUrl": "http://www.heidi.com/usen/women/polo-fashion-lily-6729.html",
+        "pageTitle": "Lily Fashion Polo  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_20005-45_front.jpg_5.jpg"
+    },
+    "T-shirt Ice Cream": {
+        "productName": "T-shirt Ice Cream",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12235-118 - T-shirt Ice CreamSwiss Horizon50% coton & 50% Modal, 170 gsm\n12235-118 - T-shirt Ice CreamSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/catalog/product/view/id/6989/s/t-shirt-ice-cream/category/87/",
+        "pageTitle": "T-shirt Ice Cream  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/oups.jpg"
+    },
+    "Top all-over Erna": {
+        "productName": "Top all-over Erna",
+        "productPrice": "\n                                            29.90USD\n                                                            ",
+        "productDescription": "16005-01 - Top all-over ErnaSwiss Horizon50% coton & 50% Modal, 170 gsm\n16005-01 - Top all-over ErnaSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/catalog/product/view/id/6971/s/top-all-over-erna/category/87/",
+        "pageTitle": "Top all-over Erna  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/oups.jpg"
+    },
+    "T-shirt Buds": {
+        "productName": "T-shirt Buds",
+        "productPrice": "\n                                            29.90USD\n                                                            ",
+        "productDescription": "12205-01 - T-shirt BudsSwiss Horizon50% coton & 50% Modal, 170 gsm\n12205-01 - T-shirt BudsSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-buds-6884.html",
+        "pageTitle": "T-shirt Buds  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12205-01_front.jpg_11.jpg"
+    },
+    "T-shirt Spring": {
+        "productName": "T-shirt Spring",
+        "productPrice": "\n                                            29.90USD\n                                                            ",
+        "productDescription": "12195-01 - T-shirt SpringSwiss Horizon50% coton & 50% Modal, 170 gsm\n12195-01 - T-shirt SpringSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-spring-6878.html",
+        "pageTitle": "T-shirt Spring  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12195-01_front.jpg_11.jpg"
+    },
+    "T-shirt Blooming": {
+        "productName": "T-shirt Blooming",
+        "productPrice": "\n                                            29.90USD\n                                                            ",
+        "productDescription": "12185-01 - T-shirt BloomingSwiss Horizon50% coton & 50% Modal, 170 gsm\n12185-01 - T-shirt BloomingSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-blooming-6872.html",
+        "pageTitle": "T-shirt Blooming  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12185-01_front.jpg_11.jpg"
+    },
+    "Helen Jacket": {
+        "productName": "Helen Jacket",
+        "productPrice": "\n                                            49.90USD\n                                                            ",
+        "productDescription": "41015-45 - Helen JacketEssentials50% Cotton & 50% Modal, 290 gsm (Unbrushed)\n41015-45 - Helen JacketEssentials",
+        "productUrl": "http://www.heidi.com/usen/women/jaquette-helen-6867.html",
+        "pageTitle": "Helen Jacket  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_41015-45_front.jpg_5.jpg"
+    },
+    "Kim 3/4 longsleeve T-shirt": {
+        "productName": "Kim 3/4 longsleeve T-shirt",
+        "productPrice": "\n                                            29.90USD\n                                                            ",
+        "productDescription": "18505-22 - Kim 3/4 longsleeve T-shirtEssentials50% cotton & 50% Modal, 170 gsm\n18505-22 - Kim 3/4 longsleeve T-shirtEssentials",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-manches-3-4-kim-6735.html",
+        "pageTitle": "Kim 3/4 longsleeve T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_18505-22_front.jpg_5.jpg"
+    },
+    "Butterfly T-shirt": {
+        "productName": "Butterfly T-shirt",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12135-601 - Butterfly T-shirtSwiss Horizon50% cotton & 50% Modal, 170 gsm\n12135-601 - Butterfly T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-butterfly-6549.html",
+        "pageTitle": "Butterfly T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12135-601_front.jpg_5.jpg"
+    },
+    "Keep Calm And Be Glamour T-shirt": {
+        "productName": "Keep Calm And Be Glamour T-shirt",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "12115-40 - Keep Calm And Be Glamour T-shirtSwiss Horizon50% cotton & 50% Modal, 170 gsm\n12115-40 - Keep Calm And Be Glamour T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-keep-calm-and-be-glamour-6531.html",
+        "pageTitle": "Keep Calm And Be Glamour T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12115-40_front.jpg_5.jpg"
+    },
+    "Alpine Switzerland T-shirt": {
+        "productName": "Alpine Switzerland T-shirt",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "12085-601 - Alpine Switzerland T-shirtSwiss Horizon50% cotton & 50% Modal, 170 gsm\n12085-601 - Alpine Switzerland T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-alpine-switzerland-6507.html",
+        "pageTitle": "Alpine Switzerland T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12085-601_front.jpg_5.jpg"
+    },
+    "Dam T-shirt": {
+        "productName": "Dam T-shirt",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12065-601 - Dam T-shirtSwiss Horizon50% cotton & 50% Modal, 170 gsm\n12065-601 - Dam T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-dam-6489.html",
+        "pageTitle": "Dam T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12065-601_front.jpg_5.jpg"
+    },
+    "Medicinal Flowers T-shirt": {
+        "productName": "Medicinal Flowers T-shirt",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12055-01 - Medicinal Flowers T-shirtSwiss Horizon50% cotton & 50% Modal, 170 gsm\n12055-01 - Medicinal Flowers T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-medicinal-flowers-6477.html",
+        "pageTitle": "Medicinal Flowers T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12055-01_front.jpg_5.jpg"
+    },
+    "Chilhood's Flowers T-shirt": {
+        "productName": "Chilhood's Flowers T-shirt",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "12045-118 - Chilhood's Flowers T-shirtSwiss Horizon50% cotton & 50% Modal, 170 gsm\n12045-118 - Chilhood's Flowers T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-chilhood-s-flowers-6465.html",
+        "pageTitle": "Chilhood's Flowers T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12045-118_front.jpg_5.jpg"
+    },
+    "Petra Loose T-shirt": {
+        "productName": "Petra Loose T-shirt",
+        "productPrice": "\n                                            29.90USD\n                                                            ",
+        "productDescription": "17005-45 - Petra Loose T-shirtEssentials50% cotton & 50% Modal, 170 gsm\n17005-45 - Petra Loose T-shirtEssentials",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-petra-loose-6675.html",
+        "pageTitle": "Petra Loose T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_17005-45_front.jpg_5.jpg"
+    },
+    "Pam longsleeve T-shirt": {
+        "productName": "Pam longsleeve T-shirt",
+        "productPrice": "\n                                            29.90USD\n                                                            ",
+        "productDescription": "18005-22 - Pam longsleeve T-shirtEssentials50% cotton & 50% Modal, 170 gsm\n18005-22 - Pam longsleeve T-shirtEssentials",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-manches-longues-pam-6717.html",
+        "pageTitle": "Pam longsleeve T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_18005-22_front.jpg_5.jpg"
+    },
+    "Hair Flowers T-shirt": {
+        "productName": "Hair Flowers T-shirt",
+        "productPrice": "\n                                            24.90USD\n                                                            ",
+        "productDescription": "12035-01 - Hair Flowers T-shirtSwiss Horizon50% cotton & 50% Modal, 170 gsm\n12035-01 - Hair Flowers T-shirtSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/women/t-shirt-hair-flowers-6453.html",
+        "pageTitle": "Hair Flowers T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_12035-01_front.jpg_5.jpg"
+    },
+    "Erosion Sweater": {
+        "productName": "Erosion Sweater",
+        "productPrice": "\n                                            99.00USD\n                                                            ",
+        "productDescription": "15WWW010 - Erosion Sweater70% Coton-30% Modal15WWW010 - Erosion Sweater70% Coton-30% Modal",
+        "productUrl": "http://www.heidi.com/usen/women/erosion-sweater-5356.html",
+        "pageTitle": "Erosion Sweater  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_15WWW010_front.jpg_5.jpg"
+    },
+    "Swiss Mountain T-shirt": {
+        "productName": "Swiss Mountain T-shirt",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "10173-10 - Swiss Mountain T-shirtSwiss Family50% cotton & 50% Modal, 170 gsm\n10173-10 - Swiss Mountain T-shirtSwiss Family",
+        "productUrl": "http://www.heidi.com/usen/kids/t-shirt-swiss-mountain-6920.html",
+        "pageTitle": "T-shirt Swiss Mountain  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_10173-10_front.jpg_6.jpg"
+    },
+    "Swiss Family T-shirt": {
+        "productName": "Swiss Family T-shirt",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "10053-20 - Swiss Family T-shirtSwiss Family50% cotton & 50% Modal, 170 gsm\n10053-20 - Swiss Family T-shirtSwiss Family",
+        "productUrl": "http://www.heidi.com/usen/kids/t-shirt-swiss-family-6927.html",
+        "pageTitle": "T-shirt Swiss Family  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_10053-20_front.jpg_6.jpg"
+    },
+    "T-shirt Peter & Swiss Alps": {
+        "productName": "T-shirt Peter & Swiss Alps",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "SF-B004-20 - T-shirt Peter & Swiss Alps100% cotonDécouvrez notre « Swiss Family » !\nSuivez les aventures de Heidi, Peter, du grand-père, la chèvre, la vache et l'ensemble de notre « Swiss Family »SF-B004-20 - T-shirt Peter & Swiss Alps100% coton",
+        "productUrl": "http://www.heidi.com/usen/kids/t-shirt-peter-swiss-alps-6936.html",
+        "pageTitle": "T-shirt Peter & Swiss Alps  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_SF-B004-20_front.jpg_13.jpg"
+    },
+    "T-shirt Switzerland": {
+        "productName": "T-shirt Switzerland",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "SF-B005-10 - T-shirt Switzerland100% cottonDiscover The Swiss Family !\nFollow the adventures of Heidi, Peter, Grandpa, their goat, their cow & the whole funny Swiss Familly\nSF-B005-10 - T-shirt Switzerland100% cotton",
+        "productUrl": "http://www.heidi.com/usen/kids/t-shirt-switzerland-6943.html",
+        "pageTitle": "T-shirt Switzerland  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_SF-B005-10_front.jpg_6.jpg"
+    },
+    "T-shirt Heidi": {
+        "productName": "T-shirt Heidi",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "SF-G007-43 - T-shirt Heidi50% coton & 50% ModalDécouvrez notre « Swiss Family » !\nSuivez les aventures de Heidi, Peter, du grand-père, la chèvre, la vache et l'ensemble de notre « Swiss Family »SF-G007-43 - T-shirt Heidi50% coton & 50% Modal",
+        "productUrl": "http://www.heidi.com/usen/kids/t-shirt-heidi-6950.html",
+        "pageTitle": "T-shirt Heidi  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_SF-G007-43_front.jpg_13.jpg"
+    },
+    "T-shirt Swiss Map": {
+        "productName": "T-shirt Swiss Map",
+        "productPrice": "\n                                            24.00USD\n                                                            ",
+        "productDescription": "10113-290 - T-shirt Swiss MapSwiss Horizon50% coton & 50% Modal, 170 gsm\n10113-290 - T-shirt Swiss MapSwiss Horizon",
+        "productUrl": "http://www.heidi.com/usen/kids/t-shirt-swiss-map-6957.html",
+        "pageTitle": "T-shirt Swiss Map  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_10113-290_front.jpg_13.jpg"
+    },
+    "Swiss Family Pencil": {
+        "productName": "Swiss Family Pencil",
+        "productPrice": "\n                                            3.90USD\n                                                            ",
+        "productDescription": "18019-10 - Swiss Family PencilSwiss Family18019-10 - Swiss Family PencilSwiss Family",
+        "productUrl": "http://www.heidi.com/usen/kids/crayon-swiss-family.html",
+        "pageTitle": "Swiss Family Pencil  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_18019-10_front.jpg.jpg"
+    },
+    "Heidi Pencil": {
+        "productName": "Heidi Pencil",
+        "productPrice": "\n                                            3.90USD\n                                                            ",
+        "productDescription": "18009-119 - Heidi PencilSwiss Family18009-119 - Heidi PencilSwiss Family",
+        "productUrl": "http://www.heidi.com/usen/kids/crayon-heidi.html",
+        "pageTitle": "Heidi Pencil  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a__18009-119_front.jpg.jpg"
+    },
+    "Heidi Rule": {
+        "productName": "Heidi Rule",
+        "productPrice": "\n                                            2.90USD\n                                                            ",
+        "productDescription": "Swiss Family",
+        "productUrl": "http://www.heidi.com/usen/catalog/product/view/id/6960/s/regle-heidi/category/85/",
+        "pageTitle": "Heidi Rule  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_18059-119_front.jpg.jpg"
+    },
+    "Switzerland cap": {
+        "productName": "Switzerland cap",
+        "productPrice": "\n                                            16.00USD\n                                                            ",
+        "productDescription": "SF-C005-10 - Switzerland capSwiss Family100% CottonSF-C005-10 - Switzerland capSwiss Family",
+        "productUrl": "http://www.heidi.com/usen/kids/casquette-switzerland.html",
+        "pageTitle": "Switzerland cap  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_SF-C005-10_front.jpg.jpg"
+    },
+    "Heidi cap": {
+        "productName": "Heidi cap",
+        "productPrice": "\n                                            16.00USD\n                                                            ",
+        "productDescription": "SF-C007-43 - Heidi cap100% cottonSF-C007-43 - Heidi cap100% cotton",
+        "productUrl": "http://www.heidi.com/usen/kids/casquette-heidi.html",
+        "pageTitle": "Heidi cap  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_SF-C007-43_front.jpg.jpg"
+    },
+    "Original Glockchem T-shirt": {
+        "productName": "Original Glockchem T-shirt",
+        "productPrice": "\n                                            25.00USD\n                                                            ",
+        "productDescription": "16EBT003 - Original Glockchem T-shirt100% Cotton16EBT003 - Original Glockchem T-shirt100% Cotton",
+        "productUrl": "http://www.heidi.com/usen/kids/t-shirt-original-glockchem.html",
+        "pageTitle": "Original Glockchem T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_16EBT003_front.jpg_5.jpg"
+    },
+    "Original Meckerli T-shirt": {
+        "productName": "Original Meckerli T-shirt",
+        "productPrice": "\n                                            25.00USD\n                                                            ",
+        "productDescription": "16EGT006 - Original Meckerli T-shirt50% Cotton-50% Modal16EGT006 - Original Meckerli T-shirt50% Cotton-50% Modal",
+        "productUrl": "http://www.heidi.com/usen/kids/t-shirt-original-meckerli.html",
+        "pageTitle": "Original Meckerli T-shirt  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_16EGT006_front.jpg_5.jpg"
+    },
+    "T-shirt Sweet Swiss Heidi": {
+        "productName": "T-shirt Sweet Swiss Heidi",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "10063-54 - T-shirt Sweet Swiss HeidiSwiss Family50% coton & 50% Modal, 170 gsm\n10063-54 - T-shirt Sweet Swiss HeidiSwiss Family",
+        "productUrl": "http://www.heidi.com/usen/kids/t-shirt-sweet-swiss-heidi-6851.html",
+        "pageTitle": "T-shirt Sweet Swiss Heidi  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_10063-54_front.jpg_6.jpg"
+    },
+    "T-shirt Heidi Flower": {
+        "productName": "T-shirt Heidi Flower",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "10033-10 - T-shirt Heidi FlowerSwiss Family50% coton & 50% Modal, 170 gsm\n10033-10 - T-shirt Heidi FlowerSwiss Family",
+        "productUrl": "http://www.heidi.com/usen/kids/t-shirt-heidi-flower-6858.html",
+        "pageTitle": "T-shirt Heidi Flower  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_10033-10_front.jpg_6.jpg"
+    },
+    "T-shirt Swiss Nature": {
+        "productName": "T-shirt Swiss Nature",
+        "productPrice": "\n                                            19.90USD\n                                                            ",
+        "productDescription": "10043-350 - T-shirt Swiss NatureSwiss Family50% coton & 50% Modal, 170 gsm\n10043-350 - T-shirt Swiss NatureSwiss Family",
+        "productUrl": "http://www.heidi.com/usen/kids/t-shirt-swiss-nature-6869.html",
+        "pageTitle": "T-shirt Swiss Nature  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_10043-350_front.jpg_6.jpg"
+    },
+    "Swiss Alps cap": {
+        "productName": "Swiss Alps cap",
+        "productPrice": "\n                                            16.00USD\n                                                            ",
+        "productDescription": "SF-C004-20 - Swiss Alps cap100% CottonSF-C004-20 - Swiss Alps cap100% Cotton",
+        "productUrl": "http://www.heidi.com/usen/kids/casquette-swiss-alps.html",
+        "pageTitle": "Swiss Alps cap  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_SF-C004-20_front.jpg.jpg"
+    },
+    "Swiss Rodeo cap": {
+        "productName": "Swiss Rodeo cap",
+        "productPrice": "\n                                            16.00USD\n                                                            ",
+        "productDescription": "SF-C003-1 - Swiss Rodeo cap100% CottonSF-C003-1 - Swiss Rodeo cap100% Cotton",
+        "productUrl": "http://www.heidi.com/usen/kids/casquette-swiss-rodeo.html",
+        "pageTitle": "Swiss Rodeo cap  | heidi.com",
+        "imageUrl": "http://www.heidi.com/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/_/a_SF-C003-1_front.jpg.jpg"
     }
 }
