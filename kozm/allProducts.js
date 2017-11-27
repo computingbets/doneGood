@@ -59,8 +59,8 @@ Promise.map(urls, function(url){
     // Response Array [url, cheerio body]
     responses.forEach(function(response){
       // Now here is where we have access to each individual product page to get the rest of our information
-      var productUrl, productPrice, imageUrl, pageTitle, productDescription, productName
-
+      var productUrl, productPrice, imageUrl, pageTitle, productDescription, productName, //keywords
+      //var keywordsArr = [];
       productUrl = response[0];
       $ = response[1];
       // II: Boom, now I've grabbed the imageUrl just as if I was crawling a product page, and we can grab the rest like normal.
@@ -72,6 +72,8 @@ Promise.map(urls, function(url){
           //$('p.price > span').text();
       productDescription = $('.product-details').children().first().next().text();
       pageTitle = $('title').text();
+      //keywords = $('.active').children().first().next().text().slice(70, 145);
+      //keywordsArr.push(keywords);
       //imageUrl = $('a[TabIndex*="0"]').attr("href");
       // Store all the info we found into the results object
       // II: changing the results[productName] to results[productUrl] as I think productUrl is more likely to be a unique identifier.
@@ -81,7 +83,8 @@ Promise.map(urls, function(url){
         'productDescription': productDescription,
         'productUrl': productUrl,
         'pageTitle': pageTitle,
-        'imageUrl': imageUrl
+        'imageUrl': imageUrl,
+        //'keywordsArr': keywordsArr
       };
 
     })

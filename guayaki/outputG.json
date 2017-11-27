@@ -1,13 +1,14 @@
 {
-  "keywords": {
-      " •  Organic Certified
-        •  Fair Trade Certified
-        •  Gluten Free
-        •  Vegan
-        •  Soy Free
-        •  Dairy Free
-        •  Kosher"
-  },
+  "keywordsArr": {[
+      "  •  Organic Certified",
+      "  •  Fair Trade Certified",
+      "  •  Gluten Free",
+      "  •  Vegan",
+      "  •  Soy Free",
+      "  •  Dairy Free",
+      "  •  Kosher",
+  ]}
+  ,
     "Traditional Yerba Mate Bags": {
         "productName": "Traditional Yerba Mate Bags",
         "productPrice": "\n        $6.95 \n      ",

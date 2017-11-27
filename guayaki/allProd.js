@@ -64,7 +64,7 @@ Promise.map(urls, function(url){
 		  pageTitle = $('title').text();
       var http = 'http://guayaki.com/';
 		  imageUrl = http + $('.product_img a').children().first().attr("src");
-      //keywords = $('.Apple-style-span').text();
+      // var keywords = $('.Apple-style-span').text();
       //keywordsArr.push(keywords.split("•"));
 
 		  // Store all the info we found into the results array
