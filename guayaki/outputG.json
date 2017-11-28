@@ -1,5 +1,5 @@
 {
-  "keywordsArr": {[
+  "keywordsArr": [
       "  •  Organic Certified",
       "  •  Fair Trade Certified",
       "  •  Gluten Free",
@@ -7,7 +7,7 @@
       "  •  Soy Free",
       "  •  Dairy Free",
       "  •  Kosher",
-  ]}
+  ]
   ,
     "Traditional Yerba Mate Bags": {
         "productName": "Traditional Yerba Mate Bags",
