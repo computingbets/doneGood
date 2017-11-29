@@ -65,6 +65,8 @@ Promise.map(urls, function(url){
 		  productDescription = $('div.description > p').text();
 		  pageTitle = $('title').text();
 		  imageUrl = $('img.img-responsive> img').attr('src');
+		  
+		  
 
 		  // Store all the info we found into the results array
 		  results[productName] = {
@@ -75,6 +77,8 @@ Promise.map(urls, function(url){
 		    'pageTitle': pageTitle,
 		    'imageUrl': imageUrl
 		  };
+		  
+		  console.log(results[productName])
 
 		})
 		return results;

@@ -79,7 +79,8 @@ Promise.map(urls, function(url){
 		    'productDescription': productDescription,
 		    'productUrl': productUrl,
 		    'pageTitle': pageTitle,
-		    'imageUrl': imageUrl
+		    'imageUrl': imageUrl,
+		    'keywords1' : $('meta[name=keywords]').attr("content")
 		  };
 
 		})
