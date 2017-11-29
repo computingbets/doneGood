@@ -8,8 +8,12 @@ var Promise = require('bluebird');
 * This is a two step scraping method. First identify all the pages on a website that list products. Put all of those links into the URL array below
 */
 urls = [
-  'https://store.thanksgivingcoffee.com/thanksgiving-coffee-c143.aspx',
-  
+  'https://www.bravegentleman.com/index.php/pants.html',
+  'https://www.bravegentleman.com/index.php/tops.html',
+  'https://www.bravegentleman.com/index.php/shoes.html',
+  'https://www.bravegentleman.com/index.php/bgmroot.html',
+  'https://www.bravegentleman.com/index.php/accessories.html',
+  'https://www.bravegentleman.com/index.php/suits.html'
 ]
 
 Promise.map(urls, function(url){
@@ -26,9 +30,8 @@ Promise.map(urls, function(url){
 	// Here is the access to the product page listings
 	pages.forEach(function($){
 		// This code here grabs the url from each listing, and then pushes that url into the pageUrls array
-	  $('.nextProdThumb').each(function(index, elem){
-	    var productUrl = $(elem).attr("href");
-      //console.log(productUrl);
+    $('.product-image').each(function(index, elem){
+      var productUrl = $(elem).attr("href");
 	    pageUrls.push(productUrl);
 	  });
 	})
@@ -56,11 +59,11 @@ Promise.map(urls, function(url){
 
 		  // This is where the specific queries are written to get all the info you need
 		  // Can even get all the meta data, google how to get a pages meta data from Jquery
-		  productName = $('.nextProdName').text();
-		  productPrice = $('#ctl00_ctl00_cphMain_cphMain_pdtProduct_spnDisplayedPrice').text();
-		  productDescription = $('#divLongDescription').text();
+		  productName = $('.product-name').text();
+		  productPrice = $('.regular-price').text();
+		  productDescription = $('.std').text();
 		  pageTitle = $('title').text();
-		  imageUrl = $('#imgProductImageMain').attr('src');
+		  imageUrl = $('#image').attr('src');
 
 		  // Store all the info we found into the results array
 		  results[productName] = {

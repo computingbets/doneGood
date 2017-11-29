@@ -8,8 +8,7 @@ var Promise = require('bluebird');
 * This is a two step scraping method. First identify all the pages on a website that list products. Put all of those links into the URL array below
 */
 urls = [
-  'https://store.thanksgivingcoffee.com/thanksgiving-coffee-c143.aspx',
-  
+  'https://www.soapboxsoaps.com/collections/our-products'
 ]
 
 Promise.map(urls, function(url){
@@ -26,9 +25,10 @@ Promise.map(urls, function(url){
 	// Here is the access to the product page listings
 	pages.forEach(function($){
 		// This code here grabs the url from each listing, and then pushes that url into the pageUrls array
-	  $('.nextProdThumb').each(function(index, elem){
-	    var productUrl = $(elem).attr("href");
-      //console.log(productUrl);
+	  $('.product-item').each(function(index, elem){
+      var http = 'https://www.soapboxsoaps.com'
+	    var productUrl = http + $(elem).children().first().attr("href");
+      console.log(productUrl);
 	    pageUrls.push(productUrl);
 	  });
 	})
@@ -56,11 +56,12 @@ Promise.map(urls, function(url){
 
 		  // This is where the specific queries are written to get all the info you need
 		  // Can even get all the meta data, google how to get a pages meta data from Jquery
-		  productName = $('.nextProdName').text();
-		  productPrice = $('#ctl00_ctl00_cphMain_cphMain_pdtProduct_spnDisplayedPrice').text();
-		  productDescription = $('#divLongDescription').text();
+		  productName = $('.product-responsive-title').text();
+		  productPrice = $('.woocommerce-Price-amount.amount').first().text();
+      //$('p.price > span').text();
+		  productDescription = $('.product-details').children().first().next().text();
 		  pageTitle = $('title').text();
-		  imageUrl = $('#imgProductImageMain').attr('src');
+		  imageUrl = $('a[TabIndex*="0"]').attr("href");
 
 		  // Store all the info we found into the results array
 		  results[productName] = {

@@ -8,8 +8,24 @@ var Promise = require('bluebird');
 * This is a two step scraping method. First identify all the pages on a website that list products. Put all of those links into the URL array below
 */
 urls = [
-  'https://store.thanksgivingcoffee.com/thanksgiving-coffee-c143.aspx',
-  
+  'https://www.preserveproducts.com/shop/bath/oral-care',
+  'https://www.preserveproducts.com/shop/bath/razors',
+  'https://www.preserveproducts.com/shop/bath/travel',
+  'https://www.preserveproducts.com/shop/kitchen/food-storage',
+  'https://www.preserveproducts.com/shop/kitchen/tools',
+  'https://www.preserveproducts.com/shop/tabletop/straws',
+  'https://www.preserveproducts.com/shop/tabletop/collections',
+  'https://www.preserveproducts.com/shop/tabletop/cups',
+  'https://www.preserveproducts.com/shop/tabletop/plates',
+  'https://www.preserveproducts.com/shop/tabletop/bowls',
+  'https://www.preserveproducts.com/shop/tabletop/cutlery',
+  'https://www.preserveproducts.com/shop/tabletop/bags-totes',
+  'https://www.preserveproducts.com/shop/tabletop/shareware',
+  'https://www.preserveproducts.com/shop/featured/dopper',
+  'https://www.preserveproducts.com/shop/featured/preserve-compostables',
+  'https://www.preserveproducts.com/shop/featured/utec-cutting-boards',
+  'https://www.preserveproducts.com/shop/featured/subscriptions',
+  'https://www.preserveproducts.com/shop/featured/friends-of-preserve',
 ]
 
 Promise.map(urls, function(url){
@@ -26,9 +42,9 @@ Promise.map(urls, function(url){
 	// Here is the access to the product page listings
 	pages.forEach(function($){
 		// This code here grabs the url from each listing, and then pushes that url into the pageUrls array
-	  $('.nextProdThumb').each(function(index, elem){
-	    var productUrl = $(elem).attr("href");
-      //console.log(productUrl);
+	  $('.Listing-Thumbnail').each(function(index, elem){
+      var http = 'https://www.preserveproducts.com'
+	    var productUrl = http + $(elem).attr("href");
 	    pageUrls.push(productUrl);
 	  });
 	})
@@ -56,11 +72,11 @@ Promise.map(urls, function(url){
 
 		  // This is where the specific queries are written to get all the info you need
 		  // Can even get all the meta data, google how to get a pages meta data from Jquery
-		  productName = $('.nextProdName').text();
-		  productPrice = $('#ctl00_ctl00_cphMain_cphMain_pdtProduct_spnDisplayedPrice').text();
-		  productDescription = $('#divLongDescription').text();
+		  productName = $('.Page-Title').text();
+		  productPrice = $('span.Price.Original').text();
+		  productDescription = $('.Body').text();
 		  pageTitle = $('title').text();
-		  imageUrl = $('#imgProductImageMain').attr('src');
+		  imageUrl = $('.Gallery-Image').attr('src');
 
 		  // Store all the info we found into the results array
 		  results[productName] = {

@@ -55,10 +55,11 @@ Promise.map(urls, function(url){
 		  // This is where the specific queries are written to get all the info you need
 		  // Can even get all the meta data, google how to get a pages meta data from Jquery
 		  productName = $('h1.entry-title').text();
-		  productPrice = $('p.price > span').text();
+		  productPrice = $('.price.product-page-price > span').text() || $('.product-page-price.price-on-sale').children().first().next().text();
+      //$('p.price > span').text();
 		  productDescription = $('div.product-short-description').text();
 		  pageTitle = $('title').text();
-		  imageUrl = $('div.product-image div.slide.easyzoom a > img').attr('src');
+		  imageUrl = $('.attachment-shop_single').attr('src');
 
 		  // Store all the info we found into the results array
 		  results[productName] = {
