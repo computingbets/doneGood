@@ -64,9 +64,8 @@ Promise.map(urls, function(url){
 		  productPrice = $('div.col-md-5 > h3').text();
 		  productDescription = $('div.description > p').text();
 		  pageTitle = $('title').text();
-		  imageUrl = $('img.img-responsive> img').attr('src');
-		  
-		  
+    	var http = 'https://fairandsimple.com';
+		  imageUrl = http + $('.product-image').attr('src');
 
 		  // Store all the info we found into the results array
 		  results[productName] = {
