@@ -15,12 +15,15 @@ Promise.map(urls, function(url){
       return cheerio.load(body);
     }
   }
+  
   return Promise.delay(50, rp(options));
 }, {concurrency: 1})
 .then(function(pages){
+  console.log('here')
   pageUrls = [];
   // Here is where you'll have access to the product page listings
   pages.forEach(function($){
+    console.log('page for each')
     // This code here grabs the url from each listing, and then pushes that url into the pageUrls array
     $('.grid-view-item__link grid-view-item__image-container').each(function(index, elem){
       var https = 'https://pleyshop.com/';
