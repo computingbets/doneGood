@@ -64,8 +64,9 @@ Promise.map(urls, function(url){
 		  productDescription = $('.std').text();
 		  pageTitle = $('title').text();
 		  imageUrl = $('#image').attr('src');
-
-
+      keywords = $('meta[name=keywords]').attr("content").split(" ");
+      //keywords = $('em').text();
+      //var keywordsArr = keywords.split("•").pop();
 		  // Store all the info we found into the results array
 		  results[productName] = {
 		    'productName': productName,
@@ -75,36 +76,50 @@ Promise.map(urls, function(url){
 		    'pageTitle': pageTitle,
 		    'imageUrl': imageUrl,
         'keywords': keywords
+
+// colorData : [
+// colorname1 : {
+// name: string,
+// url : string,
+// imageURL : string},
+// colorname2 : {
+// name: string,
+// url : string,
+// imageURL : string},
+// ...
+//
+// }
+// ]
 		  };
 
 		})
 		return results;
 	})
+//   .then(function(results){
+//     return rp({
+//    // uri = the url we want it to request
+//    uri: 'https://bravegentleman.com',
+//    // transform = do some extra stuff once you process that request
+//    transform: function(body){
+//      // body = the html from the metaUrl
+//      // We still need the results for the next then
+//      return [results, cheerio.load(body)] //array
+//    }
+//  })
+// })
+// .then(function(responses){
+//   //console.log(responses);
+//   var results = responses[0];
+//   var $ = responses[1];
+//   var keywords = $('meta[name=keywords]').attr("content")
+//   results[keywords];
+//   return fileResults
+// })
   .then(function(results){
-    return rp({
-   // uri = the url we want it to request
-   uri: 'https://bravegentleman.com',
-   // transform = do some extra stuff once you process that request
-   transform: function(body){
-     // body = the html from the metaUrl
-     // We still need the results for the next then
-     return [results, cheerio.load(body)] //array
-   }
- })
-})
-.then(function(responses){
-  //console.log(responses);
-  var results = responses[0];
-  var $ = responses[1];
-  var keywords = $('meta[name=keywords]').attr("content")
-  results[keywords];
-  return fileResults
-})
-  .then(function(fileResults){
 		// Now write the results to a json file
-    var metaResults = fileResults[0];
-    var dataResults = fileResults[1];
-    fs.writeFile('output.json', JSON.stringify(metaResults, dataResults, null, 4), function(err){
+    // var metaResults = fileResults[0];
+    // var dataResults = fileResults[1];
+    fs.writeFile('output.json', JSON.stringify(results, null, 4), function(err){
       console.log('done');
     })
 	})
