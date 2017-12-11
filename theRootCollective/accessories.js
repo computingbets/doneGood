@@ -8,8 +8,7 @@ var Promise = require('bluebird');
 * This is a two step scraping method. First identify all the pages on a website that list products. Put all of those links into the URL array below
 */
 urls = [
-  'http://www.therootcollective.com/shop-womens-shoes/',
-  'http://www.therootcollective.com/shop-womens-shoes/?sort=alphaasc&page=2'
+  'http://www.therootcollective.com/accessories/'
 ]
 
 Promise.map(urls, function(url){
@@ -49,7 +48,7 @@ Promise.map(urls, function(url){
 		// Response Array [url, cheerio body]
 		responses.forEach(function(response){
 			// Now here is where we have access to each individual product page to get the rest of our information
-		  var productUrl, productPrice, imageUrl, pageTitle, productDescription, productName, keywords
+		  var productUrl, productPrice, imageUrl, pageTitle, productDescription, productName
 
 		  productUrl = response[0];
 		  $ = response[1];
@@ -63,14 +62,7 @@ Promise.map(urls, function(url){
       //.children().first().next()
 		  pageTitle = $('title').text();
 		  imageUrl = $('.cloudzoom').attr("src");
-      keywords = [];
-      var key1 = $('.ProductDescriptionContainer.prodAccordionContent').children().first().next().next().next().next().text();
-      var key2 = $('.ProductDescriptionContainer.prodAccordionContent').children().first().next().next().next().next().next().text();
-      var key3 = $('.ProductDescriptionContainer.prodAccordionContent').children().first().next().next().next().next().next().next().text();
-      var key4 = $('.ProductDescriptionContainer.prodAccordionContent').children().first().next().next().next().next().next().next().next().text();
-      var key5 = $('.ProductDescriptionContainer.prodAccordionContent').children().first().next().next().next().next().next().next().next().next().text();
 
-      keywords.push(key1,key2,key3,key4,key5);
       // Store all the info we found into the results array
 		  results[productName] = {
 		    'productName': productName,
@@ -78,8 +70,7 @@ Promise.map(urls, function(url){
 		    'productDescription': productDescription,
 		    'productUrl': productUrl,
 		    'pageTitle': pageTitle,
-		    'imageUrl': imageUrl,
-        'keywords': keywords
+		    'imageUrl': imageUrl
 		  };
 
 		})
