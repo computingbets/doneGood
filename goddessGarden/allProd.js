@@ -46,7 +46,7 @@ Promise.map(urls, function(url){
 	  });
 	})
 	return pageUrls;
-})
+}) 
 .then(function(pageUrls){
   Promise.map(pageUrls, function(urlObj){
     var url = urlObj.productUrl;
