@@ -8,16 +8,17 @@ var Promise = require('bluebird');
 * This is a two step scraping method. First identify all the pages on a website that list products. Put all of those links into the URL array below
 */
 urls = [
-  'https://www.atayne.com/shop/womens.html/',
-  'https://www.atayne.com/shop/womens.html?p=2',
-  'https://www.atayne.com/shop/womens.html?p=3',
-  'https://www.atayne.com/shop/womens.html?p=4',
-  'https://www.atayne.com/shop/womens.html?p=5',
-  'https://www.atayne.com/shop/womens.html?p=6',
-  'https://www.atayne.com/shop/womens.html?p=7',
-  'https://www.atayne.com/shop/womens.html?p=8',
-  'https://www.atayne.com/shop/womens.html?p=9',
-  'https://www.atayne.com/shop/womens.html?p=10'
+  'https://www.atayne.com/shop/mens.html?p=11',
+  'https://www.atayne.com/shop/mens.html?p=12',
+  'https://www.atayne.com/shop/mens.html?p=13',
+  'https://www.atayne.com/shop/mens.html?p=14',
+  'https://www.atayne.com/shop/mens.html?p=15',
+  'https://www.atayne.com/shop/mens.html?p=16',
+  'https://www.atayne.com/shop/mens.html?p=17',
+  'https://www.atayne.com/shop/mens.html?p=18',
+  'https://www.atayne.com/shop/mens.html?p=19',
+  'https://www.atayne.com/shop/mens.html?p=20',
+  'https://www.atayne.com/shop/mens.html?p=21'
 
 ]
 

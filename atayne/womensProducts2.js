@@ -59,34 +59,34 @@ Promise.map(urls, function(url){
 		// Response Array [url, cheerio body]
 		responses.forEach(function(response){
 			// Now here is where we have access to each individual product page to get the rest of our information
-		  var productUrl, productPrice, imageUrl, pageTitle, productDescription, productName//, keywords
+      var productUrl, productPrice, imageUrl, pageTitle, productDescription, productName//, keywords
 
-		  productUrl = response[0];
-		  $ = response[1];
+      productUrl = response[0];
+      $ = response[1];
 
-		  // This is where the specific queries are written to get all the info you need
-		  // Can even get all the meta data, google how to get a pages meta data from Jquery
-		  productName = $('.product-name').text();
+      // This is where the specific queries are written to get all the info you need
+      // Can even get all the meta data, google how to get a pages meta data from Jquery
+      productName = $('.product-name').text();
       //$('p.price > span').text();
       productDescription = $('div.product-tabs-content.tabs-content > p').first().text();
       productPrice = $('.regular-price').text();
       pageTitle = $('title').text();
-		  imageUrl = $('.product-image').children().first().next().next().attr("src");
+      imageUrl = $('img').eq(2).attr("src");
 
       //keywords.push(key1,key2,key3,key4,key5);
       // Store all the info we found into the results array
-		  results[productName] = {
-		    'productName': productName,
-		    'productPrice': productPrice,
-		    'productDescription': productDescription,
-		    'productUrl': productUrl,
-		    'pageTitle': pageTitle,
-		    'imageUrl': imageUrl
+      results[productName] = {
+        'productName': productName,
+        'productPrice': productPrice,
+        'productDescription': productDescription,
+        'productUrl': productUrl,
+        'pageTitle': pageTitle,
+        'imageUrl': imageUrl
         //'keywords': keywords
-		  };
+      };
 
-		})
-		return results;
+    })
+    return results;
 	})
 	.then(function(results){
 		// Now write the results to a json file
