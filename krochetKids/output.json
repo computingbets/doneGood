@@ -1,0 +1,876 @@
+
+/*products with two prices indicate a sale. first price is original price, second price is sale price*/
+
+    "Alaina Dress in Organic": {
+        "productName": "Alaina Dress in Organic",
+        "productPrice": "$59.00 $25.00",
+        "productDescription": "\n\t\tComfy and elegant, this midi dress is universally flattering. Featuring an elastic waist and pockets, this will be your go-to dress for any occasion.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n100% Organic Cotton\nPremium Cut & Sew\nModel is wearing size Small\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/alaina-dress-in-organic/",
+        "pageTitle": "Organic Cotton Dress: The Alaina Dress in 100% Organic Cotton",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Alaina_BlackWhite_Fit4-300x300.jpg"
+    },
+    "Annie Dress in Organic": {
+        "productName": "Annie Dress in Organic",
+        "productPrice": "$54.00 $25.00",
+        "productDescription": "\n\t\tA modern t-shirt dress with an unexpected high-low hemline, ‘the Annie' is up for anything. Our organic cotton dresses are carefully made in Peru and hand-signed by the lady who made it.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n100% Organic Cotton\nHi-low hemline\nModel is 5'9 and wearing size Medium\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/annie-dress/",
+        "pageTitle": "Organic Cotton Dresses | All New Organic Cotton from Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/AnnieNavy_1-300x300.jpg"
+    },
+    "Audrey Dress in Organic": {
+        "productName": "Audrey Dress in Organic",
+        "productPrice": "$59.00 $25.00",
+        "productDescription": "\n\t\tA sophisticated take on the classic t-shirt dress, this dress is made from an soft 100% organic cotton and features a subtle high-low hem and raglan-style stitching. Elevate your everyday with this essential dress!\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n100% Organic Cotton\nPremium Cut & Sew\nModel is wearing size Small\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/audrey-dress-in-organic/",
+        "pageTitle": "Organic Cotton Dress: The Audrey Dress in 100% Organic Cotton",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Audrey_BlackWhite_Fit1-300x300.jpg"
+    },
+    "Camilla Dress in Organic": {
+        "productName": "Camilla Dress in Organic",
+        "productPrice": "$59.00 $25.00",
+        "productDescription": "\n\t\tPerfect for going from day to night, this flattering dress falls midi length with easy side slits, a unexpected cutout back, and dropped armholes. Complete with a hint of natural stretch, it's sophistication meets comfort & ease.\n \nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n100% Organic Cotton\nPremium Cut & Sew\nModel is wearing size Small\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/camilla-dress-organic/",
+        "pageTitle": "Organic Cotton Dress: The Camilla Dress in 100% Organic Cotton",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Camilla_DustyPink_Fit1-300x300.jpg"
+    },
+    "Payson Midi Dress": {
+        "productName": "Payson Midi Dress",
+        "productPrice": "$68.00",
+        "productDescription": "\n\t\tComfy and elegant, the ‘Payson' midi dress is universally flattering. Featuring an elastic waist and pockets, this will be your go-to dress for any occasion.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n56% Viscose/42% Sub/2% Spandex\nDress features an elastic waist and pockets\nModel is wearing size Medium\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/payson/",
+        "pageTitle": "Meet 'the Payson' - Shop Mid Length Dresses | Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/Payson_Iron_Fit_01-01-300x300.jpg"
+    },
+    "Vera Dress": {
+        "productName": "Vera Dress",
+        "productPrice": "$62.00",
+        "productDescription": "\n\t\tThis long sleeve shirt dress will be your go-to all year round. Made from comfy and breathable cotton in our favorite shift silhouette, you'll fall in love with ‘the Vera' striped dress.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n100% Cotton\nPremium Cut & Sew\nLong Sleeve Shirt Dress\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/vera-dress/",
+        "pageTitle": "Striped Dress | 'the Vera' Striped Dress Ethically Made in Peru",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Vera_Indigo_Stripe_Fit-1-300x300.jpg"
+    },
+    "Zoey Maxi Dress in Organic": {
+        "productName": "Zoey Maxi Dress in Organic",
+        "productPrice": "$68.00 $25.00",
+        "productDescription": "\n\t\tSuper soft and incredibly lightweight, the ‘Zoey' dress is both comfy and elegant. An elongated silhouette complete with short sleeves, a pocket, and side slit make this dress casual yet refined.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n\n100% Organic Cotton\n\n\nRelaxed fit\n\nSide slit is 29″ tall on size Medium\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/zoey/",
+        "pageTitle": "Meet 'the Zoey' - Shop Maxi Dresses | Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/ZoeyBlack_1-300x300.jpg"
+    },
+    "Whitney Dress": {
+        "productName": "Whitney Dress",
+        "productPrice": "$58.00 $25.00",
+        "productDescription": "\n\t\tA warm-weather essential, the ‘Whitney' dress features a comfortable yet flattering silhouette complete with tank top straps, a slight a-line, and a hint of stretch. Spend your summer comfortably in the ‘Whitney'!\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru \n96% Cotton/4% Spandex Jersey\nSlightly ribbed textile\nModel is wearing size medium\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/whitney-dress/",
+        "pageTitle": "Whitney Ribbed Dress | Ethically Made Apparel by Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/Whitney_BlackWhite_15-300x300.jpg"
+    },
+    "Scarlett Dress": {
+        "productName": "Scarlett Dress",
+        "productPrice": "$58.00 $25.00",
+        "productDescription": "\n\t\tA contemporary take on a wardrobe essential, the ‘Scarlett' dress is a must-have for any occasion. Wear it dressed up or dressed down, it's perfect for elevating your style and making a positive impact.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURE:\n\nMade in Peru \n96% Cotton/4% Spandex Jersey\nSlightly ribbed textile\nModel is wearing size medium\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/scarlett-dress/",
+        "pageTitle": "All New Summer Dresses | Shop the 'Scarlett' Dress",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/Scarlett_Black_04-1-300x300.jpg"
+    },
+    "Vivienne Dress": {
+        "productName": "Vivienne Dress",
+        "productPrice": "$62.00 $25.00",
+        "productDescription": "\n\t\tA must-have no matter the season, ‘the Vivienne’ features dropped shoulders, long sleeves and a lightweight draped silhouette. Made in Peru from the same unique 100% cotton jersey textile as ‘the Aria’ dress.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\n100% Cotton Jersey\nDraped Fit\nFeatures end on end stripe\nMade in Peru\nModel is wearing size medium\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/vivienne-dress/",
+        "pageTitle": "Vivienne Dress Long Sleeve Dress | Ethical Apparel + More Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/VivienneNavy_1-300x300.jpg"
+    },
+    "Clover Dress": {
+        "productName": "Clover Dress",
+        "productPrice": "$62.00",
+        "productDescription": "\n\t\tMade with love in Peru, ‘the Clover' dress has a comfortable silhouette complete with our favorite details like pockets (!) and a cut-out detail in the back.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n100% Cotton\nPremium Cut & Sew\nPockets and Cut-Out Back Detail\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/clover-dress/",
+        "pageTitle": "Clover Dress - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Clover_Black_Fit3-300x300.jpg"
+    },
+    "Dress Surprise Pack": {
+        "productName": "Dress Surprise Pack",
+        "productPrice": "$50.00",
+        "productDescription": "\n\t\tLove dresses? This is perfect for you! Each Dress Surprise Pack comes with two surprise dresses. Simply choose your size and add it to your cart. Hurry – supplies are limited so shop while you can!\nFEATURES:\n\nMade in Peru\n100% Organic Cotton\nEach pack contains (1) short sleeve dress + (1) tank dress OR (1) long sleeve dress\nRetails up to $130\n\nCLICK HERE TO VIEW APPAREL SIZE CHART\n*All sales are final. Cannot be exchanged, returned, or combined with any other promotions or offers.\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/dress-surprise-pack/",
+        "pageTitle": "Dress Surprise Pack - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/surprisepack_dress-300x300.jpg"
+    },
+    "Elena Dress in Organic": {
+        "productName": "Elena Dress in Organic",
+        "productPrice": "$55.00 $25.00",
+        "productDescription": "\n\t\tA contemporary midi dress complete with a boatneck neckline and side slits. Made in Peru from 100% organic cotton, it's a dress that looks good and does good.\n\nFEATURES:\n\nMade in Peru\n100% Organic Cotton\nPremium Cut & Sew\nMidi Dress\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/elena-dress-organic/",
+        "pageTitle": "Organic Cotton Dress: The Elena Dress in 100% Organic Cotton",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/Elena_Nutmeg_Fit1-1-300x300.jpg"
+    },
+    "Tuesday Dress in Organic": {
+        "productName": "Tuesday Dress in Organic",
+        "productPrice": "$58.00 $25.00",
+        "productDescription": "\n\t\tThis wear-every-day dress is made from 100% organic cotton, so you know it's helping people and the planet. It's easy as your favorite tee – just throw on and go!\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n100% Organic Cotton\nPremium Cut & Sew\nT-Shirt Dress\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/tuesday-dress-in-organic/",
+        "pageTitle": "Organic Cotton Dress: The Tuesday Dress in 100% Organic Cotton",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/IMG_5851-Edit-1-300x300.jpg"
+    },
+    "Yuma Dress": {
+        "productName": "Yuma Dress",
+        "productPrice": "$68.00 $25.00",
+        "productDescription": "\n\t\tPerfect for going from day to night, the flattering ‘Yuma' dress falls midi length with easy side slits, a unexpected cutout back, and dropped armholes. Complete with a hint of natural stretch, it's sophistication meets comfort & ease.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n50% Cotton/50% Modal Jersey \nMidi length with cutout back\nModel is wearing size medium\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/yuma-dress/",
+        "pageTitle": "Meet the 'Yuma' Dress | Shop Ethical Apparel + More Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/Yuma_Pistachio_06-300x300.jpg"
+    },
+    "Brix": {
+        "productName": "Brix",
+        "productPrice": "$28.00",
+        "productDescription": "\n\t\tKeep things simple this season with ‘the Brix’. A casual, cuffed beanie with just the right amount of slouch. Perfect for cold days, this beanie will keep you warm and stylish. Each product is hand-signed by the woman who made it.\n\nFEATURES:\n\n80% Acrylic / 20% Alpaca\nCuffed Beanie\nSlouchy Fit\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/brix/",
+        "pageTitle": "Slouchy Beanie | The 'Brix' | Winter Headwear + More - Krochet Kids",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/Brix_Wine_Fit-300x300.jpg"
+    },
+    "Mesa Bandana": {
+        "productName": "Mesa Bandana",
+        "productPrice": "$14.00",
+        "productDescription": "\n\t\tYou'll never tire of the many ways you can wear the Mesa Bandana. Tie it to your favorite tote or wear it as a kerchief, it's an simple daily reminder of the incredible impact you can make. \n\nFEATURES:\n\nMade in Peru \n35% Cotton, 65% Poly Poplin\nScreenprinted design\n23″ x 21.5″\nOne size fits all \n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/mesa-bandana/",
+        "pageTitle": "Mesa Bandana | Ethical Accessories + More on Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/2017-04-28-300x300.jpg"
+    },
+    "the Anna": {
+        "productName": "the Anna",
+        "productPrice": "$40.00",
+        "productDescription": "\n\t\tThis light-weight beanie is perfect for any time of the year. Feel relaxed in ‘the Anna’, constructed with a blend of alpaca and acrylic. Featuring a slouchy silhouette and an open crochet stitch, this beanie is warm, yet breathable.\n\nFEATURES:\n\nMade in Uganda\n80% Acrylic / 20% Alpaca\nRelaxed Fit\nHand crocheted\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-anna/",
+        "pageTitle": "Women's Soft Crochet Beanie: 'the Anna' - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/UV8A4444-300x300.jpg"
+    },
+    "the Brady": {
+        "productName": "the Brady",
+        "productPrice": "$22.00 $10.00",
+        "productDescription": "\n\t\tYour classic cuffed beanie, ‘the Brady', is double layered for extra warmth to keep you cozy all season long.\n\nFEATURES:\n\nMade in Peru\n100% Acrylic\nDouble Layered Knit\nCuffed\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-brady/",
+        "pageTitle": "the Brady - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/Brady_Navy_Fit_01-300x300.jpg"
+    },
+    "the Sienna": {
+        "productName": "the Sienna",
+        "productPrice": "$28.00",
+        "productDescription": "\n\t\tA cuffed beanie with an elevated silhouette that features a striped design. ‘the Sienna' is made from the softest Peruvian acrylic we could find and provides the perfect hint of stretch for a relaxed fit.\n\nFEATURES:\n\n100% Acrylic\nSlouchy Fit\nCuffed Beanie\nMade in Peru\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-sienna/",
+        "pageTitle": "the Sienna - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Sienna_Clay_Fit-300x300.jpg"
+    },
+    "World’s Greatest Beanie": {
+        "productName": "World’s Greatest Beanie",
+        "productPrice": "$50.00",
+        "productDescription": "\n\t\tThe World's Greatest Beanie combines functionality, superior quality, and deep consideration for both the planet and the people involved with making it.\nDesign. Materials. Transparency.\n\nFEATURES:\n\nMade in Peru\n100% Baby Alpaca Beanie\nLearn More HERE\nCrowdfunded on Kickstarter\n\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/worlds-greatest-beanie/",
+        "pageTitle": "World's Greatest Beanie: Eco-friendly Baby Alpaca Beanie",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/WGB_Sepia_Fit_01-300x300.jpg"
+    },
+    "Adriana Beanie": {
+        "productName": "Adriana Beanie",
+        "productPrice": "$40.00",
+        "productDescription": "\n\t\tWe heart the ‘Adriana', a super cozy beanie made from a wool / alpaca blend. Expertly knit in Peru, this beanie adorned with tiny thread hearts will keep you warm all season long.\n\nFEATURES:\n\nMade in Peru\n50% Alpaca / 30% Acrylic / 20% Wool\n3 inch Ribbed Cuff\nFolded Cuff\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-adriana/",
+        "pageTitle": "Adriana Beanie - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/UV8A5805-300x300.jpg"
+    },
+    "Alyssa Headband": {
+        "productName": "Alyssa Headband",
+        "productPrice": "$18.00",
+        "productDescription": "\n\t\tStunning knotted headband cut from a soft cotton / modal blend. Featuring the perfect amount of stretch to fit comfortably without slipping, it's our go-to for a modern finishing touch. \n\nFEATURES:\n\nMade in Peru\n50% Cotton, 50% Modal Jersey\nKnotted headband\nOne size fits most\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/alyssa-headband/",
+        "pageTitle": "All-New Alyssa Wrap | Ethical Accessories + More on Krochet Kids",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/UV8A6207-300x300.jpg"
+    },
+    "the Bella": {
+        "productName": "the Bella",
+        "productPrice": "$28.00 $14.00",
+        "productDescription": "\n\t\tThis lightweight beret is a great companion for any time of the year. ‘the Bella' has a mohair yarn blend that is fuzzy and warm, yet the open crochet stitch allows it to be breathable and airy.\n\nFEATURES:\n\nMade in Uganda\n70% Acrylic / 30% Mohair\nSlouchy fit\nOne size fits most\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-bella/",
+        "pageTitle": "the Bella - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2014/09/IMG_6342-Edit-300x300.jpg"
+    },
+    "the Rosie": {
+        "productName": "the Rosie",
+        "productPrice": "$28.00",
+        "productDescription": "\n\t\t‘the Rosie' is a 100% Alpaca criss-cross headband. A great accessory to keep you warm whether you are ice skating or in a snowball fight!\n\nFEATURES:\n\nMade in Peru\n100% Alpaca\nCrossed Headband\nOne Size Fits Most\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-rosie/",
+        "pageTitle": "the Rosie - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/Rosie_Eggshell_Fit-300x300.jpg"
+    },
+    "the Becks": {
+        "productName": "the Becks",
+        "productPrice": "$30.00 $10.00",
+        "productDescription": "\n\t\t‘the Becks' is soft, stylish, and adorned with one of the softest poms around! This is the hat you want in your wardrobe rotation all-year round.\n\nFEATURES:\n\nMade in Peru & Uganda\n100% Acrylic\nPom Attached\nOne Size Fits Most\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-becks/",
+        "pageTitle": "the Becks - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/Becks_Blush_Fit-300x300.jpg"
+    },
+    "the Drifter": {
+        "productName": "the Drifter",
+        "productPrice": "$30.00",
+        "productDescription": "\n\t\t‘the Drifter' is an acrylic waffle knit beanie with an embroidered “Hand-Signed Products Made By People Around the Globe” logo tag. Carry the message of ‘knowing who made it' wherever you find yourself.\n\nFEATURES:\n\n100% Acrylic\nTextured cuff beanie\nGlobal message logo tag\nMade in Peru\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-drifter/",
+        "pageTitle": "the Drifter - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Drifter_Khaki_Fit_01-300x300.jpg"
+    },
+    "the Ali": {
+        "productName": "the Ali",
+        "productPrice": "$24.00 $10.00",
+        "productDescription": "\n\t\tPerfect for those on-the-go, ‘the Ali' will be your favorite light-weight beanie this season. This lace-striped beanie is handmade and straight from our beneficiaries in Peru.\n\nFEATURES:\n\nMade in Peru\n100% Acrylic\nFitted Beanie\nLight Weight Knit\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-ali/",
+        "pageTitle": "the Ali - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/IMG_6382-Edit-300x300.jpg"
+    },
+    "the Cara": {
+        "productName": "the Cara",
+        "productPrice": "$26.00",
+        "productDescription": "\n\t\tThis classic stripped beanie, ‘the Cara' features a broad cuff and jersey stripe design. It is effortlessly an easy upgrade to any outfit!\n\nFEATURES:\n\nMade in Peru & Uganda\n80% Acrylic / 20% Alpaca\nReverse Jersey Pattern\nFolded Ribbed Cuff\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-cara/",
+        "pageTitle": "'the Cara' striped beanie - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/Cara_BlackLilac_Fit-300x300.jpg"
+    },
+    "the 5207.5": {
+        "productName": "the 5207.5",
+        "productPrice": "$32.00",
+        "productDescription": "\n\t\tNamed after the beach house where it all started, ‘the 5207.5' is one of our most loved beanies. With a snug but slouchy fit, ‘the 5207.5' provides coverage without the bulk, and nostalgia without the mothballs.\n\nFEATURES:\n\nMade in Uganda\nTaller Fit\n20% Wool / 80% Acrylic\nLOVE label\nOne Size Fits Most\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-5207-5/",
+        "pageTitle": "the 5207.5 - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/5207.5_Black_Fit_01-300x300.jpg"
+    },
+    "Pocket Tank in Organic": {
+        "productName": "Pocket Tank in Organic",
+        "productPrice": "$32.00",
+        "productDescription": "\n\t\tA warm weather favorite, our classic Pocket Tank got a 100% organic cotton upgrade. Softer than ever and complete with a knit pocket, wear it tied or long for a summery touch to any outfit.\n\nFEATURES:\n\nMade in Peru\n100% Organic Cotton\nKnit Pocket\nModel is wearing a size Small\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/pocket-tank-organic/",
+        "pageTitle": "Pocket Tank - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/PocketTank_Blue_Fit4-300x300.jpg"
+    },
+    "Painted Lines Tank in Organic": {
+        "productName": "Painted Lines Tank in Organic",
+        "productPrice": "$34.00",
+        "productDescription": "\n\t\tAdd an artful touch to every day in this relaxed tank featuring a refreshing update on the classic stripe. An effortless fit and incredibly soft 100% organic cotton make this tank the laid-back essential you need for every day. \n\nFEATURES:\n\nMade in Peru \n100% Organic Cotton\nScreenprinted graphic\nModel is wearing size Small\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/painted-lines-tank/",
+        "pageTitle": "Graphic Tank | Ethically Made Apparel by Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/PaintedLines_DustyPink_Fit1-300x300.jpg"
+    },
+    "Eva Tank in Organic": {
+        "productName": "Eva Tank in Organic",
+        "productPrice": "$39.00",
+        "productDescription": "\n\t\tTruly timeless, our ‘Eva' tank is features a high neckline, slightly cropped length, and chest pocket. This versatile essential is perfect for pairing with shorts or layering under your favorite cardigan. \n\nFEATURES:\n\nMade in Peru \n100% Organic Cotton\nChest Pocket \nModel is wearing size Small\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/eva-tank/",
+        "pageTitle": "Eva | Pocket Tanks | Shop Ethical Apparel + More Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Eva_Black_Fit2-2-1-300x300.jpg"
+    },
+    "Ariel Tee in Organic": {
+        "productName": "Ariel Tee in Organic",
+        "productPrice": "$48.00",
+        "productDescription": "\n\t\tA modern basic, the ‘Ariel tee is a versatile must-have. Cut from 100% organic cotton, this relaxed silhouette is made in Peru and hand-signed by the lady who made it.\n\nFEATURES:\n\nMade in Peru\n100% Organic Cotton\nRelaxed fit, size down for a more fitted look\nModel is wearing size Small\n\n \n\t",
+        "productUrl": "https://www.krochetkids.org/shop/ariel-tee/",
+        "pageTitle": "Organic Cotton T-Shirt | Ethically Made Apparel by Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/ArielTee_DustyPink_Fit6-2-300x300.jpg"
+    },
+    "Limited Edition Love Tank": {
+        "productName": "Limited Edition Love Tank",
+        "productPrice": "$28.00",
+        "productDescription": "\n\t\tLove is in the air! We created a limited edition tee celebrating LOVE and our global approach to empowerment. Featuring “love” in English, Spanish, and Acholi, this tank is an homage to the countries we work in and women we work alongside. \n\nFEATURES:\n\nMade in Peru\n100% Organic Cotton\nSubtle high-low hem and relaxed fit\nModel is wearing size Medium\n\n \n\t",
+        "productUrl": "https://www.krochetkids.org/shop/limited-edition-love-tank/",
+        "pageTitle": "Organic Cotton T Shirts | Ethical Apparel + More on Krochet Kids",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/LoveAmoreTank_White_Fit_02-copy-300x300.jpg"
+    },
+    "Cassia Tee": {
+        "productName": "Cassia Tee",
+        "productPrice": "$36.00",
+        "productDescription": "\n\t\tInspired by vintage tees, the ‘Cassia' tee is complete with a relaxed crewneck, chest pocket, and a lived-in soft feel. Each tee is cut and sewn from locally sourced materials in Peru. \nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n50% Cotton / 50% Modal\nVintage wash and chest pocket\nModel is wearing size Medium\n\n \n\t",
+        "productUrl": "https://www.krochetkids.org/shop/cassia-tee/",
+        "pageTitle": "Organic Cotton T Shirts | Ethical Apparel + More on Krochet Kids",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Cassia_Burgundy_Fit2-300x300.jpg"
+    },
+    "Reese Skirt": {
+        "productName": "Reese Skirt",
+        "productPrice": "$58.00 $32.00",
+        "productDescription": "\n\t\t‘the Reese' is a pull-on wrap skirt cut from soft and stretchy jersey cotton – you'll want to live in it. We love it with a basic tee or layered under a cozy cardigan.\n\nFEATURES:\n\nMade in Peru\n50% Cotton / 50% Modal\nWrap skirt with elastic waistband\nModel is wearing size Medium\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/reese-skirt/",
+        "pageTitle": "Maxi Skirt | The Reese| Ethical Spring Apparel + More Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Reese_Black_Fit2-copy-300x300.jpg"
+    },
+    "Brea Long Sleeve Tee": {
+        "productName": "Brea Long Sleeve Tee",
+        "productPrice": "$48.00",
+        "productDescription": "\n\t\tA long sleeve tee cut from a super soft cotton/modal blend, the ‘Brea' tee features a subtle high/low hemline, knit placket, and a comfy fit. \nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n50% Cotton / 50% Modal\nKnit Placket\nModel is wearing size Medium\n\n \n\t",
+        "productUrl": "https://www.krochetkids.org/shop/brea-tee/",
+        "pageTitle": "Brea Cropped Henley Tee | Ethical Apparel + More on Krochet Kids",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Brea_Burgundy_Fit-copy-300x300.jpg"
+    },
+    "Odessa Sweatshirt": {
+        "productName": "Odessa Sweatshirt",
+        "productPrice": "$54.00",
+        "productDescription": "\n\t\tA french terry sweatshirt perfect for adventuring, ‘the Odessa' is a mid-weight wonder for cold days. Individually screenprinted by hand, each sweater has a slight variation.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\nScreenprinted graphic with side zippers\n100% Cotton\nModel is wearing size Medium\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/odessa/",
+        "pageTitle": "Odessa Sweatshirt - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Odessa_3-300x300.jpg"
+    },
+    "Teegan Sweater": {
+        "productName": "Teegan Sweater",
+        "productPrice": "$68.00",
+        "productDescription": "\n\t\tThe definition of elevated comfort, ‘the Teegan' sweatshirt features a cozy cowlneck hood, front pocket, and ribbed cuffed sleeves. Complete with the perfect hint of stretch, you'll never want to take it off.\n\nCLICK HERE TO VIEW APPAREL SIZE CHART\nFEATURES:\n\nMade in Peru\n70% Model / 25% Cotton / 5% Spandex\nCowlneck Hoodie\nModel is wearing size Medium\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/teegan-sweater/",
+        "pageTitle": "Teegan Sweater | Shop Ethical Sweatshirts and Apparel on Krochet Kids",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Teegan_Burgundy_Fit2-1.jpg-1-300x300.jpg"
+    },
+    "the Pike Weekender Bag": {
+        "productName": "the Pike Weekender Bag",
+        "productPrice": "$98.00",
+        "productDescription": "\n\t\tInspired by our love for adventure, this weekender bag is essential for a getaway or a long journey. Perfect as a carry on or travel bag, this weekender is a must-have. Made in Peru, ‘the Pike' will help you be ready for anything!\n\nFEATURES:\n\nMade in Peru\nAcrylic Outer/Cotton Canvas Lined\nVegan Leather Straps\n22″ x 10″ x 11″\n\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-pike/",
+        "pageTitle": "the Pike - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/IMG_0689-300x300.jpg"
+    },
+    "the Ridgeview Backpack": {
+        "productName": "the Ridgeview Backpack",
+        "productPrice": "$65.00",
+        "productDescription": "\n\t\tWe've remade our signature ruggedly cool backpack in durable acrylic and polyester with buckle details. Made to last, it's the stuff-it-all-in-and-go bag you'll sling on daily. \n\nFEATURES:\n\n100% Acrylic Outside\n100% Polyester Liner\nKnit pattern flap\nMetal buckle for dual straps\n18″ x 13″ x 4″\nVegan leather logo detail\n\nLEARN MORE ON OUR BLOG!\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-ridgeview-fa15/",
+        "pageTitle": "the Ridgeview Backpack - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Ridgeview_DenimStripe-300x300.jpg"
+    },
+    "the Desert Rose Clutch Purse": {
+        "productName": "the Desert Rose Clutch Purse",
+        "productPrice": "$45.00",
+        "productDescription": "\n\t\tThe vibrant pattern and delicate tassels of ‘the Desert Rose' turn a simple clutch into a work of art. Spice up any ensemble with this clutch in hand.\n\nFEATURES:\n• Made in Peru\n• 100% Acrylic\n• Magnetic-Snap Closure\n• Inner Zipper Pocket\n• 6″ x 11″\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-desert-rose/",
+        "pageTitle": "the Desert Rose - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/DesertRose_Plum_01-300x300.jpg"
+    },
+    "E-Gift Card": {
+        "productName": "E-Gift Card",
+        "productPrice": "$25.00–$100.00",
+        "productDescription": "\n\t\tThis electronic gift card is the perfect way to give the gift of choosing your own present.\nSend this e-gift card to anyone you want, right up until the holidays!\nNOTE: You will not be sent anything in the mail. At checkout you will have the option to send this electronic gift card directly to its recipient via email, or send it to yourself to gift it at a later date.\nAlso, the e-gift card will be associated with the email address it is sent to. Be sure to use that address when you use your store credit.\n\n \n\t",
+        "productUrl": "https://www.krochetkids.org/shop/gift-card/",
+        "pageTitle": "E-Gift Card - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2013/11/Giftcard_Group_web-300x300.jpg"
+    },
+    "Phoenix Scarf": {
+        "productName": "Phoenix Scarf",
+        "productPrice": "$44.00",
+        "productDescription": "\n\t\tMade with the same technique and materials as the best-selling  ‘Phoenix Open Knit Poncho', the ‘Phoenix scarf' is medium-weight and finished with a playful fringe. Wear it open or wrap it twice for extra warmth!\n\nFEATURES:\n\nMade in Peru \n100% Acrylic\nLong, skinny scarf\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/phoenix-scarf/",
+        "pageTitle": "Phoenix Scarf | Ethical Accessories + More on Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/IMG_6519-Edit-300x300.jpg"
+    },
+    "the London": {
+        "productName": "the London",
+        "productPrice": "$44.00",
+        "productDescription": "\n\t\tA thick infinity scarf created to move with you and keep you warm. Knit with a classic soft design and guaranteed to turn heads with intricate and eye-catching patterning. Each product at KK intl. is hand-signed by the lady who made it.\n\nFEATURES:\n\n100% Acrylic\nMetal logo detail\nInfinity scarf\nMade in Peru\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-london/",
+        "pageTitle": "Patterned Scarf - The 'London' | Patterned Scarves + More",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/London_BlackWine_FIt-300x300.jpg"
+    },
+    "the Paisley": {
+        "productName": "the Paisley",
+        "productPrice": "$78.00",
+        "productDescription": "\n\t\tA crocheted infinity scarf made in Uganda from an extra soft alpaca and acrylic blend. Open for a loose fit or wrapped for extra warmth, ‘the Paisley' is perfect during crisp days.\n\nFEATURES:\n\nMade in Uganda\n80% Acrylic/ 20% Alpaca\nCrocheted Infinity Scarf\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-paisley/",
+        "pageTitle": "Long Scarf the 'Paisley' | Shop Winter Accessories + More - Krochet Kids",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/Paisley.silver-300x300.jpg"
+    },
+    "the Nellie": {
+        "productName": "the Nellie",
+        "productPrice": "$48.00 $24.00",
+        "productDescription": "\n\t\t‘the Nellie' is an infinity scarf that's perfect for a breezy day out in the sun or a cozy day in. Extra soft and lightweight, this scarf features an intricate knit lace pattern and can be layered for extra warmth or worn on its own as a complement to any ensemble. Each infinity scarf is carefully made at our empowerment project in Peru and hand-signed by the woman who made it.\n \n\nFEATURES:\n\nMade in Peru\n100% Acrylic\nKnit Lace Pattern\nInfinity Scarf\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-nellie/",
+        "pageTitle": "the Nellie - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/01/Nellie_Lime_Fit-300x300.jpg"
+    },
+    "the Beatrice": {
+        "productName": "the Beatrice",
+        "productPrice": "$68.00",
+        "productDescription": "\n\t\tThis infinity scarf crocheted by our beneficiaries in KK Uganda, ‘the Beatrice’ is made from an extra soft acrylic/alpaca blend. Featuring a stitch design of multiple hues, ‘the Beatrice’ is sure to make a statement.\n\nFEATURES:\n\nMade in Uganda\n80% Acrylic/ 20% Alpaca\nInfinity Scarf\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-beatrice/",
+        "pageTitle": "The 'Beatrice' | Statement Scarf - Women's Accessories by Krochet Kids",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/UV8A5840-300x300.jpg"
+    },
+    "the Camden Scarf": {
+        "productName": "the Camden Scarf",
+        "productPrice": "$48.00 $25.00",
+        "productDescription": "\n\t\tA timeless scarf in just-the-right length, ‘the Camden' is lightweight yet warm enough to keep you cozy on the coldest days.\n\nFEATURES:\n\n80% Acrylic/20% Alapaca\nUnisex\nKnit infinity scarf\nMade in Uganda\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-camden/",
+        "pageTitle": "Knit Scarf: 'the Camden' - Krochet Kids intl. Ethical Fashion",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Camden_HeatherGrey_Fit_01-300x300.jpg"
+    },
+    "the Arizona": {
+        "productName": "the Arizona",
+        "productPrice": "$22.00 $10.00",
+        "productDescription": "\n\t\tMake a statement with our chunky knitted headband, ‘the Arizona'. These bold designs will keep you ahead of the trend all year long.\n\nFEATURES:\n\nMade in Peru\n100% Acrylic\nKnotted Headband\nOne Size Fits Most\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-arizona/",
+        "pageTitle": "the Arizona - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Arizona_Blush_Fit-300x300.jpg"
+    },
+    "the Willa": {
+        "productName": "the Willa",
+        "productPrice": "$15.00 $9.00",
+        "productDescription": "\n\t\t‘the Willa' twisted headband is the perfect piece that looks good and feels good. Made directly from our Cut & Sew department in Peru out of incredibly soft cotton, ‘the Willa' is sure to be a staple in your wardrobe all year long.\n\nFEATURES:\n\nMade in Peru\n100% Cotton Jersey\nTwisted Loop\nCut & Sew Headband\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-willa/",
+        "pageTitle": "Twisted Headband: 'the Willa' - Krochet Kids intl. Ethical Fashion",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/Willow_Mango_Fit-300x300.jpg"
+    },
+    "Joi Headband": {
+        "productName": "Joi Headband",
+        "productPrice": "$24.00 $12.00",
+        "productDescription": "\n\t\tThis knotted headband is the perfect addition to any outfit for a casual look. Our favorite ‘Joi' headband is now here in updated colors just in time for the summer season.  Just like all of our products, this go-to headband represents hope and empowerment for the woman who made it.\n\nFEATURES:\n\nMade in Peru\n100% Viscose from Bamboo\nKnotted Headband\nOne size fits most\nHand-signed by the woman who made it\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-joi/",
+        "pageTitle": "Knotted Headband: 'the Joi' - Krochet Kids intl. Ethical Fashion",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/06/Joi_Black_05-300x300.jpg"
+    },
+    "the Andie": {
+        "productName": "the Andie",
+        "productPrice": "$38.00",
+        "productDescription": "\n\t\tAn infinity scarf that is crafted to inspire hope, ‘the Andie’ is made from 100% acrylic so it naturally moves with you. Designed with thick stripes, this scarf will definitely turn heads. Created by our beneficiaries in Peru and hand-signed by the lady who made it.\n\nFEATURES:\n\nMade in Peru\n100% Acrylic\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-andie/",
+        "pageTitle": "Women's infinity scarves: 'the Andie' - Accessories from Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/Andie_Clay_Fit-300x300.jpg"
+    },
+    "the Stevie": {
+        "productName": "the Stevie",
+        "productPrice": "$24.00 $12.00",
+        "productDescription": "\n\t\t‘the Stevie' is the must-have cold weather accessory. Complete every look with this knotted ear warmer and feel good knowing you're empowering women in Peru.\n\nFEATURES:\n\nMade in Peru\n80% Acrylic / 20% Alpaca\n1 x 1 Rib\nKnot Cinch Detail\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-stevie/",
+        "pageTitle": "the Stevie - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/Stevie_Clay_Fit-300x300.jpg"
+    },
+    "Hayden": {
+        "productName": "Hayden",
+        "productPrice": "$44.00",
+        "productDescription": "\n\t\tEffortless and versatile, the ‘Hayden', can be wrapped a variety of ways. Wear it loose and casual or with a tighter fit for added warmth. It's a long tasseled scarf, hand-crafted by our beneficiaries in Peru and signed by the lady who made it.\n\nFEATURES:\n\nLong, Tasseled Scarf\nStriped Pattern\nMade in Peru\n100% Acrylic\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/hayden/",
+        "pageTitle": "The 'Hayden' - Striped Scarf | Scarves + More on Krochet Kids",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/Hayden_Teal_Fit-300x300.jpg"
+    },
+    "the Annalise": {
+        "productName": "the Annalise",
+        "productPrice": "$58.00 $32.00",
+        "productDescription": "\n\t\tA cable knit scarf made from a soft acrylic, wool, and alpaca blend to maximize on warmth and comfort. ‘the Annalise’ is made in Peru and signed by the woman who made it.\n\nFEATURES:\n\nMade in Peru\n50% Alpaca/ 20% Wool/ 30% Acrylic\nCable Knit Infinity Scarf\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-annalise/",
+        "pageTitle": "Cable Knit Scarf the 'Annalise' | Cable Knits + More on Krochet Kids",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/Annalise.BLK_-300x300.jpg"
+    },
+    "the Odin": {
+        "productName": "the Odin",
+        "productPrice": "$38.00",
+        "productDescription": "\n\t\tWith a thick cable-style knit of wool and alpaca, this refined yet rugged hat is a staff favorite. ‘the Odin' will keep you both hip and cozy.\n\nFEATURES:\n\nMade in Peru\nThick Cable Knit\n50% Alpaca / 50% Wool\nOne Size Fits Most\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-odin/",
+        "pageTitle": "the Odin - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/Odin_HeatherGrey_Fit_01-300x300.jpg"
+    },
+    "the Reed": {
+        "productName": "the Reed",
+        "productPrice": "$32.00",
+        "productDescription": "\n\t\tThe chunky cable knit wide cuff on ‘the Reed' gives it an edge over plain beanies. Made with 20% alpaca wool, it's so soft you'll have trouble taking it off.\n\nFEATURES:\n\nMade in Peru\n80% Acrylic / 20% Alpaca\nCable Stitch\nRibbed Cuff\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-reed/",
+        "pageTitle": "the Reed - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/Reed_Black_Fit_01-300x300.jpg"
+    },
+    "Vaughn": {
+        "productName": "Vaughn",
+        "productPrice": "$32.00",
+        "productDescription": "\n\t\tThe ‘Vaughn' is a cuffed beanie with a unisex fit. Its mixed-blend of baby alpaca, merino wool, and micro tweed with a speckled design and tight knit combine to make this product soft, comfortable and durable. Made by our beneficiaries in Peru, this beanie is a staple for change.\n\nFEATURES:\n\n45% Baby Llama / 45% Merino Wool / 10% Micro Tweed\nCuffed Beanie\nSpeckled Design\nMade in Peru\nUnisex Fit\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/vaughn/",
+        "pageTitle": "Cuffed Beanie | The 'Vaughn' | Men's Beanies + More - Krochet Kids",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/Vaughn_Plum_Fit_01-300x300.jpg"
+    },
+    "the Riley": {
+        "productName": "the Riley",
+        "productPrice": "$24.00",
+        "productDescription": "\n\t\tA classic hat, sure to be a comfortable and stylish companion wherever you find yourself. ‘the Riley' has a slightly taller fit, and it’s made with an alpaca yarn blend!\n\nFEATURES:\n\nMade in Peru & Uganda\n20% Alpaca / 80% Acrylic\nSlouchy Fit\nOne Size Fits Most\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-riley/",
+        "pageTitle": "the Riley - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/Riley_BlackNavyStripe_Fit_01-300x300.jpg"
+    },
+    "the Helm": {
+        "productName": "the Helm",
+        "productPrice": "$22.00 $10.00",
+        "productDescription": "\n\t\t‘the Helm' is our classic cuff beanie constructed at our programs in Northern Uganda. This classic will fit all your beanie needs year round!\n\nFEATURES:\n\nMade in Uganda\n100% Acrylic\nKnit Panels from Kenya\nOne Size Fits Most\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-helm/",
+        "pageTitle": "the Helm - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/M-Helm-Mustard_Fit-2-300x300.jpg"
+    },
+    "Conscious Commerce X KK intl. Beanie": {
+        "productName": "Conscious Commerce X KK intl. Beanie",
+        "productPrice": "$70.00",
+        "productDescription": "\n\t\tWe teamed up with our friends at Conscious Commerce to create limited edition color for the World's Greatest Beanie. This beanies combines functionality, superior quality, and deep consideration for both the planet and the people involved with making it.  Watch the video below to learn about the entire supply chain used to create this one-of-a-kind product.\nDesign. Materials. Transparency.\n\n\nFEATURES::\n\nMade in Peru\n100% Baby Alpaca Beanie\nLearn more about the WGB HERE\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/conscious-commerce-wgb/",
+        "pageTitle": "World's Greatest Beanie: Eco-friendly Baby Alpaca Beanie",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/WGB_Natural_Flat-300x300.jpg"
+    },
+    "the Dylan": {
+        "productName": "the Dylan",
+        "productPrice": "$26.00 $10.00",
+        "productDescription": "\n\t\tA tightly-stitched, textured beanie made from 100% acrylic with just enough stretch to fit warmly, and unique heathered detailing in colors like ‘Bark' and ‘Mahogany,' ‘the Dylan' is ready to take on the great outdoors with you. \n\nFEATURES:\n\nMade in Peru\n100% Acrylic\nTextured Cuff Beanie\nHeathered Colors\nUnisex\n\n \n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-dylan/",
+        "pageTitle": "The \"Dylan\" | Knit Beanie | Winter Headwear + More on Krochet Kids",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/Dylan_MilitaryMelange_Fit_01-300x300.jpg"
+    },
+    "the Harrison": {
+        "productName": "the Harrison",
+        "productPrice": "$30.00 $10.00",
+        "productDescription": "\n\t\tA laid-back cuffed beanie, ‘the Harrison' is equal parts cozy and cool. A fitted style complete with a textured look, it's a staple for cooler days.\n\nFEATURES:\n\n100% Acrylic\nTextured cuff beanie\nMade in Peru\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-harrison/",
+        "pageTitle": "the Harrison - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/Harrison_Eggshell_Fit_01-300x300.jpg"
+    },
+    "Angular Crew Sweater": {
+        "productName": "Angular Crew Sweater",
+        "productPrice": "$75.00",
+        "productDescription": "\n\t\t‘The Angular Crew' features a modern geometric design made from Peruvian sourced cotton and poly fleece lining. The crew sweatshirt is a great piece for layering on chillier days, making it an must-have.\n\nFEATURES:\n\n50% Peruvian Sourced Cotton, 50% Polyester\nCrewneck Sweatshirt\nFleece Lined\nMade in Peru\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/angular-crew/",
+        "pageTitle": "Angular Crew Sweater - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/M_AngularCrew_Olive_Fit-300x300.jpg"
+    },
+    "Dalton Tee in Organic": {
+        "productName": "Dalton Tee in Organic",
+        "productPrice": "$42.00",
+        "productDescription": "\n\t\tYour go-to for elevated comfort. ‘the Dalton is a a super soft 100% organic cotton tee completed with a pocket and just-right fit.\n\nFEATURES:\n\nMade in Peru\n100% Organic Cotton\nPremium Cut & Sew\nPocket Shirt\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/dalton-tee-organic/",
+        "pageTitle": "Ethical Shirts for Men - Shop the Dalton tee at Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Dalton_Blue_Fit4-300x300.jpg"
+    },
+    "Get Outside Tee in Organic": {
+        "productName": "Get Outside Tee in Organic",
+        "productPrice": "$32.00",
+        "productDescription": "\n\t\tTime to get outside. The ‘Get Outside' tee is a a super soft 100% organic cotton tee complete with a wanderlust-inspired graphic.\n\nFEATURES:\n\nMade in Peru\n100% Organic Cotton\nPremium Cut & Sew\nModel wearing size Medium\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/get-outside-tee/",
+        "pageTitle": "Ethical Shirts for Men - Shop the Get Outside tee at Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/GetOutside_Iron_Fit1-300x300.jpg"
+    },
+    "LOVE Africa Classic Tee": {
+        "productName": "LOVE Africa Classic Tee",
+        "productPrice": "$24.00",
+        "productDescription": "\n\t\tThe LOVE Africa Tee was created to honor the continent where we began our work. Each tee is made in Peru, representing the global impact and scope of our work and features the classic LOVE Africa logo.\nCLICK HERE TO VIEW APPAREL SIZE\n\nFEATURES:\n\nMade in Peru\n50% Cotton / 50% Polyester\nCrew Neck\nPre-Washed\n\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/love-africa-classic-mens/",
+        "pageTitle": "LOVE Africa Shirt | Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2013/10/7Z4A7184-2-300x300.jpg"
+    },
+    "LOVE Africa Graphic Tee": {
+        "productName": "LOVE Africa Graphic Tee",
+        "productPrice": "$24.00",
+        "productDescription": "\n\t\tThe LOVE Africa tee is a true symbol of change. An homage to Africa, the continent where we started our work, and made in Peru, it is a testament to the global scope of our work. Each tee features a small chest graphic with the classic LOVE Africa logo.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES::\n\nMade in Peru\n100% Cotton\nCrew Neck\nPre-Washed\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/love-tee-mens/",
+        "pageTitle": "LOVE Africa Shirt | Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2013/10/7Z4A7165-2-300x300.jpg"
+    },
+    "the Standard Tee Mens Black": {
+        "productName": "the Standard Tee Mens Black",
+        "productPrice": "$20.00",
+        "productDescription": "\n\t\tA standard is a level of quality. It’s a threshold of achievement. A standard holds permanent value. The perennial importance of a t-shirt meets our enduring empowerment and sustainable impact. Introducing our exciting new line – ‘the Standard Tee'. Order your shirt today and begin empowerment with us.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n100% Peruvian Sourced Cotton\nCrew Neck\nRed Signature Stitch\n\nLEARN MORE SPECIAL PRICING & BULK ORDERING\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-standard-tee-mens-black/",
+        "pageTitle": "the Standard Tee Mens Black - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2015/04/M_Standard_Black_Fit-300x300.jpg"
+    },
+    "Detroit": {
+        "productName": "Detroit",
+        "productPrice": "$36.00",
+        "productDescription": "\n\t\tCool and understated, this 100% cotton tee has custom textured wash, making each shirt uniquely patterned for the unique individual.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\n100% Cotton\nTexture Wash\nMade in Peru\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-detroit/",
+        "pageTitle": "Detroit - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/M_Detroit_Black_Fit_02-300x300.jpg"
+    },
+    "Maxwell Tee": {
+        "productName": "Maxwell Tee",
+        "productPrice": "$34.00",
+        "productDescription": "\n\t\tGet the best of both worlds with stripes and pockets in ‘the Maxwell'. This striped tee was made at our empowerment project in Peru and is individually signed by the woman who made it.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n50% Cotton/50% Poly Jersey, 100% Cotton Jersey\nStriped Pocket Tee\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/maxwell/",
+        "pageTitle": "Maxwell Tee - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/M_Maxwell_HeatherGrey_Fit_1-300x300.jpg"
+    },
+    "the Standard Tee Mens White": {
+        "productName": "the Standard Tee Mens White",
+        "productPrice": "$20.00",
+        "productDescription": "\n\t\tA standard is a level of quality. It’s a threshold of achievement. A standard holds permanent value. The perennial importance of a t-shirt meets our enduring empowerment and sustainable impact. Introducing our exciting new line – ‘the Standard Tee'.\nPre-order your shirt today and begin empowerment with us.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n100% Peruvian Sourced Cotton\nCrew Neck\nRed Signature Stitch\n\nLEARN MORE SPECIAL PRICING & BULK ORDERING\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-standard-tee-mens-white/",
+        "pageTitle": "the Standard Tee Mens White - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2015/04/M_Standard_White_Fit-300x300.jpg"
+    },
+    "Asher Tee": {
+        "productName": "Asher Tee",
+        "productPrice": "$38.00",
+        "productDescription": "\n\t\tClassic and lightweight — the'Asher' tee is all about the contemporary man with clear-cut taste. This comfortable jersey pocket is shirt perfect for your every day. All of our tees are direct from our premium ‘Cut & Sew' department in Peru and hand-signed by the woman who made it.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n100% Cotton Jersey\nPremium Cut & Sew\nPocket Shirt\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/asher/",
+        "pageTitle": "Pocket Tee: 'Asher' - Krochet Kids int. Ethical Fashion",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/01/M_Asher_BlackWhite_Fit-300x300.jpg"
+    },
+    "Duncan": {
+        "productName": "Duncan",
+        "productPrice": "$65.00",
+        "productDescription": "\n\t\tA cozy 100% cotton French Terry sweatshirt with carefully constructed details from fitted pockets to a triangle-stitched crew neck, the unbelievably soft lining will make this impossible to take off. Continue to move the message of sustainable impact with our sweater this season.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\n100% Cotton\nFleece lined\nTexture wash\nMade in Peru\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-duncan/",
+        "pageTitle": "Duncan - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/M_Duncan_Black_Fit_01-300x300.jpg"
+    },
+    "Pocket Tank": {
+        "productName": "Pocket Tank",
+        "productPrice": "$30.00 $15.00",
+        "productDescription": "\n\t\tThe ‘Pocket Tank' is a KKi classic, with a twist. Check out the new knit pocket designs!\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n100% Cotton\nRelaxed Fit\nKnit Pocket (on select styles)\nPre-Shrunk\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/pocket-tank-mens/",
+        "pageTitle": "Pocket Tank - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/M_PocketTank_HeatherGreyBlack_Fit-300x300.jpg"
+    },
+    "Hudson": {
+        "productName": "Hudson",
+        "productPrice": "$58.00",
+        "productDescription": "\n\t\tThe ‘Hudson' is a lightweight hooded long sleeve that's perfect for cool mornings and evenings. It's also great layered under a jacket for added warmth without adding bulk. Made at our empowerment project in Peru, every product is hand signed by the woman who made it.\n\nFEATURES:\n\nMade in Peru\n50% Cotton, 50% Polyester\nHenley Hoodie\nLightweight Material\nModel is wearing size Large\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/hudson/",
+        "pageTitle": "'the Hudson' hooded long sleeve - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/M_Hudson_Black_Fit-300x300.jpg"
+    },
+    "the Standard Tee Mens Heather Grey": {
+        "productName": "the Standard Tee Mens Heather Grey",
+        "productPrice": "$20.00",
+        "productDescription": "\n\t\tA standard is a level of quality. It’s a threshold of achievement. A standard holds permanent value. The perennial importance of a t-shirt meets our enduring empowerment and sustainable impact. Introducing our exciting new line – ‘the Standard Tee.'  Pre-order your shirt today and begin empowerment with us.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\n50% Poly / 50% Peruvian Sourced Cotton\nCrew Neck\nRed Signature Stitch\n\nLEARN MORE SPECIAL PRICING & BULK ORDERING\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-standard-tee-mens-heather-grey/",
+        "pageTitle": "the Standard Tee Mens Heather Grey - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2015/04/M_Standard_HeatherGrey_Fit-300x300.jpg"
+    },
+    "Pocket Crew Sweater Men’s": {
+        "productName": "Pocket Crew Sweater Men’s",
+        "productPrice": "$55.00 $32.00",
+        "productDescription": "\n\t\tThis is one of our favorite products we have ever produced. We added our famous knit pocket to our incredibly soft sweaters, and the entire garment is made and signed by our beneficiaries in Peru. The ‘Pocket Sweater' is the future of empowerment.\nCLICK HERE TO VIEW APPAREL SIZE CHART\n\nFEATURES:\n\nMade in Peru\nUnisex Sizing\nKnit Pocket\nRegular Fit\n50% Poly / 46% Cotton / 4% Rayon\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/pocket-crew-mens/",
+        "pageTitle": "Pocket Crew Sweater | Men's Crew Neck Sweater | Krochet Kids Apparel",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/M_PocketCrew_BlackSequoia_Fit-300x300.jpg"
+    },
+    "5 Sticker Pack": {
+        "productName": "5 Sticker Pack",
+        "productPrice": "$5.00",
+        "productDescription": "\n\t\tExtend the message of Krochet Kids intl. beyond your articles of clothing with a sticker pack.\n* FREE SHIPPING when you order stickers only *\n\nFEATURES:\n\n5 Stickers Per Order\nRandom Assortment\nDecals & Vinyl Stickers\n100% Awesome\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/assorted-sticker-pack/",
+        "pageTitle": "5 Sticker Pack - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2013/01/STICKER_COLLECTIONLAY_06-300x300.jpg"
+    },
+    "the Lincoln": {
+        "productName": "the Lincoln",
+        "productPrice": "$22.00 $16.00",
+        "productDescription": "\n\t\t‘the Lincoln' is hand crocheted in Uganda, and is guaranteed to earn you the most compliments at the party. The adjustable strap allows it to fit almost any neck size. A classy addition for any occasion.\n\nFEATURES:\n\nMade in Uganda\n100% Viscose from Bamboo\nAdjustable Cotton Strap\nOne Size Fits Most\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-lincoln/",
+        "pageTitle": "the Lincoln - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/M-Lincoln_Grey_Fit-300x300.jpg"
+    },
+    "the Kitten": {
+        "productName": "the Kitten",
+        "productPrice": "$24.00",
+        "productDescription": "\n\t\tYour little kitten will look all kinds of adorable in this crocheted hat, complete with two standing ears. This super cute beanie, ‘the Kitten' comes in a variety of colors and is hand-signed by the lady who made it.\n\nFEATURES:\n\nMade in Uganda\n100% Acrylic\nClassic Fit\nTwo Sizes\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/kitten/",
+        "pageTitle": "Kitten Hat | Children's Headwear + More Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/Kitty_Black-300x300.jpg"
+    },
+    "Little Wolf": {
+        "productName": "Little Wolf",
+        "productPrice": "$24.00",
+        "productDescription": "\n\t\tThe next addition to the animal pack, ‘the Little Wolf’ is the perfect hat to make your little one smile. This wolf hat is the perfect cap to keep your little one's ears warm all day. \n\nFEATURES:\n\nMade in Uganda \n100% Acrylic\nClassic Fit\nTwo Sizes\n\n \n\t",
+        "productUrl": "https://www.krochetkids.org/shop/wolf/",
+        "pageTitle": "Wolf Hat | Children's Headwear + More Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/Little_Wolf_2-300x300.jpg"
+    },
+    "Handpicked Hoots": {
+        "productName": "Handpicked Hoots",
+        "productPrice": "$28.00 $10.00",
+        "productDescription": "\n\t\tOur favorite children's beanie just got a whole lot cuter! We invited the ladies in our program at KK Uganda to sort through our excess yarn, choose a their favorite colors, and create a ‘Hoot' owl beanie with their choices. Each beanie is a little different and they come in a variety of surprise colors to brighten up the winter season. Just choose your size and we'll send you a hand-picked hoot in a surprise color! Crocheted in Uganda, every hat is hand-signed by the woman who made it.\n\nFEATURES:\n\nMade in Uganda\n55% Acrylic / 45% Cotton\nEarflaps & Tassles\nTwo Sizes\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/handpicked-hoots/",
+        "pageTitle": "Handpicked Hoots - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/Hoot-300x300.jpg"
+    },
+    "the Margot Jr.": {
+        "productName": "the Margot Jr.",
+        "productPrice": "$18.00",
+        "productDescription": "\n\t\tYou probably didn’t think it was possible to pack all the cuteness of ‘the Margot’ hat into a smaller version, but we have done it! The little ladies will love this crocheted hat with the floral detail. Guaranteed.\nSIZING:\nXS/S (ages 0-1): 20 inch circumference\nM/L (ages 2 & up): 22.5 inch circumference\n\nFEATURES:\n\nMade in Uganda\n80% Acrlyic / 20% Wool\nFloral Detail\n100% Cute\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-margot-jr/",
+        "pageTitle": "the Margot Jr. - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/IMG_5923-300x300.jpg"
+    },
+    "the Davis Jr.": {
+        "productName": "the Davis Jr.",
+        "productPrice": "$20.00",
+        "productDescription": "\n\t\tYour kid is sure to be the cutest one on the block in ‘the David Jr.” Comfy and fun, this beanie is ready to take on adventures with your little one.\nSIZING:\nXS/S (ages 0-2): 20 inch circumference\nM/L (ages 2 & up): 22 inch circumference\n\nFEATURES:\n\nMade in Peru\n100% Acrylic\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-davis-jr/",
+        "pageTitle": "the Davis Jr. - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/Davis_Jr_Grey_4-300x300.jpg"
+    },
+    "the Snow Daze": {
+        "productName": "the Snow Daze",
+        "productPrice": "$24.00",
+        "productDescription": "\n\t\tA go-to beanie for any little world-changer. Features the word ‘Snow' knit into the beanie.\nSIZING:\nOne Size (ages 2 & up): 22 inch circumference\n\nFEATURES:\n\nMade in Peru\n100% Acrylic\n‘Snow' Pattern\nAttached Pom-Pom\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-snow-daze/",
+        "pageTitle": "the Snow Daze. - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/IMG_5978-300x300.jpg"
+    },
+    "the Sophia Jr.": {
+        "productName": "the Sophia Jr.",
+        "productPrice": "$22.00",
+        "productDescription": "\n\t\tWith a featured ruched detail and feminine colors, ‘the Sophia Jr.' is both functional and stylish. Jealous of your child's style? Purchase the accompanying ‘Sophia' style and you can match!\n\nFEATURES:\n\nMade in Uganda\n100% Acrylic\nKnotted Ruched Detail\nFitted Beanie\n\n\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-sophia-jr/",
+        "pageTitle": "the Sophia Jr. - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/Sophia_Jr_2-300x300.jpg"
+    },
+    "the Fox": {
+        "productName": "the Fox",
+        "productPrice": "$24.00",
+        "productDescription": "\n\t\tFollowing the success of ‘the Hoot' and ‘the Teddy,' ‘the Fox' is ready to join the animal pack. Let your little one run wild but keep them warm with this fitted beanie featuring ear details!\n\nFEATURES:\n\nMade in Uganda\n100% Acrylic\nMeasurements:\nAcross the top, under the ears: XS/S: 6″, M/L: 6.25″\nAcross the bottom: XS/S: 7.5″, M/L: 8″\nTop to bottom: XS/S: 5.5″, M/L: 7.5″\n\n \n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-fox/",
+        "pageTitle": "the Fox - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/Fox-300x300.jpg"
+    },
+    "the Teddy": {
+        "productName": "the Teddy",
+        "productPrice": "$24.00 $10.00",
+        "productDescription": "\n\t\tBears big and small need to keep their ears warm whether preparing for hibernation or emerging for the next Spring. ‘the Teddy' lets our little cubs run wild and stay warm!\nSIZING:\nXS/S (ages 0-1): 20 inch circumference\nM/L (ages 2 & up): 22.5 inch circumference\n\nFEATURES:\n\nMade in Uganda\nNylon/Acrylic Blend\nClassic Fit\nTwo Sizes\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-teddy/",
+        "pageTitle": "the Teddy - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/Teddy_Brown-300x300.jpg"
+    },
+    "the Newborn": {
+        "productName": "the Newborn",
+        "productPrice": "$16.00",
+        "productDescription": "\n\t\tThe newest member to your friend or family circle can start changing the world from day one when they wear their new hat. Start them off right in ‘the Newborn' beanie.\nSIZING:\n15 in. circumference\n\nFEATURES:\n\nMade in Peru\n100% Acrylic\nCustom Woven Label\nOne Size Fits Most\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-newborn/",
+        "pageTitle": "the Newborn - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Newborn_Blush_Flat-300x300.jpg"
+    },
+    "the Panda": {
+        "productName": "the Panda",
+        "productPrice": "$24.00 $10.00",
+        "productDescription": "\n\t\tWe've added ‘the Panda' to our children's animal hat collection! This hat is guaranteed to be your little one's favorite, due to its super-soft feel and fun panda bear ears.\n\nFEATURES:\n• Made in Uganda\n• 100% Acrylic\n• Poms Attached\n• Two Sizes\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/panda/",
+        "pageTitle": "the Panda - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/Panda-300x300.jpg"
+    },
+    "the Hoot": {
+        "productName": "the Hoot",
+        "productPrice": "$28.00 $10.00",
+        "productDescription": "\n\t\tIf our collection of children’s headwear was a team, ‘the Hoot' beanie would be its mascot. This adorable owl hat is sure to be a favorite for the little ones in your life!\nSIZING:\nXS/S (ages 0-2): 21.5 inch circumference\nM/L (ages 2 & up): 23 inch circumference\n\nFEATURES:\n\nMade in Uganda\n55% Acrylic / 45% Cotton\nEarflaps & Tassles\nTwo Sizes\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-hoot/",
+        "pageTitle": "'the Hoot' Owl Hat - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/Hoot_3-300x300.jpg"
+    },
+    "the Abby Jr.": {
+        "productName": "the Abby Jr.",
+        "productPrice": "$24.00",
+        "productDescription": "\n\t\tSIZING:\nXS/S (ages 0-2): 20 inch circumference\nM/L (ages 2 & up): 22 inch circumference\n\nFEATURES:\n\nMade in Peru\n100% Acrylic\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-abby-jr/",
+        "pageTitle": "the Abby Jr. - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/Abby_Blush-300x300.jpg"
+    },
+    "the Betty Jr.": {
+        "productName": "the Betty Jr.",
+        "productPrice": "$20.00",
+        "productDescription": "\n\t\t‘the Betty Jr.' is our famous beanie shrunk down a few sizes so you can finally accessorize your mini me!\nSIZING:\nXS/S (ages 0-1): 20 inch circumference\nM/L (ages 2 & up): 22.5 inch circumference\n\nFEATURES:\n\nMade in Uganda\nNylon/Acrylic Blend\nClassic Fit\nTwo Sizes\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-betty-jr/",
+        "pageTitle": "the Betty Jr. - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/Betty_Pink-300x300.jpg"
+    },
+    "Poketo x KK intl. Limited Edition Kids Beanie": {
+        "productName": "Poketo x KK intl. Limited Edition Kids Beanie",
+        "productPrice": "$32.00",
+        "productDescription": "\n\t\tWe're always excited to have new partners in empowering others. Designed by Poketo, this limited edition kids beanie is made thoughtfully by our beneficiaries in Uganda and Peru in an exclusive black and white knit with orange pom. It’s soft, stylish, and playful, perfect for any occasion! Add a touch of creativity to your little ones wardrobe now! \n\nFEATURES:\n\nMade in Peru & Uganda\n100% Acrylic\nExclusive Collaboration with Poketo\nRecommended for ages 2 & up\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/poketo-x-kk-intl-limited-edition-kids-beanie/",
+        "pageTitle": "Limited Edition Kids Beanie | Poketo x KKintl | Kids Limited Edition",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/PoketoxKKintlJr-300x300.jpg"
+    },
+    "Fox Stuffed Animal": {
+        "productName": "Fox Stuffed Animal",
+        "productPrice": "$35.00",
+        "productDescription": "\n\t\tGive your little ones something to cuddle this Christmas season! New to our kids collection, add our stuffed animal Fox to your family and empower the lady who made it. Crocheted in Uganda, each stuffed animal is hand-signed by the lady who made it.\n\nFEATURES:\n\nMade in Uganda\nDimensions approx. 7x6x4″\n100% Cotton\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/fox-stuffed-animal/",
+        "pageTitle": "Fox Stuffed Animal - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/7Z4A9740-300x300.jpg"
+    },
+    "Owl Stuffed Animal": {
+        "productName": "Owl Stuffed Animal",
+        "productPrice": "$35.00",
+        "productDescription": "\n\t\tGive your little ones something to cuddle this season! New to our kids collection, add our stuffed animal Owl to your family and empower the lady who made it. Crocheted in Uganda, each stuffed animal is hand-signed by the lady who made it.\n\nFEATURES:\n\nMade in Uganda\nDimensions approx. 7x6x4″\n100% Cotton\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/owl-stuffed-animal/",
+        "pageTitle": "Owl Stuffed Animal - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/7Z4A9773-300x300.jpg"
+    },
+    "Teddy Stuffed Animal": {
+        "productName": "Teddy Stuffed Animal",
+        "productPrice": "$35.00",
+        "productDescription": "\n\t\tEveryone loves a classic. The ‘Teddy' stuffed animal is guaranteed to make your little one smile. Crocheted in Uganda, each stuffed animal is hand-signed by the lady who made it.\n\nFEATURES:\n\nMade in Uganda\nDimensions approx. 7x6x4″\n100% Cotton\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/teddy-stuffed-animal/",
+        "pageTitle": "Teddy Stuffed Animal - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/blackbear-300x300.jpg"
+    },
+    "Kitty Stuffed Animal": {
+        "productName": "Kitty Stuffed Animal",
+        "productPrice": "$35.00",
+        "productDescription": "\n\t\tA favorite for little ones, the ‘Kitty' stuffed animal is perfect for hugging. Crocheted in Uganda, each stuffed animal is hand-signed by the lady who made it.\n\nFEATURES:\n\nMade in Uganda\nDimensions approx. 7x6x4″\n100% Cotton\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/kitty-stuffed-animal/",
+        "pageTitle": "Kitty Stuffed Animal - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/7Z4A9747-300x300.jpg"
+    },
+    "Panda Stuffed Animal": {
+        "productName": "Panda Stuffed Animal",
+        "productPrice": "$35.00",
+        "productDescription": "\n\t\tGive your little ones something to cuddle! New to our kids collection, add our stuffed animal Panda to your family and empower the lady who made it. Crocheted in Uganda, each stuffed animal is hand-signed by the lady who made it.\n\nFEATURES:\n\nMade in Uganda\nDimensions approx. 7x6x4″\n100% Cotton\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/panda-stuffed-animal/",
+        "pageTitle": "Panda Stuffed Animal - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/7Z4A9762-300x300.jpg"
+    },
+    "Penguin Stuffed Animal": {
+        "productName": "Penguin Stuffed Animal",
+        "productPrice": "$35.00",
+        "productDescription": "\n\t\tGive your little ones something to cuddle! New to our kids collection, add our stuffed animal Penguin to your family and empower the lady who made it. Crocheted in Uganda, each stuffed animal is hand-signed by the lady who made it.\n\nFEATURES:\n\nMade in Uganda\nDimensions approx. 7x6x4″\n100% Cotton\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/penguin-stuffed-animal/",
+        "pageTitle": "Penguin Stuffed Animal - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/7Z4A9759-300x300.jpg"
+    },
+    "Baby Shoes": {
+        "productName": "Baby Shoes",
+        "productPrice": "$28.00 $14.00",
+        "productDescription": "\n\t\tIt's never too early to be a world changer. Set your little ones off on the right foot with our crochet baby booties. The soft acrylic wool blend will keep your baby's feet warm and comfortable while also empowering the woman in Uganda who made them.\n\nFEATURES:\n\n80% Acrylic / 20% Wool\n0-1 Years\nCrochet\nMade in Uganda\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/baby-shoes/",
+        "pageTitle": "Crochet Baby Booties: 'Baby Shoes' - Krochet Kids intl. Ethical Fashion",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/BabyShoes_Khaki_Flat-300x300.jpg"
+    },
+    "the Moccasins": {
+        "productName": "the Moccasins",
+        "productPrice": "$28.00",
+        "productDescription": "\n\t\tNot only will these mini moccasins keep your little one warm and snuggly, but they directly support our beneficiaries in Uganda. No age is too young to start changing the world.\nSIZING:\nRecommended for 0-1 year olds.\n\nFEATURES:\n\nMade in Uganda\n80% Acrylic / 20% Wool\nSlip-On\nOne Size Fits Most\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/moccasins/",
+        "pageTitle": "the Moccasins - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2015/07/Moccasins-Black_Flat2-300x300.jpg"
+    },
+    "the Tyler": {
+        "productName": "the Tyler",
+        "productPrice": "$22.00",
+        "productDescription": "\n\t\tOne of our softest scarves yet! ‘the Tyler' will keep your little friends warm and on trend without causing any itchiness. The only downside? You'll wish it was big enough for you.\n\nFEATURES:\n\nMade in Peru\n100% Acrylic\n6 in. x 51 in.\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/the-tyler/",
+        "pageTitle": "the Tyler - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/Tyler_2-300x300.jpg"
+    },
+    "Woven Wall Hanging in Mountaintop": {
+        "productName": "Woven Wall Hanging in Mountaintop",
+        "productPrice": "$50.00",
+        "productDescription": "\n\t\tPerfect for a gallery wall or hanging alone, each woven wall hanging is individually made in Uganda. A true work of art, each piece is a testament to the capabilities of the women we work alongside. Hang it with pride knowing you are making a positive impact on communities in Uganda and Peru.\n\nFEATURES:\n\nMade in Uganda\nDimensions approx. 10″ X 20″\nIncludes wooden dowel for hanging\nEach piece is made by hand, some variation may occur.\n100% Acryclic\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/wall-hanging-mountaintop/",
+        "pageTitle": "Woven Wall Hanging in Mountaintop - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/wallhanging_1-300x300.jpg"
+    },
+    "Woven Wall Hanging in Ocean Mist": {
+        "productName": "Woven Wall Hanging in Ocean Mist",
+        "productPrice": "$50.00",
+        "productDescription": "\n\t\tPerfect for a gallery wall or hanging alone, each woven wall hanging is individually made in Uganda. A true work of art, each piece is a testament to the capabilities of the women we work alongside. Hang it with pride knowing you are making a positive impact on communities in Uganda and Peru. \n\nFEATURES:\n\nMade in Uganda\nDimensions approx. 10″ x 16″\nIncludes wooden dowel for hanging\n Each piece is made by hand, some variation may occur.\n100% Acryclic\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/woven-wall-hanging-in-ocean-mist/",
+        "pageTitle": "Woven Wall Hanging in Ocean Mist - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/wallhanging_3-300x300.jpg"
+    },
+    "Woven Wall Hanging in Sunrise": {
+        "productName": "Woven Wall Hanging in Sunrise",
+        "productPrice": "$50.00",
+        "productDescription": "\n\t\tPerfect for a gallery wall or hanging alone, each woven wall hanging is individually made in Uganda. A true work of art, each piece is a testament to the capabilities of the women we work alongside. Hang it with pride knowing you are making a positive impact on communities in Uganda and Peru.\n\nFEATURES:\n\nMade in Uganda\nDimensions approx. 9.5″ x 17″”\nIncludes wooden dowel for hanging\nEach piece is made by hand, some variation may occur.\n100% Acryclic\n\n\t",
+        "productUrl": "https://www.krochetkids.org/shop/woven-wall-hanging-in-sunrise/",
+        "pageTitle": "Woven Wall Hanging in Sunrise - Krochet Kids intl.",
+        "imageUrl": "https://krochetkids-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/wallhanging_2-300x300.jpg"
+    }
+}
