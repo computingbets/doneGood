@@ -11,8 +11,7 @@ urls = [
   'https://www.buythechangeusa.org/all-jewelry',
   'https://www.buythechangeusa.org/kantha',
   'https://www.buythechangeusa.org/all-accessories',
-  'https://www.buythechangeusa.org/gift-sets',
-  'https://urbanegallant.com/c/vests'
+  'https://www.buythechangeusa.org/gift-sets'
 
 ]
 
@@ -30,9 +29,9 @@ Promise.map(urls, function(url){
 	// Here is the access to the product page listings
 	pages.forEach(function($){
 		// This code here grabs the url from each listing, and then pushes that url into the pageUrls array
-	  $('div.content > a').each(function(index, elem){
-	    var productUrl = 'https://www.buythechangeusa.org' + $(elem).children().first().attr("href");
-      console.log(productUrl);
+  	  $('h2.title > a').each(function(index, elem){
+	    var productUrl = 'https://www.buythechangeusa.org' + $(elem).attr('href');
+      //console.log(productUrl);
 	    pageUrls.push(productUrl);
 	  });
 	})
@@ -60,12 +59,12 @@ Promise.map(urls, function(url){
 
 		  // This is where the specific queries are written to get all the info you need
 		  // Can even get all the meta data, google how to get a pages meta data from Jquery
-		  productName = $('.title').children().first().text();
+		  productName = $('h2.title > a').text();
       //$('p.price > span').text();
-      productDescription = $('.field.field-name-field-description.field-type-text-long.field-label-hidden').children().first().next().text();
+      productDescription = $('div.field-item.even').eq(2).text();
       productPrice = $('.field.field-name-commerce-price.field-type-commerce-price.field-label-hidden').children().first().text();
       pageTitle = $('title').text();
-		  imageUrl = $('.field.field-name-field-image.field-type-image.field-label-hidden').children().first().next().src("img");
+		  imageUrl = $('.field.field-name-field-image.field-type-image.field-label-hidden').children().first().next().attr("src");
 
       //keywords.push(key1,key2,key3,key4,key5);
       // Store all the info we found into the results array
