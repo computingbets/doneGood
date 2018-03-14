@@ -64,7 +64,7 @@ Promise.map(urls, function(url){
       productDescription = $('div.field-item.even').eq(2).text();
       productPrice = $('.field.field-name-commerce-price.field-type-commerce-price.field-label-hidden').children().first().text();
       pageTitle = $('title').text();
-		  imageUrl = $('.field.field-name-field-image.field-type-image.field-label-hidden').children().first().next().attr("src");
+		  imageUrl = $('img').eq(2).attr('src');
 
       //keywords.push(key1,key2,key3,key4,key5);
       // Store all the info we found into the results array
