@@ -57,16 +57,17 @@ Promise.map(urls, function(url){
 		  // Can even get all the meta data, google how to get a pages meta data from Jquery
       keywords = [];
       //$('.selDiv option[value="SEL1"]')
-      key1 = $('#pa_scent option[value=rosemary-mint-vanilla]').text();
-      key2 = $('#pa_scent option[value=citrus-lavender]').text();
-		  productName = $('.product-title').text();
+      key1 = $('.color_pick').attr('name');
+      key2 = $('.color_pick').eq(1).attr('name');
+      key3 = $('.color_pick').eq(2).attr('name');
+		  productName = $('h1').text();
       //$('p.price > span').text();
-      productDescription = $('.product-short-description').text();
-      productPrice = $('.price').text();
+      productDescription = $('#short_description_content > p').text();
+      productPrice = $('#our_price_display').text();
       pageTitle = $('title').text();
-		  imageUrl = $('woocommerce-product-gallery__image slide.first is-selected').children().first().attr('href');
+		  imageUrl = $('.fancybox.shown').attr('href');
 
-      keywords.push(key1, key2);
+      keywords.push(key1, key2, key3);
       // Store all the info we found into the results array
 		  results[productName] = {
 		    'productName': productName,
@@ -75,7 +76,7 @@ Promise.map(urls, function(url){
 		    'productUrl': productUrl,
 		    'pageTitle': pageTitle,
 		    'imageUrl': imageUrl,
-        'keywords': keywords
+        'keywords: color': keywords
 		  };
 
 		})
