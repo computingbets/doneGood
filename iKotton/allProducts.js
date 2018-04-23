@@ -8,11 +8,7 @@ var Promise = require('bluebird');
 * This is a two step scraping method. First identify all the pages on a website that list products. Put all of those links into the URL array below
 */
 urls = [
-  'https://www.plaineproducts.com/product-category/products/travel-sample/',
-  'https://www.plaineproducts.com/product-category/products/body-lotion/',
-  'https://www.plaineproducts.com/product-category/products/shampoo/',
-  'https://www.plaineproducts.com/product-category/products/shampoo/page/2/'
-
+  'https://www.ikotton.com/12-products'
 ]
 
 Promise.map(urls, function(url){
@@ -29,8 +25,8 @@ Promise.map(urls, function(url){
 	// Here is the access to the product page listings
 	pages.forEach(function($){
 		// This code here grabs the url from each listing, and then pushes that url into the pageUrls array
-  	  $('.image-fade_in_back').each(function(index, elem){
-	    var productUrl = $(elem).children().first().attr('href');
+  	  $('.product_img_link.product_img').each(function(index, elem){
+	    var productUrl = $(elem).attr('href');
       //console.log(productUrl);
 	    pageUrls.push(productUrl);
 	  });
@@ -68,7 +64,7 @@ Promise.map(urls, function(url){
       productDescription = $('.product-short-description').text();
       productPrice = $('.price').text();
       pageTitle = $('title').text();
-		  imageUrl = $('.wp-post-image').attr('src');
+		  imageUrl = $('woocommerce-product-gallery__image slide.first is-selected').children().first().attr('href');
 
       keywords.push(key1, key2);
       // Store all the info we found into the results array
