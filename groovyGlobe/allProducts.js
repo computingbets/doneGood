@@ -5,7 +5,7 @@ var Promise = require('bluebird');
 
 
 urls = [
-  'https://thekozm.com/shop/'
+  'http://groovyglobe.net/shop/'
 ]
 
 Promise.map(urls, function(url){
@@ -24,12 +24,10 @@ Promise.map(urls, function(url){
     // This code here grabs the url from each listing, and then pushes that url into the pageUrls array
     $('div.frame').each(function(index, elem){
     var productUrl = $(elem).children().first().attr('href');
-    $('.product-index__single').each(function(index, elem){
-      var productUrl = $(elem).attr("href");
       // II: So here I'm grabbing the imageUrl as well. But, now the challenge is I have to pass two pieces of data into an Array,
       // this is because Promises can only return ONE variable (which is the pageUrls array). To do this, I made a new object called productObj where I stored
       // both the productUrl and the imageUrl and pushed the object into the pageUrls array.
-      var imageUrl = $(elem).find('div.product-index__image img').attr('src');
+      var imageUrl = $(elem).find('img').attr('src')
       var productObj = {
         productUrl: productUrl,
         imageUrl: imageUrl
@@ -69,17 +67,17 @@ Promise.map(urls, function(url){
       imageUrl = response[2];
 
       // II: Your query was fine, but it contained some raw HTML line breaks, which looks ugly. So I found a different location to grab cleaner text.
-      productName = $('.product-responsive-title > h1').text();
-      productPrice = $('.woocommerce-Price-amount.amount').first().text();
+      productName = $('h3').first().text();
+      productPrice = $('.price').text();
           //$('p.price > span').text();
-      productDescription = $('.product-details').children().first().next().text();
+      productDescription = $('p').first().next().next().next().text()
       pageTitle = $('title').text();
       //keywords = $('.active').children().first().next().text().slice(70, 145);
       //keywordsArr.push(keywords);
       //imageUrl = $('a[TabIndex*="0"]').attr("href");
       // Store all the info we found into the results object
       // II: changing the results[productName] to results[productUrl] as I think productUrl is more likely to be a unique identifier.
-      results[productUrl] = {
+      results[productName] = {
         'productName': productName,
         'productPrice': productPrice,
         'productDescription': productDescription,
