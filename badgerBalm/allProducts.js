@@ -44,15 +44,15 @@ Promise.map(urls, function(url){
 	// Here is the access to the product page listings
 	pages.forEach(function($){
 		// This code here grabs the url from each listing, and then pushes that url into the pageUrls array
-    $('.productlist-item-link').each(function(index, elem){
-    var productUrl = $(elem).attr('href');
-      console.log(productUrl);
+    $('.grid-item-image-wrap').each(function(index, elem){
+    var productUrl = 'https://www.badgerbalm.com' + $(elem).children().first().attr('href');
+      //console.log(productUrl);
 	    pageUrls.push(productUrl);
 
-      var imageUrl = $(elem).find('div.product-index__image img').attr('src');
+      var category = $(elem).find('div.text-center').text();
       var productObj = {
         productUrl: productUrl,
-        imageUrl: imageUrl
+        category: category
       };
       pageUrls.push(productObj);
 	  });
@@ -62,13 +62,13 @@ Promise.map(urls, function(url){
 .then(function(pageUrls){
 	Promise.map(pageUrls, function(urlObj){
     var url = urlObj.productUrl;
-    var imgUrl = urlObj.imageUrl;
+    var category = urlObj.category;
     var options = {
       uri: url,
       transform: function(body){
         // II: Here we're stuck again because Promises can only return ONE variable. So I'm storing everything in an array again.
         // Notice I added imgUrl to the array too. Before it was just [url, cheerio.load(body)]. This is how we pass the imageUrl along all the way to the end.
-        return [url, cheerio.load(body), imgUrl];
+        return [url, cheerio.load(body), category];
 			}
 		}
 		return Promise.delay(20, rp(options));
@@ -83,12 +83,11 @@ Promise.map(urls, function(url){
 		  productUrl = response[0];
 		  $ = response[1];
 
-      category = $();
-		  productName = $('.product-title.entry-title').text();
-      productPrice = $('.price.product-page-price').text();
-      productDescription = $('.product-short-description').text();
+		  productName = $('.product-page-header').text();
+      productPrice = $('.variant-price').text();
+      productDescription = $('#productinfo li').text();
       pageTitle = $('title').text();
-		  imageUrl = $('.wp-post-image').attr('src');
+		  imageUrl = 'https://www.badgerbalm.com' + $('.hidden-md.hidden-lg').children().first().attr('src');
 
       //keywords.push(key1, key2, key3);
       // Store all the info we found into the results array
